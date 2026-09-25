@@ -1,0 +1,12 @@
+{
+  "dumped_string_constants": 2327,
+  "dumped_unique_strings": 1284,
+  "recovered_string_literals": 2327,
+  "recovered_unique_strings": 1284,
+  "matched_occurrences": 2327,
+  "missing_occurrences": 0,
+  "extra_occurrences": 0,
+  "coverage_percent": 100.0,
+  "missing": [],
+  "extra": []
+}

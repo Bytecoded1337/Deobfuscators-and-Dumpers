@@ -1,0 +1,2327 @@
+P0:K0 Options
+P0:K1 Toggles
+P0:K2 ShowToggleFrameInKeybinds
+P0:K4 ShowCustomCursor
+P0:K6 NotifySide
+P0:K7 Left
+P0:K8 game
+P0:K9 GetService
+P0:K10 ReplicatedStorage
+P0:K11 Players
+P0:K12 LocalPlayer
+P0:K13 RunService
+P0:K14 Workspace
+P0:K15 VirtualInputManager
+P0:K16 Character
+P0:K17 Humanoid
+P0:K18 FindFirstChild
+P0:K19 HumanoidRootPart
+P0:K20 CharacterAdded
+P0:K21 Connect
+P0:K22 Files
+P0:K23 WaitForChild
+P0:K24 Framework
+P0:K25 Network
+P0:K26 RemoteFunction
+P0:K27 Cleanup Duty
+P0:K28 Hold the line
+P0:K29 Hold the Line
+P0:K30 Aftermath detail
+P0:K31 Aftermath Detail
+P0:K32 CreateWindow
+P0:K33 Title
+P0:K34 Neptune - Devil Hunter
+P0:K35 Color3
+P0:K36 fromRGB
+P0:K41 Center
+P0:K42 AutoShow
+P0:K43 Resizable
+P0:K44 UnlockMouseWhileOpen
+P0:K45 TabPadding
+P0:K47 MenuFadeTime
+P0:K49 AutoFarm
+P0:K50 AddTab
+P0:K51 Main
+P0:K52 Combat
+P0:K53 Visual
+P0:K54 Player
+P0:K55 Raid
+P0:K56 UI Settings
+P0:K57 AddLeftGroupbox
+P0:K58 Teleport
+P0:K59 Eternity Devil Raid
+P0:K60 AddRightGroupbox
+P0:K61 Katana Devil Raid
+P0:K62 Cool Raid Stuff
+P0:K63 GodMode
+P0:K64 AddLabel
+P0:K65 No Position Set
+P0:K66 AddButton
+P0:K67 Text
+P0:K68 Set Position
+P0:K69 Func
+P0:K70 AddToggle
+P0:K71 godModeV2
+P0:K72 GodMode V2
+P0:K73 Default
+P0:K74 Callback
+P0:K75 AddInput
+P0:K76 raidMainName
+P0:K77 
+P0:K78 Numeric
+P0:K79 Finished
+P0:K80 ClearTextOnFocus
+P0:K81 Main Player Name
+P0:K82 Tooltip
+P0:K83 Main Account to Send into Raid
+P0:K84 Placeholder
+P0:K85 Input Player name
+P0:K86 raidAltName
+P0:K87 Alt Player Name
+P0:K88 Alt Account to Auto Accept Invite
+P0:K89 AddDropdown
+P0:K90 raidType
+P0:K91 Values
+P0:K92 Eternity
+P0:K93 Katana
+P0:K94 Zombie
+P0:K96 Multi
+P0:K97 Raid Name
+P0:K98 CFrame
+P0:K99 new
+P0:K102 DialogName
+P0:K103 Mysterious Hotel
+P0:K107 Yakuza Infiltration
+P0:K111 Zombie Devil Warehouse
+P0:K112 infiniteRaid
+P0:K113 Auto Launch Raid [Alt Account]
+P0:K114 infiniteAltRaid
+P0:K115 Auto Launch Raid [Main Account]
+P0:K116 AddDivider
+P0:K117 Manual Use Only
+P0:K118 AddSlider
+P0:K119 healthPercent
+P0:K120 Health Percent
+P0:K121 Min
+P0:K123 Max
+P0:K125 Rounding
+P0:K126 Compact
+P0:K127 InfiniteLive
+P0:K128 Auto Void Yourself
+P0:K129 Current Floor: Unknown
+P0:K130 autofloor
+P0:K131 Auto Floor
+P0:K132 xRaid
+P0:K133 x
+P0:K136 yRaid
+P0:K137 y
+P0:K138 zRaid
+P0:K139 z
+P0:K141 Open All Door
+P0:K142 KeyEsp
+P0:K143 Key Esp
+P0:K144 Tp to Key
+P0:K145 Tp to Vault
+P0:K146 Tp to Safe Room
+P0:K147 Tp to Boss Room
+P0:K148 Zombie Raid
+P0:K149 Katana-Man Raid
+P0:K150 Eternity Raid
+P0:K151 Auto Farm
+P0:K152 Void Mob
+P0:K153 Mob Farm
+P0:K154 Mastery Farm
+P0:K155 punchingBag
+P0:K156 Farm Punching Bag
+P0:K157 task
+P0:K158 spawn
+P0:K159 spamParry
+P0:K160 Spam Parry
+P0:K161 distanceFarmMob
+P0:K162 Distance From Mob
+P0:K164 maxFarmDistance
+P0:K165 Max Farm Distance
+P0:K169 mobFarm
+P0:K170 Farm Mob
+P0:K171 Auto Quest
+P0:K172 FarmMode
+P0:K173 Intercept
+P0:K174 Create
+P0:K175 Mode
+P0:K176 Mission Rewards : 
+P0:K177 RewardsLabel
+P0:K178 AddDependencyBox
+P0:K179 InterceptDelay
+P0:K180 Intercept delay
+P0:K183 playerName
+P0:K184 Player To Intercept
+P0:K185 Alt Account to intercept
+P0:K186 AutoIntercept
+P0:K187 Auto-Intercept
+P0:K188 Auto Get Lootbox
+P0:K189 MissionType
+P0:K190 Mission Type
+P0:K191 MissionLocation
+P0:K192 Loading...
+P0:K193 Location
+P0:K194 MissionModifiers
+P0:K195 Bloodlust
+P0:K196 Flawless
+P0:K197 Contract Lock
+P0:K198 Stifle
+P0:K199 Blind Path
+P0:K200 Recall
+P0:K201 Modifiers
+P0:K202 MissionDelay
+P0:K203 Mission delay
+P0:K204 EnhancedCleanup
+P0:K205 Enhanced Cleanup Duty
+P0:K206 Better item pickup/turn-in - works on all locations
+P0:K207 EnhancedAftermath
+P0:K208 Enhanced Aftermath Detail
+P0:K209 Improved trash/body handling (works best with Residential Area)
+P0:K210 StayOnPoint
+P0:K211 Goes underground when mobs spawn to avoid damage
+P0:K212 NetworkCheck
+P0:K213 Network Check
+P0:K214 DistanceVoid
+P0:K215 Distance
+P0:K218 Distance For Voiding Entities
+P0:K219 Void
+P0:K220 Void Entities Within Distance [Selected]
+P0:K221 DisabledTooltip
+P0:K222 I am disabled!
+P0:K223 Disabled
+P0:K224 Visible
+P0:K225 Risky
+P0:K226 freezeMob
+P0:K227 Freeze Mob
+P0:K228 Freeze entities Within Distance [Selected]
+P0:K229 DistanceGrabMax
+P0:K230 Distance Max For Grabbing
+P0:K231 Distance For Grabbing Entities Max
+P0:K232 DistanceGrab
+P0:K233 Distance Mob
+P0:K234 Distance For putting Entities
+P0:K235 grabMob
+P0:K236 Bring Mob
+P0:K237 Bring Entities Within Distance [Selected]
+P0:K238 SetupDependencies
+P0:K239 Player Farm
+P0:K240 Player utils
+P0:K241 Player Auto
+P0:K242 LootBox
+P0:K243 Npc Teleport
+P0:K244 Auto Eat
+P0:K245 WIPE YOURSELF
+P0:K246 Auto Discard
+P0:K247 Common
+P0:K248 itemRarities
+P0:K249 Uncommon
+P0:K250 Rare
+P0:K251 Epic
+P0:K252 Legendary
+P0:K253 Rarity To Discard
+P0:K254 Show Potential Discarded Items
+P0:K255 DoubleClick
+P0:K256 Discard Selected Items
+P0:K257 WIPE YOURSELF BE CAUTIOUS
+P0:K258 eatList
+P0:K259 Heart
+P0:K260 Arm
+P0:K261 Eye
+P0:K262 Leg
+P0:K263 Common Devil Flesh
+P0:K264 Uncommon Devil Flesh
+P0:K265 Rare Devil Flesh
+P0:K266 Epic Devil Flesh
+P0:K267 Eat List
+P0:K268 autoEat
+P0:K269 All in the title digga[7PX is a skidder]
+P0:K270 Some Npc doesnt spawn if your not within range
+P0:K271 npcList
+P0:K272 Refresh List of Npc
+P0:K273 Npc List
+P0:K274 Refresh Npc List
+P0:K275 TP to Selected Npc
+P0:K276 AutoBox
+P0:K277 Auto Open LootBox
+P0:K278 AutoHit
+P0:K279 Auto Hit
+P0:K280 AutoCrit
+P0:K281 Auto Critical
+P0:K282 Auto Critical M1
+P0:K283 AutoEquip
+P0:K284 Auto Equip
+P0:K285 Auto Equip Weapon
+P0:K286 SemiGod
+P0:K287 AutoDodge
+P0:K288 Doesnt work on all attack, its a 50/50
+P0:K289 AutoCarry
+P0:K290 Auto Carry
+P0:K291 Auto Carry People
+P0:K292 AutoGrip
+P0:K293 Auto Grip
+P0:K294 Auto Grip People
+P0:K295 AutoSurgery
+P0:K296 Auto Surgery Kit
+P0:K297 Open Pawn Shop
+P0:K298 Open Black Market
+P0:K299 Open Crafting Menue
+P0:K300 playerListFarm
+P0:K301 Refresh Player
+P0:K302 Player List
+P0:K303 InventoryViewer
+P0:K304 Select a Player
+P0:K305 Inventory viewer
+P0:K306 Refresh Players List
+P0:K307 distanceFarmPlayer
+P0:K308 playerFarm
+P0:K309 Farm Player [WARNING]
+P0:K310 Dont Forget to setup Distance to your liking
+P0:K311 Fly
+P0:K312 WASD + Space/Ctrl to move
+P0:K313 AddKeyPicker
+P0:K314 FlyKeybind
+P0:K315 F1
+P0:K316 Toggle
+P0:K317 Fly Keybind
+P0:K318 SyncToggleState
+P0:K319 NoClip
+P0:K320 noClip
+P0:K321 F2
+P0:K322 Noclip
+P0:K323 FlySpeed
+P0:K324 Fly Speed
+P0:K325 WalkSpeed
+P0:K326 walkspeed
+P0:K327 All in the name
+P0:K328 WSKeybind
+P0:K329 F3
+P0:K330 WS Keybind
+P0:K331 WalkSpeedSlider
+P0:K332 WalkSpeed Value
+P0:K334 AntiVoid
+P0:K335 Anti Void
+P0:K336 Prevents falling into void
+P0:K337 OnChanged
+P0:K338 OnClick
+P0:K339 Heartbeat
+P0:K340 Player Esp Section
+P0:K341 ESP_Master
+P0:K342 Enabled
+P0:K343 ESP_TeamCheck
+P0:K344 Team Check
+P0:K345 ESP_Box
+P0:K346 Boxes
+P0:K347 ESP_BoxType
+P0:K348 Corner
+P0:K349 Box
+P0:K350 Type
+P0:K351 ESP_Health
+P0:K352 Healthbar
+P0:K353 ESP_HealthPos
+P0:K354 Right
+P0:K355 Top
+P0:K356 Bottom
+P0:K357 Position
+P0:K358 ESP_HealthStart
+P0:K359 AddColorPicker
+P0:K360 ESP_HealthMid
+P0:K361 ESP_HealthEnd
+P0:K362 ESP_HealthWidth
+P0:K363 Healthbar Thickness
+P0:K365 ESP_Posture
+P0:K366 Posture Bar
+P0:K367 ESP_PosturePos
+P0:K369 ESP_PostureColor
+P0:K372 ESP_PostureWidth
+P0:K373 Posture Thickness
+P0:K374 ESP_Name
+P0:K375 Name
+P0:K376 ESP_NameColor
+P0:K379 ESP_NameSize
+P0:K380 Name Size
+P0:K383 ESP_Rank
+P0:K384 Rank
+P0:K385 ESP_Weapon
+P0:K386 Weapon
+P0:K387 ESP_WeaponColor
+P0:K388 ESP_WeaponSize
+P0:K389 Weapon Size
+P0:K390 ESP_Distance
+P0:K391 ESP_DistanceColor
+P0:K392 ESP_DistanceSize
+P0:K393 Distance Size
+P0:K394 ServerSkeleton
+P0:K395 Skeleton
+P0:K396 ServerSkeletonColor
+P0:K397 ServerSkeletonWidth
+P0:K398 Skeleton Thickness
+P0:K401 ESP_Chams
+P0:K402 Chams
+P0:K403 ESP_ChamsColor
+P0:K406 ESP_ChamsTransparency
+P0:K407 Chams Transparency
+P0:K408 Mob ESP Section
+P0:K409 Mob_Master
+P0:K410 Mob_Box
+P0:K411 Mob_BoxType
+P0:K412 Mob_Health
+P0:K413 Mob_HealthPos
+P0:K414 Mob_HealthStart
+P0:K415 Mob_HealthMid
+P0:K416 Mob_HealthEnd
+P0:K417 Mob_HealthWidth
+P0:K418 Mob_Name
+P0:K419 Mob_NameColor
+P0:K420 Mob_NameSize
+P0:K421 Name Text Size
+P0:K422 Mob_Distance
+P0:K423 Mob_DistanceColor
+P0:K424 Mob_DistanceSize
+P0:K425 Distance Text Size
+P0:K426 Mob_Chams
+P0:K427 Mob_ChamsColor
+P0:K428 Chams Color
+P0:K429 Mob_ChamsTransparency
+P0:K430 RemoteEvent
+P0:K431 rbxassetid://83170627744442
+P0:K433 rbxassetid://99785834052081
+P0:K434 rbxassetid://129319150158146
+P0:K435 rbxassetid://75114926121591
+P0:K436 rbxassetid://72795592997118
+P0:K437 rbxassetid://84882180540900
+P0:K438 rbxassetid://91695353081923
+P0:K439 rbxassetid://91841671178746
+P0:K441 rbxassetid://102225002431566
+P0:K442 rbxassetid://98961744431023
+P0:K443 rbxassetid://114393492422894
+P0:K444 rbxassetid://72716101431005
+P0:K445 rbxassetid://85964235716367
+P0:K447 rbxassetid://138301923963329
+P0:K448 rbxassetid://87069745086938
+P0:K449 rbxassetid://97144244689985
+P0:K450 rbxassetid://86092141229505
+P0:K451 rbxassetid://131943611612712
+P0:K452 rbxassetid://77032242569772
+P0:K453 rbxassetid://123304488838885
+P0:K454 rbxassetid://95592305575287
+P0:K456 rbxassetid://97504155433185
+P0:K457 rbxassetid://137901650114553
+P0:K458 rbxassetid://71420013211462
+P0:K459 rbxassetid://73189775256758
+P0:K460 rbxassetid://102790860802603
+P0:K461 rbxassetid://90303043747701
+P0:K463 rbxassetid://73033593102525
+P0:K464 rbxassetid://89307684071889
+P0:K465 rbxassetid://115670609737438
+P0:K466 rbxassetid://127716005072935
+P0:K467 rbxassetid://106719097885109
+P0:K468 rbxassetid://125351403307657
+P0:K469 rbxassetid://87673107583059
+P0:K470 rbxassetid://99589308896321
+P0:K471 rbxassetid://93712797216935
+P0:K472 rbxassetid://90648436096048
+P0:K473 rbxassetid://106187325444182
+P0:K474 rbxassetid://113014104453621
+P0:K475 rbxassetid://139174098471434
+P0:K477 rbxassetid://118176169991277
+P0:K478 rbxassetid://89332566098222
+P0:K479 rbxassetid://125571123165138
+P0:K480 rbxassetid://125936250279691
+P0:K481 rbxassetid://134137542280552
+P0:K482 rbxassetid://139513647256700
+P0:K484 rbxassetid://114630509263415
+P0:K485 rbxassetid://109871824431204
+P0:K486 rbxassetid://113429385792170
+P0:K487 rbxassetid://139374816012669
+P0:K488 rbxassetid://78842969890728
+P0:K489 rbxassetid://81424669180469
+P0:K490 rbxassetid://84893282137796
+P0:K491 rbxassetid://127656671537189
+P0:K492 rbxassetid://95099034924342
+P0:K493 rbxassetid://101953583082493
+P0:K494 rbxassetid://88809233843821
+P0:K495 rbxassetid://131731230162076
+P0:K496 rbxassetid://101604973817807
+P0:K497 rbxassetid://72880223582562
+P0:K498 rbxassetid://133205147259868
+P0:K499 rbxassetid://113268215947804
+P0:K500 rbxassetid://100896894192926
+P0:K501 rbxassetid://131376945188225
+P0:K502 rbxassetid://137815370488524
+P0:K503 rbxassetid://97177191680752
+P0:K504 rbxassetid://115797906268659
+P0:K505 rbxassetid://108574344758700
+P0:K507 rbxassetid://116057799213168
+P0:K508 rbxassetid://87415953393018
+P0:K509 rbxassetid://116531395203011
+P0:K510 rbxassetid://83821056766741
+P0:K511 rbxassetid://80951747681281
+P0:K512 rbxassetid://100288926167133
+P0:K513 rbxassetid://102597139088834
+P0:K514 rbxassetid://134181836683161
+P0:K515 rbxassetid://129855748333858
+P0:K516 rbxassetid://98392933263355
+P0:K517 rbxassetid://106013309621307
+P0:K518 rbxassetid://104268439363335
+P0:K520 rbxassetid://133512548611881
+P0:K521 rbxassetid://76827947490912
+P0:K522 rbxassetid://99419457549732
+P0:K523 rbxassetid://84627135360921
+P0:K524 rbxassetid://78957003094677
+P0:K525 rbxassetid://105542119244161
+P0:K526 rbxassetid://88464980239593
+P0:K527 rbxassetid://89332259138333
+P0:K528 rbxassetid://126621054776220
+P0:K529 rbxassetid://134212846921544
+P0:K530 rbxassetid://123135962827332
+P0:K532 rbxassetid://112091281860543
+P0:K533 rbxassetid://73086768097069
+P0:K534 rbxassetid://89859217236874
+P0:K535 rbxassetid://138838982277418
+P0:K536 rbxassetid://78555663054449
+P0:K537 rbxassetid://101582769423497
+P0:K538 rbxassetid://103523914939071
+P0:K539 rbxassetid://110237638234814
+P0:K540 rbxassetid://133973256915688
+P0:K541 rbxassetid://122357751973562
+P0:K542 rbxassetid://96430744634231
+P0:K544 rbxassetid://112280382670167
+P0:K545 rbxassetid://126257103110325
+P0:K546 rbxassetid://70550631174539
+P0:K547 rbxassetid://71244457428229
+P0:K548 rbxassetid://113834682033104
+P0:K549 rbxassetid://93431132327822
+P0:K551 rbxassetid://133853808650941
+P0:K552 rbxassetid://116937962567393
+P0:K553 rbxassetid://121073263747297
+P0:K554 rbxassetid://76781925254248
+P0:K555 rbxassetid://98375305489054
+P0:K556 rbxassetid://78653732575949
+P0:K557 rbxassetid://120048428697484
+P0:K559 rbxassetid://93357544618400
+P0:K560 rbxassetid://99361142840295
+P0:K561 rbxassetid://78520899606944
+P0:K562 rbxassetid://116907204347021
+P0:K563 rbxassetid://81298915826190
+P0:K564 rbxassetid://118375375261508
+P0:K565 rbxassetid://94912992248206
+P0:K566 rbxassetid://84360547187663
+P0:K567 rbxassetid://117614545746430
+P0:K568 rbxassetid://101362557536797
+P0:K569 rbxassetid://110275308607388
+P0:K570 rbxassetid://105124819044081
+P0:K571 rbxassetid://73600840318198
+P0:K572 rbxassetid://99728779063625
+P0:K573 rbxassetid://82791907545703
+P0:K574 rbxassetid://86706569396350
+P0:K575 rbxassetid://119071326400759
+P0:K577 rbxassetid://95187086967174
+P0:K578 rbxassetid://127265672754416
+P0:K579 rbxassetid://81093093791947
+P0:K580 rbxassetid://115096781003171
+P0:K581 rbxassetid://93891386436024
+P0:K582 rbxassetid://118258669929146
+P0:K583 rbxassetid://89475662129258
+P0:K584 rbxassetid://117416560814575
+P0:K585 rbxassetid://82402970804238
+P0:K586 rbxassetid://115840883662190
+P0:K587 rbxassetid://101268939874208
+P0:K589 rbxassetid://118339406620980
+P0:K590 rbxassetid://135802138221890
+P0:K591 rbxassetid://119537814529732
+P0:K592 rbxassetid://126943584876522
+P0:K593 rbxassetid://132423234621948
+P0:K594 rbxassetid://130627039807199
+P0:K595 rbxassetid://95241696138937
+P0:K596 rbxassetid://84546143799899
+P0:K597 rbxassetid://111678403609788
+P0:K598 rbxassetid://76907916800109
+P0:K599 rbxassetid://88529291334531
+P0:K600 rbxassetid://88515182783630
+P0:K601 rbxassetid://78940054179950
+P0:K602 rbxassetid://83707871739410
+P0:K603 rbxassetid://89947536068263
+P0:K604 rbxassetid://91342131793707
+P0:K605 rbxassetid://87276698608760
+P0:K607 rbxassetid://112832095441188
+P0:K608 rbxassetid://92559491465927
+P0:K609 rbxassetid://102596372833810
+P0:K610 rbxassetid://135219429513260
+P0:K611 rbxassetid://111619494197919
+P0:K612 rbxassetid://84790818560573
+P0:K613 rbxassetid://88055010695849
+P0:K614 rbxassetid://116948609204236
+P0:K615 rbxassetid://117416838233330
+P0:K616 rbxassetid://130187498552231
+P0:K617 rbxassetid://99528925126794
+P0:K618 rbxassetid://72371046889893
+P0:K619 rbxassetid://80639118737924
+P0:K620 rbxassetid://110406562971902
+P0:K621 rbxassetid://108494510731610
+P0:K622 rbxassetid://123499498138784
+P0:K623 rbxassetid://83003081767769
+P0:K624 rbxassetid://134695284376391
+P0:K625 rbxassetid://94495302830576
+P0:K626 rbxassetid://72652968192920
+P0:K627 rbxassetid://126452972160118
+P0:K628 rbxassetid://79103146300355
+P0:K629 rbxassetid://108437140304259
+P0:K630 rbxassetid://92347535171309
+P0:K632 rbxassetid://103478794733427
+P0:K633 rbxassetid://77311081382802
+P0:K634 rbxassetid://119794946808722
+P0:K635 rbxassetid://118374669758371
+P0:K636 rbxassetid://108797839748822
+P0:K637 rbxassetid://117196948797125
+P0:K638 rbxassetid://96430107593955
+P0:K639 rbxassetid://79294213380648
+P0:K640 rbxassetid://128641773780380
+P0:K641 rbxassetid://124983172519493
+P0:K642 rbxassetid://119366440833103
+P0:K643 rbxassetid://116781362921741
+P0:K644 rbxassetid://124298892076543
+P0:K645 rbxassetid://126406892829032
+P0:K646 rbxassetid://107049572669140
+P0:K647 rbxassetid://89263693539259
+P0:K648 rbxassetid://72929563687421
+P0:K649 FistSwing1
+P0:K650 FistSwing2
+P0:K651 FistSwing3
+P0:K652 FistSwing4
+P0:K653 FistRunningAttack
+P0:K654 FistCritical
+P0:K655 FistAerial
+P0:K656 DevilCrusherCritical
+P0:K657 DevilCrusherSwing4
+P0:K658 DevilCrusherSwing3
+P0:K659 DevilCrusherSwing2
+P0:K660 DevilCrusherSwing1
+P0:K661 FleshbreakerSwing1
+P0:K662 FleshbreakerSwing2
+P0:K663 FleshbreakerSwing3
+P0:K664 FleshbreakerSwing4
+P0:K665 AtlasSwing4
+P0:K666 AtlasSwing3
+P0:K667 AtlasSwing2
+P0:K668 AtlasSwing1
+P0:K669 DaggerSwing1
+P0:K670 DaggerSwing2
+P0:K671 DaggerSwing3
+P0:K672 DaggerSwing4
+P0:K673 DaggerRunningAttack
+P0:K674 DaggerCritical
+P0:K675 BloodFiendSwing1
+P0:K676 BloodFiendSwing2
+P0:K677 BloodFiendSwing3
+P0:K678 BloodFiendSwing4
+P0:K679 DualDaggerRunningAttack
+P0:K680 DualDaggerCritical
+P0:K681 UndeadSickleSwing1
+P0:K682 UndeadSickleSwing2
+P0:K683 UndeadSickleSwing3
+P0:K684 UndeadSickleSwing4
+P0:K685 UndeadSickleRunningAttack
+P0:K686 UndeadSickleCritical
+P0:K687 LocustCritical
+P0:K688 SwordSwing1
+P0:K689 SwordSwing2
+P0:K690 SwordSwing3
+P0:K691 SwordSwing4
+P0:K692 SwordRunningAttack
+P0:K693 SwordCritical
+P0:K694 YamadaSwing4
+P0:K695 YamadaSwing3
+P0:K696 YamadaSwing2
+P0:K697 YamadaSwing1
+P0:K698 YamadaRunningAttack
+P0:K699 YukimuraCritical
+P0:K700 NailSwordCritical
+P0:K701 NailSwordSwing3
+P0:K702 NailSwordSwing2
+P0:K703 NailSwordSwing1
+P0:K704 NailSwordSwing4
+P0:K705 NailSwordRunningAttack
+P0:K706 ScarletQueenSwing4
+P0:K707 ScarletQueenSwing3
+P0:K708 ScarletQueenSwing2
+P0:K709 ScarletQueenSwing1
+P0:K710 ScarletQueenCritical
+P0:K711 DualSwordSwing4
+P0:K712 DualSwordSwing3
+P0:K713 DualSwordSwing2
+P0:K714 DualSwordSwing1
+P0:K715 MurasamaSwing4
+P0:K716 MurasamaSwing3
+P0:K717 MurasamaSwing2
+P0:K718 MurasamaSwing1
+P0:K719 MurasamaRunningAttack
+P0:K720 MurasamaUnsheatheCritical
+P0:K721 RotbladeSwing4
+P0:K722 RotbladeSwing3
+P0:K723 RotbladeSwing2
+P0:K724 RotbladeSwing1
+P0:K725 RotbladeRunningAttack
+P0:K726 RotbladeCritical
+P0:K727 5YearSwordSwing4
+P0:K728 5YearSwordSwing3
+P0:K729 5YearSwordSwing2
+P0:K730 5YearSwordSwing1
+P0:K731 5YearSwordCriticalAttack
+P0:K732 5YearSwordRunningAttack
+P0:K733 10YearSwordSwing4
+P0:K734 10YearSwordSwing3
+P0:K735 10YearSwordSwing2
+P0:K736 10YearSwordSwing1
+P0:K737 10YearSwordCriticalAttack
+P0:K738 100YearSwordSwing4
+P0:K739 100YearSwordSwing3
+P0:K740 100YearSwordSwing2
+P0:K741 100YearSwordSwing1
+P0:K742 100YearSwordRunningAttack
+P0:K743 100YearSwordCriticalAttack
+P0:K744 SealedWorldSwing4
+P0:K745 SealedWorldSwing3
+P0:K746 SealedWorldSwing2
+P0:K747 SealedWorldSwing1
+P0:K748 SealedWorldCritical
+P0:K749 AxeSwing1
+P0:K750 AxeSwing2
+P0:K751 AxeSwing3
+P0:K752 AxeSwing4
+P0:K753 AxeRunningAttack
+P0:K754 AxeCritical
+P0:K755 FirearmSwing4
+P0:K756 FirearmSwing2
+P0:K757 FirearmSwing1
+P0:K758 FirearmSwing3
+P0:K759 FirearmRunningAttack
+P0:K760 FirearmCritical
+P0:K761 GreenshotCritical
+P0:K762 UziCritical
+P0:K763 UziSwing4
+P0:K764 UziSwing3
+P0:K765 UziSwing2
+P0:K766 UziSwing1
+P0:K767 Cross PunisherSwing4
+P0:K768 Cross PunisherSwing3
+P0:K769 Cross PunisherSwing2
+P0:K770 Cross PunisherSwing1
+P0:K771 Cross PunisherRunningAttack
+P0:K772 Cross PunisherWeaponSwing1
+P0:K773 Cross PunisherWeaponSwing2
+P0:K774 Cross PunisherWeaponSwing3
+P0:K775 Cross PunisherWeaponSwing4
+P0:K776 Cross PunisherWeaponRunAttack
+P0:K777 Cross PunisherCritical
+P0:K778 Cross PunisherWeaponCritical
+P0:K779 AK47Swing4
+P0:K780 AK47Swing3
+P0:K781 AK47Swing2
+P0:K782 AK47Swing1
+P0:K783 BrainsplasherSwing4
+P0:K784 BrainsplasherSwing3
+P0:K785 BrainsplasherSwing2
+P0:K786 BrainsplasherSwing1
+P0:K787 BrainsplasherCritical
+P0:K788 Uppercut
+P0:K789 KickOffUppercut
+P0:K790 GreatweaponSwing4
+P0:K791 GreatweaponSwing2
+P0:K792 GreatweaponSwing1
+P0:K793 GreatweaponSwing3
+P0:K794 GreatweaponRunningAttack
+P0:K795 GreatweaponCritical
+P0:K796 Cursed LanceSwing4
+P0:K797 Cursed LanceSwing3
+P0:K798 Cursed LanceSwing2
+P0:K799 Cursed LanceSwing1
+P0:K800 CursedLanceCriticalAttack
+P0:K801 RotandRuinSwing4
+P0:K802 RotandRuinSwing3
+P0:K803 RotandRuinSwing1
+P0:K804 RotandRuinSwing2
+P0:K805 RotandRuinCritical
+P0:K806 ScissorBladeSwing4
+P0:K807 ScissorBladeSwing3
+P0:K808 ScissorBladeSwing2
+P0:K809 ScissorBladeSwing1
+P0:K810 ScissorBladeCritical
+P0:K811 RazorHalberdSwing4
+P0:K812 RazorHalberdSwing2
+P0:K813 RazorHalberdSwing1
+P0:K814 RazorHalberdSwing3
+P0:K815 RazorHalberdCritical
+P0:K816 HammerSwing4
+P0:K817 HammerSwing3
+P0:K818 HammerSwing2
+P0:K819 HammerSwing1
+P0:K820 PunkHazardCritical
+P0:K821 SealedFangSwing4
+P0:K822 SealedFangSwing3
+P0:K823 SealedFangSwing2
+P0:K824 SealedFangSwing1
+P0:K825 SealedFangCritical
+P0:K826 RushKick
+P0:K827 KatanaHybridSwing1
+P0:K828 KatanaHybridSwing2
+P0:K829 KatanaHybridSwing3
+P0:K830 KatanaHybridSwing4
+P0:K831 KatanaHybridCritical
+P0:K832 NailFiendSwing1
+P0:K833 NailFiendSwing2
+P0:K834 NailFiendSwing3
+P0:K835 NailFiendSwing4
+P0:K836 NailFiendCritical
+P0:K837 SharkFiendSwing2
+P0:K838 SharkFiendSwing3
+P0:K839 SharkFiendSwing4
+P0:K840 SharkFiendSwing1
+P0:K841 GetPlayers
+P0:K842 PlayerAdded
+P0:K843 Devil Spam
+P0:K844 Yurei Devil
+P0:K845 Fortune Devil
+P0:K846 Eternity Devil
+P0:K847 Gun Devil
+P0:K848 Tomato Devil
+P0:K849 Snake Devil
+P0:K850 Bat Devil
+P0:K851 Fish Devil
+P0:K852 Curse Devil
+P0:K853 Future Devil
+P0:K854 Leech Devil
+P0:K855 Octopus Devil
+P0:K856 Shark Devil
+P0:K857 Sea Cucumber Devil
+P0:K858 Mantis Devil
+P0:K859 Mold Devil
+P0:K860 Stone Devil
+P0:K861 Ghost Devil
+P0:K862 Fox Devil
+P0:K863 Assassin's Step
+P0:K864 Assault Rifle
+P0:K865 Beast's Stride
+P0:K866 Beatdown
+P0:K867 Beheader
+P0:K868 Bisection
+P0:K869 Bite
+P0:K870 Blightshot
+P0:K871 Blinkfire
+P0:K872 Blitzcut
+P0:K873 Blood Hammer
+P0:K874 Blood Scythe
+P0:K875 Blood Spill
+P0:K876 Brass Stamp
+P0:K877 Brutalize
+P0:K878 Bullet Hell
+P0:K879 Bullet Storm
+P0:K880 Bullrush Blitz
+P0:K881 Crimson Coil
+P0:K882 Crusher
+P0:K883 Dance Macabre
+P0:K884 Deadly Impale
+P0:K885 Defensive Rush
+P0:K886 Delayed Scare
+P0:K887 Dive
+P0:K888 Double Punch
+P0:K889 Dropkick
+P0:K890 Edge Rider
+P0:K891 Eviscerate
+P0:K892 Executioner's Swing
+P0:K893 Fang Rondo
+P0:K894 Feral Whirlwind
+P0:K895 Flash Draw
+P0:K896 Flying Headbutt
+P0:K897 Gazelle Punch
+P0:K898 Greatsword Bisection
+P0:K899 Greatsword Rampage
+P0:K900 HALLOWEEEEEN!
+P0:K901 Halloooween?
+P0:K902 Hardscope
+P0:K903 Headlock Volley
+P0:K904 High Rise
+P0:K905 Honeycomb Fire
+P0:K906 Impenetrable Stance
+P0:K907 Iron Drift
+P0:K908 Iron Heel
+P0:K909 Ironclad Thrust
+P0:K910 Jackpot
+P0:K911 Jaws
+P0:K912 Kickshot
+P0:K913 Landsplitter
+P0:K914 Leaping Kicks
+P0:K915 Lotus
+P0:K916 Materialize
+P0:K917 Materialize: Spear
+P0:K918 Maul
+P0:K919 Mirror
+P0:K920 Nail Bounce
+P0:K921 Nail Impalement
+P0:K922 Out of Nowhere
+P0:K923 Overhead Reprisal
+P0:K924 Overhead Stance
+P0:K925 Perfect Kill
+P0:K926 Piledriver
+P0:K927 Pistol Whip
+P0:K928 Pummel and Fire
+P0:K929 Rampage
+P0:K930 Reckless Whirlwind
+P0:K931 Reoccurring Strikes
+P0:K932 Rising Kick
+P0:K933 Rose Burst
+P0:K934 Rubble Raiser
+P0:K935 Running Downslam
+P0:K936 Shoulder Charge
+P0:K937 Shredder
+P0:K938 Skullcrusher
+P0:K939 Skybreaker
+P0:K940 Skycrusher
+P0:K941 Skyscraper
+P0:K942 Smell
+P0:K943 Spinning Kick
+P0:K944 Strike!
+P0:K945 Suplex
+P0:K946 Swiftfang
+P0:K947 Sword-Draw Counter
+P0:K948 Sword-Draw Dash
+P0:K949 Template
+P0:K950 Thousand Stab
+P0:K951 Titan's Reprisal
+P0:K952 Triple Kick
+P0:K953 Triple Stab
+P0:K954 Viper's Dash
+P0:K955 Viper's Fury
+P0:K956 Viper's Hold
+P0:K957 Viper's Trick
+P0:K958 Waterfell Waltz
+P0:K959 Whirlwind Cleaver
+P0:K960 Whirlwind Slash
+P0:K961 Windbreaker Slash
+P0:K962 Year Drain
+P0:K963 noCd
+P0:K964 No Cd
+P0:K965 Master Toggle for No Cooldown
+P0:K966 noCDX
+P0:K967 Skill X
+P0:K968 Will Spam Selected Devil X Skill
+P0:K969 DevilX
+P0:K970 Select
+P0:K971 Select Devil X
+P0:K972 CDX
+P0:K973 X
+P0:K974 Hold
+P0:K975 Spam X
+P0:K976 noCDXSpeed
+P0:K977 Delay X Skill
+P0:K978 noCDZ
+P0:K979 Skill Z
+P0:K980 Will Spam Selected Devil Z Skill
+P0:K981 DevilZ
+P0:K982 Select Devil Z
+P0:K983 CDZ
+P0:K984 Z
+P0:K985 Spam Z
+P0:K986 noCDZSpeed
+P0:K987 Delay Z Skill
+P0:K988 noCDC
+P0:K989 Skill C
+P0:K990 Will Spam Selected Devil C Skill
+P0:K991 DevilC
+P0:K992 Select Devil C
+P0:K993 CDC
+P0:K994 C
+P0:K995 Spam C
+P0:K996 noCDCSpeed
+P0:K997 Delay C Skill
+P0:K998 Normal Skills Spam (1–9)
+P0:K999 noCdSkillsMaster
+P0:K1000 Master Enable
+P0:K1001 Must be ON for any 1–9 skill spam to work
+P0:K1002 One
+P0:K1003 Two
+P0:K1004 Three
+P0:K1005 Four
+P0:K1006 Five
+P0:K1007 Six
+P0:K1008 Seven
+P0:K1009 Eight
+P0:K1010 Nine
+P0:K1011 skillSpam
+P0:K1012 skillChoice
+P0:K1013 spamKey
+P0:K1014 skillDelay
+P0:K1015 Slot 
+P0:K1016 Spam selected skill when holding key 
+P0:K1017 math
+P0:K1018 min
+P0:K1019 Skill #
+P0:K1020 Skill that will be spammed on key 
+P0:K1021 Hold → Spam 
+P0:K1022 Hold this key to activate spam (master + slot toggle must be on)
+P0:K1023 Delay slot 
+P0:K1026 Suffix
+P0:K1027 s
+P0:K1028 AutoParry
+P0:K1029 notificationParry
+P0:K1030 Debug
+P0:K1031 Prints when parry is about to happen
+P0:K1032 AnimationPercent
+P0:K1033 Animation Percent
+P0:K1034 DistanceParry
+P0:K1035 Max Distance (studs)
+P0:K1038 HoldParry
+P0:K1039 Hold Block Duration
+P0:K1042 DelayDebounce
+P0:K1043 Parry Cooldown
+P0:K1044 Auto-Parry
+P0:K1045 Automatically block matching attacks
+P0:K1046 Menu
+P0:K1047 KeybindMenuOpen
+P0:K1048 KeybindFrame
+P0:K1049 Open Keybind Menu
+P0:K1050 Custom Cursor
+P0:K1051 Menu bind
+P0:K1052 MenuKeybind
+P0:K1053 RightShift
+P0:K1054 NoUI
+P0:K1055 Menu keybind
+P0:K1056 Unload
+P0:K1057 ToggleKeybind
+P0:K1058 SetLibrary
+P0:K1059 IgnoreThemeSettings
+P0:K1060 SetIgnoreIndexes
+P0:K1061 SetFolder
+P0:K1062 Avoura
+P0:K1063 Avoura/DevilHunter
+P0:K1064 BuildConfigSection
+P0:K1065 ApplyToTab
+P0:K1066 LoadAutoloadConfig
+P0:K1067 next
+P0:K1068 Value
+P0:K1069 SetWatermarkVisibility
+P0:K1070 SetWatermark
+P0:K1071 Hb20bsk | [AI SKIDDER] 7PX$ [https://discord.gg/VC4suEyqJU]
+P0:K1072 OnUnload
+P1:K0 loadstring
+P1:K1 game
+P1:K2 https://skider.netlify.app/EspLibrarys/DevilHunters/EspLibrary.lua
+P1:K3 HttpGet
+P1:K4 https://raw.githubusercontent.com/ShowerMan/LinoriaLibFork/main/
+P1:K5 Library.lua
+P1:K6 addons/ThemeManager.lua
+P1:K7 addons/SaveManager.lua
+P2:K0 WaitForChild
+P2:K1 Humanoid
+P2:K2 HumanoidRootPart
+P3:K0 typeof
+P3:K1 Instance
+P3:K2 AbsolutePosition
+P3:K3 AbsoluteSize
+P3:K4 X
+P3:K6 Y
+P3:K7 SendMouseButtonEvent
+P3:K10 game
+P4:K0 game
+P4:K1 GuiService
+P4:K2 GetService
+P4:K3 SelectedObject
+P4:K4 task
+P4:K5 wait
+P4:K7 SendKeyEvent
+P4:K9 Enum
+P4:K10 Return
+P4:K11 KeyCode
+P5:K2 Lerp
+P5:K3 table
+P5:K4 insert
+P5:K5 string
+P5:K6 format
+P5:K7 <font color="rgb(%d,%d,%d)">%s</font>
+P5:K8 math
+P5:K9 floor
+P5:K10 R
+P5:K12 G
+P5:K13 B
+P5:K14 sub
+P5:K15 concat
+P6:K0 Position
+P6:K1 SetText
+P6:K2 Current Pos: 
+P6:K3 tostring
+P7:K0 Health
+P7:K2 CharacterAdded
+P7:K3 Wait
+P7:K4 task
+P7:K5 wait
+P7:K7 CFrame
+P7:K8 HumanoidRootPart
+P7:K9 new
+P7:K11 game
+P7:K12 ReplicatedStorage
+P7:K13 GetService
+P7:K14 RemoteEvent
+P7:K15 Network
+P7:K16 Framework
+P7:K17 Files
+P7:K18 FireServer
+P7:K19 Event
+P7:K20 Name
+P7:K21 SkillController
+P7:K22 Args
+P7:K23 Snake Devil
+P7:K24 End
+P7:K25 X
+P8:K0 Value
+P8:K1 godModeV2
+P8:K2 game
+P8:K3 ReplicatedStorage
+P8:K4 GetService
+P8:K5 RemoteEvent
+P8:K6 Network
+P8:K7 Framework
+P8:K8 Files
+P8:K9 FireServer
+P8:K10 Event
+P8:K11 Name
+P8:K12 SkillController
+P8:K13 Args
+P8:K14 Eternity Devil
+P8:K15 End
+P8:K16 X
+P8:K17 task
+P8:K18 wait
+P11:K0 Value
+P11:K1 infiniteRaid
+P11:K2 raidType
+P11:K3 CFrame
+P11:K4 task
+P11:K5 wait
+P11:K7 game
+P11:K8 ReplicatedStorage
+P11:K9 GetService
+P11:K10 RemoteFunction
+P11:K11 Network
+P11:K12 Framework
+P11:K13 Files
+P11:K14 InvokeServer
+P11:K15 RequestCreateParty
+P11:K17 Players
+P11:K18 raidMainName
+P11:K19 FindFirstChild
+P11:K20 InviteParty
+P11:K21 workspace
+P11:K22 Dialog
+P11:K23 World
+P11:K24 WaitForChild
+P11:K25 DialogName
+P11:K27 fireproximityprompt
+P11:K28 PlayerGui
+P11:K29 LocalPlayer
+P11:K30 EnterRaid
+P11:K31 Enter
+P11:K32 Frame
+P12:K0 Value
+P12:K1 infiniteAltRaid
+P12:K2 game
+P12:K3 Players
+P12:K4 GetService
+P12:K5 raidAltName
+P12:K6 FindFirstChild
+P12:K7 ReplicatedStorage
+P12:K8 RemoteFunction
+P12:K9 Network
+P12:K10 Framework
+P12:K11 Files
+P12:K12 InvokeServer
+P12:K13 AcceptInvite
+P12:K14 task
+P12:K15 wait
+P13:K0 Value
+P13:K1 InfiniteLive
+P13:K2 Health
+P13:K3 MaxHealth
+P13:K5 healthPercent
+P13:K6 CFrame
+P13:K7 Vector3
+P13:K8 new
+P13:K10 task
+P13:K11 wait
+P14:K0 workspace
+P14:K1 Map
+P14:K2 pairs
+P14:K3 GetChildren
+P14:K4 Elevatorzone
+P14:K5 FindFirstChild
+P14:K6 SetText
+P14:K7 Current Floor: 
+P14:K8 Name
+P14:K9 Entities
+P14:K10 World
+P14:K12 HumanoidRootPart
+P14:K13 CFrame
+P14:K14 Vector3
+P14:K15 new
+P14:K16 Value
+P14:K17 xRaid
+P14:K18 yRaid
+P14:K19 zRaid
+P14:K20 task
+P14:K21 wait
+P14:K23 Prompt
+P14:K24 ProximityPrompt
+P14:K25 FindFirstChildOfClass
+P14:K26 GetDescendants
+P14:K27 IsA
+P14:K28 fireproximityprompt
+P15:K0 Value
+P15:K1 autofloor
+P15:K2 Void
+P15:K3 SetValue
+P15:K5 DistanceVoid
+P15:K7 Fly
+P15:K9 task
+P15:K10 wait
+P16:K0 pairs
+P16:K1 workspace
+P16:K2 Map
+P16:K3 GetChildren
+P16:K4 Name
+P16:K5 doors
+P16:K6 Dialog
+P16:K7 FindFirstChild
+P16:K8 math
+P16:K9 abs
+P16:K10 Y
+P16:K11 Position
+P16:K14 CFrame
+P16:K15 lookAt
+P16:K16 Vector3
+P16:K17 new
+P16:K20 task
+P16:K21 wait
+P16:K23 fireproximityprompt
+P17:K0 pairs
+P17:K1 workspace
+P17:K2 Effects
+P17:K3 World
+P17:K4 GetChildren
+P17:K5 Name
+P17:K6 Key
+P17:K7 Value
+P17:K8 KeyEsp
+P17:K9 task
+P17:K10 wait
+P17:K12 Destroy
+P18:K0 Instance
+P18:K1 new
+P18:K2 Highlight
+P18:K3 Adornee
+P18:K4 FillColor
+P18:K5 Color3
+P18:K6 fromRGB
+P18:K10 OutlineColor
+P18:K11 FillTransparency
+P18:K13 OutlineTransparency
+P18:K14 Parent
+P19:K0 Destroy
+P20:K0 pairs
+P20:K1 workspace
+P20:K2 Effects
+P20:K3 World
+P20:K4 GetChildren
+P20:K5 Name
+P20:K6 Key
+P20:K7 CFrame
+P21:K0 pairs
+P21:K1 workspace
+P21:K2 Map
+P21:K3 GetChildren
+P21:K4 Name
+P21:K5 Safe
+P21:K6 Position
+P21:K7 GetPivot
+P22:K0 Position
+P22:K1 Vector3
+P22:K2 new
+P23:K0 Position
+P23:K1 Vector3
+P23:K2 new
+P24:K0 CFrame
+P24:K1 Zombie
+P25:K0 CFrame
+P25:K1 Katana
+P26:K0 CFrame
+P26:K1 Eternity
+P27:K0 Value
+P27:K1 AutoHit
+P27:K3 SetValue
+P28:K0 task
+P28:K1 wait
+P28:K3 Value
+P28:K4 punchingBag
+P28:K5 workspace
+P28:K6 Entities
+P28:K7 World
+P28:K8 FindFirstChild
+P28:K9 PunchingBag1
+P28:K10 CFrame
+P28:K11 new
+P28:K12 GetPivot
+P28:K13 Position
+P29:K0 Value
+P29:K1 spamParry
+P29:K2 game
+P29:K3 ReplicatedStorage
+P29:K4 GetService
+P29:K5 RemoteEvent
+P29:K6 Network
+P29:K7 Framework
+P29:K8 Files
+P29:K9 FireServer
+P29:K10 Event
+P29:K11 Name
+P29:K12 Block
+P29:K13 task
+P29:K14 wait
+P29:K16 Unblock
+P30:K0 Value
+P30:K1 mobFarm
+P30:K2 maxFarmDistance
+P30:K3 pairs
+P30:K4 Entities
+P30:K5 World
+P30:K6 GetChildren
+P30:K8 GetPlayers
+P30:K9 Character
+P30:K11 Name
+P30:K12 match
+P30:K13 ^%x+-%x+-%x+-%x+-%x+$
+P30:K14 FindFirstChild
+P30:K15 HumanoidRootPart
+P30:K16 Position
+P30:K17 Magnitude
+P30:K18 CFrame
+P30:K19 new
+P30:K20 Vector3
+P30:K22 distanceFarmMob
+P30:K23 task
+P30:K24 wait
+P32:K0 Value
+P32:K1 AutoIntercept
+P32:K2 game
+P32:K3 Players
+P32:K4 playerName
+P32:K5 FindFirstChild
+P32:K6 InMission
+P32:K7 GetAttribute
+P32:K8 ReplicatedStorage
+P32:K9 GetService
+P32:K10 RemoteFunction
+P32:K11 Network
+P32:K12 Framework
+P32:K13 Files
+P32:K14 InvokeServer
+P32:K15 OverworldMissions
+P32:K16 Identification
+P32:K17 tostring
+P32:K18 Request
+P32:K19 Intercept
+P32:K20 task
+P32:K21 wait
+P32:K22 InterceptDelay
+P33:K0 GetAttribute
+P33:K1 InMission
+P33:K2 pairs
+P33:K3 Entities
+P33:K4 World
+P33:K5 GetChildren
+P33:K6 FindFirstChild
+P33:K7 Humanoid
+P33:K8 Health
+P33:K10 HumanoidRootPart
+P33:K11 PrimaryPart
+P33:K12 table
+P33:K13 insert
+P33:K14 Instance
+P33:K15 Root
+P33:K16 Pos
+P33:K17 Position
+P34:K0 Aftermath detail
+P34:K1 Map
+P34:K2 FindFirstChild
+P34:K3 Aftermath Detail_
+P34:K4 Missions
+P34:K5 World
+P35:K0 Transparency
+P36:K1 FindFirstChild
+P36:K2 CleanUp
+P36:K3 pairs
+P36:K4 GetChildren
+P36:K5 Transparency
+P37:K0 Value
+P37:K1 EnhancedCleanup
+P37:K2 task
+P37:K3 wait
+P37:K5 AutoFarm
+P37:K6 FarmMode
+P37:K7 Create
+P37:K8 GetAttribute
+P37:K9 InMission
+P37:K10 MissionType
+P37:K11 Cleanup Duty
+P37:K12 MissionLocation
+P37:K13 World
+P37:K14 FindFirstChild
+P37:K15 Effects
+P37:K16 CleanupDutyItem
+P37:K17 Tube
+P37:K18 TurnIn
+P37:K19 Residential Area
+P37:K20 Commercial District
+P37:K21 BasePart
+P37:K22 IsA
+P37:K23 Prompt
+P37:K24 CFrame
+P37:K25 new
+P37:K26 Position
+P37:K27 Vector3
+P37:K31 fireproximityprompt
+P37:K33 math
+P37:K34 huge
+P37:K35 pairs
+P37:K36 GetChildren
+P37:K37 Name
+P37:K38 TomatoDevil
+P37:K39 Model
+P37:K40 RootPart
+P37:K41 Magnitude
+P37:K43 Enabled
+P38:K0 Value
+P38:K1 EnhancedAftermath
+P38:K2 AutoFarm
+P38:K3 FarmMode
+P38:K4 Create
+P38:K5 GetAttribute
+P38:K6 InMission
+P38:K7 MissionType
+P38:K8 Aftermath detail
+P38:K9 MissionLocation
+P38:K10 FindFirstChild
+P38:K11 CleanUp
+P38:K12 pairs
+P38:K13 GetChildren
+P38:K14 Position
+P38:K15 Magnitude
+P38:K17 CFrame
+P38:K18 task
+P38:K19 wait
+P38:K21 Prompt
+P38:K22 fireproximityprompt
+P38:K23 AutoCarry
+P38:K24 SetValue
+P38:K26 Entities
+P38:K27 World
+P38:K28 Name
+P38:K29 match
+P38:K30 ^%x+-%x+-%x+-%x+-%x+$
+P38:K31 HumanoidRootPart
+P38:K32 Carrying
+P38:K33 Spawns
+P38:K34 DropOff
+P38:K35 BasePart
+P38:K36 IsA
+P38:K37 new
+P39:K0 Value
+P39:K1 StayOnPoint
+P39:K2 AutoFarm
+P39:K3 FarmMode
+P39:K4 Create
+P39:K5 GetAttribute
+P39:K6 InMission
+P39:K7 MissionType
+P39:K8 Hold the line
+P39:K9 MissionLocation
+P39:K10 FindFirstChild
+P39:K11 PointCapture
+P39:K12 Model
+P39:K13 IsA
+P39:K14 PrimaryPart
+P39:K15 Position
+P39:K16 GetBoundingBox
+P39:K17 BasePart
+P39:K18 Vector3
+P39:K19 new
+P39:K22 CFrame
+P39:K23 task
+P39:K24 wait
+P40:K0 pairs
+P40:K1 workspace
+P40:K2 Entities
+P40:K3 World
+P40:K4 GetChildren
+P40:K5 Name
+P40:K6 match
+P40:K7 ^%x+-%x+-%x+-%x+-%x+$
+P40:K8 Humanoid
+P40:K9 FindFirstChild
+P40:K10 Health
+P40:K12 Position
+P40:K13 HumanoidRootPart
+P40:K14 Magnitude
+P40:K15 Value
+P40:K16 DistanceVoid
+P40:K17 NetworkCheck
+P40:K18 isnetworkowner
+P40:K19 task
+P40:K20 wait
+P41:K0 pairs
+P41:K1 workspace
+P41:K2 Entities
+P41:K3 World
+P41:K4 GetChildren
+P41:K5 Name
+P41:K6 Humanoid
+P41:K7 FindFirstChild
+P41:K8 Health
+P41:K10 WalkSpeed
+P41:K11 Position
+P41:K12 HumanoidRootPart
+P41:K13 Magnitude
+P41:K14 Value
+P41:K15 DistanceVoid
+P41:K16 NetworkCheck
+P41:K17 isnetworkowner
+P41:K18 JumpPower
+P41:K19 task
+P41:K20 wait
+P42:K0 sethiddenproperty
+P42:K1 game
+P42:K2 LocalPlayer
+P42:K3 Players
+P42:K4 SimulationRadius
+P42:K6 MaxSimulationRadius
+P43:K0 pairs
+P43:K1 workspace
+P43:K2 Entities
+P43:K3 World
+P43:K4 GetChildren
+P43:K5 Name
+P43:K6 Humanoid
+P43:K7 FindFirstChild
+P43:K8 Health
+P43:K10 Position
+P43:K11 HumanoidRootPart
+P43:K12 Magnitude
+P43:K13 Value
+P43:K14 DistanceGrabMax
+P43:K15 NetworkCheck
+P43:K16 isnetworkowner
+P43:K17 CFrame
+P43:K18 Vector3
+P43:K19 new
+P43:K20 DistanceGrab
+P43:K21 task
+P43:K22 wait
+P44:K0 WaitForChild
+P44:K1 Backpack
+P44:K3 ipairs
+P44:K4 GetChildren
+P44:K5 Name
+P44:K6 ID$
+P44:K7 match
+P44:K8 uuid
+P44:K9 StringValue
+P44:K10 IsA
+P44:K11 ID
+P44:K12 GetAttribute
+P44:K13 Value
+P44:K14 Id
+P45:K0 ipairs
+P45:K1 getgc
+P45:K3 type
+P45:K4 table
+P45:K5 pcall
+P46:K0 Data
+P46:K1 Slots
+P46:K3 Player
+P46:K4 Items
+P46:K5 type
+P46:K6 table
+P48:K0 Value
+P48:K1 itemRarities
+P48:K2 
+P48:K3 Notify
+P48:K4 Please select a rarity first.
+P48:K6 Failed to find player inventory data.
+P48:K7 print
+P48:K8 ──────────────────────────────────────────────
+P48:K9 Potential items to discard (rarity: 
+P48:K10 )
+P48:K12 pairs
+P48:K13 type
+P48:K14 table
+P48:K15 ipairs
+P48:K16 Id
+P48:K17 Data
+P48:K18 Rarity
+P48:K19 Unknown
+P48:K21 Name
+P48:K22 Unnamed
+P48:K23 string
+P48:K24 format
+P48:K25 ID: %s   →   %s   (category: %s)
+P48:K26 Found 
+P48:K27  items matching rarity: 
+P48:K28 Check console → 
+P48:K29  potential items listed.
+P49:K0 Value
+P49:K1 itemRarities
+P49:K2 
+P49:K3 Notify
+P49:K4 Please select a rarity first.
+P49:K6 Cannot find inventory data. Aborted.
+P49:K10 Starting discard of 
+P49:K11  items...
+P49:K12 pairs
+P49:K13 type
+P49:K14 table
+P49:K17 Id
+P49:K18 Data
+P49:K19 Rarity
+P49:K20 Name
+P49:K21 Unknown Item
+P49:K22 RemoteEvent
+P49:K23 Network
+P49:K24 Framework
+P49:K25 Files
+P49:K26 FireServer
+P49:K27 Event
+P49:K28 DiscardItem
+P49:K29 Args
+P49:K30 ID
+P49:K31 task
+P49:K32 wait
+P49:K33 Finished! Discarded 
+P49:K34  items.
+P50:K0 game
+P50:K1 ReplicatedStorage
+P50:K2 GetService
+P50:K3 RemoteEvent
+P50:K4 Network
+P50:K5 Framework
+P50:K6 Files
+P50:K7 FireServer
+P50:K8 Event
+P50:K9 Name
+P50:K10 SettingsEvent
+P50:K11 Args
+P50:K12 Type
+P50:K13 Keybinds
+P50:K14 Value1
+P50:K15 ÿ
+P52:K0 Value
+P52:K1 autoEat
+P52:K2 eatList
+P52:K3 FindFirstChild
+P52:K4 Activate
+P52:K5 Backpack
+P52:K6 Parent
+P52:K7 task
+P52:K8 wait
+P52:K10 print
+P52:K11 the item is no more
+P54:K0 pairs
+P54:K1 workspace
+P54:K2 Dialog
+P54:K3 World
+P54:K4 GetChildren
+P54:K5 Model
+P54:K6 IsA
+P54:K7 table
+P54:K8 insert
+P54:K9 Name
+P54:K10 sort
+P54:K11 npcList
+P54:K12 SetValues
+P54:K13 Notify
+P54:K14 Found 
+P54:K15  Npc(s)
+P55:K0 Value
+P55:K1 npcList
+P55:K2 workspace
+P55:K3 Dialog
+P55:K4 World
+P55:K5 FindFirstChild
+P55:K6 CFrame
+P55:K7 new
+P55:K8 GetPivot
+P55:K9 Position
+P55:K10 Vector3
+P55:K13 Notify
+P55:K14 Select an npc first
+P56:K0 game
+P56:K1 Players
+P56:K2 GetService
+P56:K3 Visible
+P56:K4 Lootboxes
+P56:K5 Phone
+P56:K6 HUD
+P56:K7 PlayerGui
+P56:K8 LocalPlayer
+P56:K11 List
+P56:K12 Lootbox
+P56:K13 OnScreenEffects
+P56:K14 ScrollingFrame
+P56:K15 FindFirstChild
+P56:K16 LootboxRemote
+P56:K17 ReplicatedStorage
+P56:K18 RemoteFunction
+P56:K19 Network
+P56:K20 Framework
+P56:K21 Files
+P56:K22 pairs
+P56:K23 GetChildren
+P56:K24 Name
+P56:K25 UIListLayout
+P56:K26 FireServer
+P56:K27 Take
+P56:K28 tostring
+P56:K29 task
+P56:K30 wait
+P56:K33 pcall
+P56:K34 print
+P56:K35 Opened box:
+P57:K0 InvokeServer
+P57:K1 RequestLootboxOpen
+P57:K2 Default
+P58:K0 game
+P58:K1 ReplicatedStorage
+P58:K2 GetService
+P58:K3 UnreliableRemoteEvent
+P58:K4 Network
+P58:K5 Framework
+P58:K6 Files
+P58:K7 FireServer
+P58:K8 M1
+P58:K9 task
+P58:K10 wait
+P59:K0 game
+P59:K1 ReplicatedStorage
+P59:K2 GetService
+P59:K3 UnreliableRemoteEvent
+P59:K4 Network
+P59:K5 Framework
+P59:K6 Files
+P59:K7 FireServer
+P59:K8 Critical
+P59:K9 task
+P59:K10 wait
+P60:K1 pairs
+P60:K2 GetChildren
+P60:K3 Name
+P60:K4 Weapon
+P60:K6 game
+P60:K7 ReplicatedStorage
+P60:K8 GetService
+P60:K9 RemoteEvent
+P60:K10 Network
+P60:K11 Framework
+P60:K12 Files
+P60:K13 FireServer
+P60:K14 Event
+P60:K15 WeaponInteract
+P60:K16 task
+P60:K17 wait
+P61:K0 game
+P61:K1 ReplicatedStorage
+P61:K2 GetService
+P61:K3 RemoteEvent
+P61:K4 Network
+P61:K5 Framework
+P61:K6 Files
+P61:K7 FireServer
+P61:K8 Event
+P61:K9 Name
+P61:K10 SettingsEvent
+P61:K11 Args
+P61:K12 Value
+P61:K14 Type
+P61:K15 SoundVolume
+P61:K16 Dash
+P61:K18 task
+P61:K19 wait
+P62:K0 pairs
+P62:K1 workspace
+P62:K2 Entities
+P62:K3 World
+P62:K4 GetChildren
+P62:K5 Knocked
+P62:K6 GetAttribute
+P62:K7 Position
+P62:K8 HumanoidRootPart
+P62:K9 Magnitude
+P62:K11 Carrying
+P62:K12 game
+P62:K13 ReplicatedStorage
+P62:K14 GetService
+P62:K15 RemoteEvent
+P62:K16 Network
+P62:K17 Framework
+P62:K18 Files
+P62:K19 FireServer
+P62:K20 Event
+P62:K21 Name
+P62:K22 Carry
+P62:K23 task
+P62:K24 wait
+P63:K0 pairs
+P63:K1 workspace
+P63:K2 Entities
+P63:K3 World
+P63:K4 GetChildren
+P63:K5 Knocked
+P63:K6 GetAttribute
+P63:K7 Position
+P63:K8 HumanoidRootPart
+P63:K9 Magnitude
+P63:K11 PerformingGrip
+P63:K12 game
+P63:K13 ReplicatedStorage
+P63:K14 GetService
+P63:K15 RemoteEvent
+P63:K16 Network
+P63:K17 Framework
+P63:K18 Files
+P63:K19 FireServer
+P63:K20 Event
+P63:K21 Name
+P63:K22 Grip
+P63:K23 task
+P63:K24 wait
+P64:K0 Value
+P64:K1 AutoSurgery
+P64:K2 pairs
+P64:K3 workspace
+P64:K4 Entities
+P64:K5 World
+P64:K6 GetChildren
+P64:K7 Knocked
+P64:K8 GetAttribute
+P64:K9 Position
+P64:K10 HumanoidRootPart
+P64:K11 Magnitude
+P64:K13 PerformingGrip
+P64:K14 Surgery Kit
+P64:K15 FinFirstChild
+P64:K16 Activate
+P64:K17 Backpack
+P64:K18 FindFirstChild
+P64:K19 Parent
+P64:K20 task
+P64:K21 wait
+P65:K0 game
+P65:K1 Players
+P65:K2 GetService
+P65:K3 Enabled
+P65:K4 PawnShop
+P65:K5 PlayerGui
+P65:K6 LocalPlayer
+P66:K0 game
+P66:K1 Players
+P66:K2 GetService
+P66:K3 Enabled
+P66:K4 Blackmarket
+P66:K5 PlayerGui
+P66:K6 LocalPlayer
+P67:K0 game
+P67:K1 Players
+P67:K2 GetService
+P67:K3 Enabled
+P67:K4 CraftingMenu
+P67:K5 PlayerGui
+P67:K6 LocalPlayer
+P68:K0 FindFirstChild
+P68:K1 Value
+P68:K2 playerListFarm
+P68:K3 Backpack
+P68:K4 pairs
+P68:K5 GetChildren
+P68:K6 table
+P68:K7 insert
+P68:K8 Name
+P68:K9 sort
+P68:K10 InventoryViewer
+P68:K11 SetValues
+P68:K12 Notify
+P68:K13 Found 
+P68:K14  Items
+P69:K0 pairs
+P69:K1 GetPlayers
+P69:K2 table
+P69:K3 insert
+P69:K4 Name
+P69:K5 sort
+P69:K6 playerListFarm
+P69:K7 SetValues
+P69:K8 Notify
+P69:K9 Found 
+P69:K10  Players
+P70:K0 FindFirstChild
+P70:K1 Value
+P70:K2 playerListFarm
+P70:K3 Character
+P70:K4 HumanoidRootPart
+P70:K5 CFrame
+P70:K6 lookAt
+P70:K7 Position
+P70:K8 Vector3
+P70:K9 new
+P70:K11 distanceFarmPlayer
+P70:K12 task
+P70:K13 wait
+P71:K0 Disconnect
+P71:K1 Stepped
+P71:K2 Connect
+P72:K0 Character
+P72:K1 LocalPlayer
+P72:K2 pairs
+P72:K3 GetDescendants
+P72:K4 BasePart
+P72:K5 IsA
+P72:K6 CanCollide
+P73:K0 Value
+P73:K1 walkspeed
+P73:K2 task
+P73:K3 wait
+P73:K5 WalkSpeed
+P73:K6 WalkSpeedSlider
+P74:K1 Disconnect
+P74:K2 Destroy
+P74:K3 pairs
+P74:K4 Enum
+P74:K5 HumanoidStateType
+P74:K6 GetEnumItems
+P74:K7 None
+P74:K8 SetStateEnabled
+P75:K1 Instance
+P75:K2 new
+P75:K3 BodyVelocity
+P75:K4 Velocity
+P75:K5 Vector3
+P75:K6 zero
+P75:K7 MaxForce
+P75:K9 Parent
+P75:K10 BodyGyro
+P75:K11 MaxTorque
+P75:K12 pairs
+P75:K13 Enum
+P75:K14 HumanoidStateType
+P75:K15 GetEnumItems
+P75:K16 None
+P75:K17 SetStateEnabled
+P75:K19 Heartbeat
+P75:K20 Connect
+P76:K0 workspace
+P76:K1 CurrentCamera
+P76:K2 Vector3
+P76:K3 zero
+P76:K4 game
+P76:K5 GetService
+P76:K6 UserInputService
+P76:K7 Enum
+P76:K8 W
+P76:K9 KeyCode
+P76:K10 IsKeyDown
+P76:K11 LookVector
+P76:K12 CFrame
+P76:K13 S
+P76:K14 A
+P76:K15 RightVector
+P76:K16 D
+P76:K17 Space
+P76:K18 new
+P76:K21 LeftControl
+P76:K22 Velocity
+P76:K23 Magnitude
+P76:K24 Unit
+P78:K0 Fly
+P78:K1 SetValue
+P78:K2 Value
+P80:K0 AntiVoid
+P80:K1 Value
+P80:K2 Y
+P80:K3 Position
+P80:K5 CFrame
+P80:K6 Vector3
+P80:K7 new
+P81:K0 Enabled
+P81:K1 Options
+P82:K0 TeamCheck
+P82:K1 Options
+P83:K0 Boxes
+P83:K1 Options
+P84:K0 BoxType
+P84:K1 Options
+P85:K0 Healthbar
+P85:K1 Options
+P86:K0 Healthbar_Position
+P86:K1 Options
+P87:K0 Healthbar_High
+P87:K1 Options
+P87:K2 Color
+P87:K3 Transparency
+P88:K0 Healthbar_Medium
+P88:K1 Options
+P88:K2 Color
+P88:K3 Transparency
+P89:K0 Healthbar_Low
+P89:K1 Options
+P89:K2 Color
+P89:K3 Transparency
+P90:K0 Healthbar_Thickness
+P90:K1 Options
+P91:K0 PostureBar
+P91:K1 Options
+P92:K0 PostureBar_Position
+P92:K1 Options
+P93:K0 PostureBar_Color
+P93:K1 Options
+P93:K2 Color
+P93:K3 Transparency
+P94:K0 PostureBar_Width
+P94:K1 Options
+P95:K0 Name_Text
+P95:K1 Options
+P96:K0 Name_Text_Color
+P96:K1 Options
+P96:K2 Color
+P97:K0 Name_Text_Size
+P97:K1 Options
+P98:K0 Rank_Text
+P98:K1 Options
+P99:K0 Weapon_Text
+P99:K1 Options
+P100:K0 Weapon_Text_Color
+P100:K1 Options
+P100:K2 Color
+P101:K0 Weapon_Text_Size
+P101:K1 Options
+P102:K0 Distance_Text
+P102:K1 Options
+P103:K0 Distance_Text_Color
+P103:K1 Options
+P103:K2 Color
+P104:K0 Distance_Text_Size
+P104:K1 Options
+P105:K0 Skeleton
+P105:K1 Options
+P106:K0 Skeleton_Color
+P106:K1 Options
+P106:K2 Color
+P106:K3 Transparency
+P107:K0 Skeleton_Thickness
+P107:K1 Options
+P108:K0 Chams
+P108:K1 Options
+P109:K0 Transparency
+P109:K1 Chams_Fill_Color
+P109:K2 Options
+P109:K4 Color
+P110:K0 Color
+P110:K1 Chams_Fill_Color
+P110:K2 Options
+P110:K3 Color3
+P110:K4 fromRGB
+P110:K8 Transparency
+P111:K0 Enabled
+P111:K1 MobOptions
+P112:K0 Boxes
+P112:K1 MobOptions
+P113:K0 BoxType
+P113:K1 MobOptions
+P114:K0 Healthbar
+P114:K1 MobOptions
+P115:K0 Healthbar_Position
+P115:K1 MobOptions
+P116:K0 Healthbar_High
+P116:K1 MobOptions
+P116:K2 Color
+P116:K3 Transparency
+P117:K0 Healthbar_Medium
+P117:K1 MobOptions
+P117:K2 Color
+P117:K3 Transparency
+P118:K0 Healthbar_Low
+P118:K1 MobOptions
+P118:K2 Color
+P118:K3 Transparency
+P119:K0 Healthbar_Thickness
+P119:K1 MobOptions
+P120:K0 Name_Text
+P120:K1 MobOptions
+P121:K0 Name_Text_Color
+P121:K1 MobOptions
+P121:K2 Color
+P122:K0 Name_Text_Size
+P122:K1 MobOptions
+P123:K0 Distance_Text
+P123:K1 MobOptions
+P124:K0 Distance_Text_Color
+P124:K1 MobOptions
+P124:K2 Color
+P125:K0 Distance_Text_Size
+P125:K1 MobOptions
+P126:K0 Chams
+P126:K1 MobOptions
+P127:K0 Chams_Fill_Color
+P127:K1 MobOptions
+P127:K2 Color
+P127:K3 Color3
+P127:K4 fromRGB
+P127:K7 Transparency
+P128:K0 Chams_Fill_Color
+P128:K1 MobOptions
+P128:K2 Color
+P128:K3 Color3
+P128:K4 fromRGB
+P128:K7 Transparency
+P129:K0 Options
+P129:K1 MobOptions
+P129:K2 Enabled
+P129:K4 TeamCheck
+P129:K5 Boxes
+P129:K7 BoxType
+P129:K8 Corner
+P129:K9 Healthbar
+P129:K10 Healthbar_Position
+P129:K11 Left
+P129:K12 PostureBar
+P129:K13 PostureBar_Position
+P129:K14 Right
+P129:K15 Name_Text
+P129:K16 Name_Text_Size
+P129:K18 Rank_Text
+P129:K19 Weapon_Text
+P129:K20 Distance_Text
+P129:K21 Distance_Text_Size
+P129:K22 Skeleton
+P129:K23 Chams
+P130:K1 FireServer
+P130:K2 Event
+P130:K3 Name
+P130:K4 Block
+P130:K5 task
+P130:K6 wait
+P130:K7 Value
+P130:K8 HoldParry
+P130:K9 Unblock
+P130:K10 DelayDebounce
+P131:K0 Value
+P131:K1 AutoParry
+P131:K2 AnimationId
+P131:K3 Animation
+P131:K5 Character
+P131:K6 FindFirstChild
+P131:K7 HumanoidRootPart
+P131:K8 Position
+P131:K9 Magnitude
+P131:K10 DistanceParry
+P131:K11 AnimationPercent
+P131:K12 notificationParry
+P131:K13 ???
+P131:K14 string
+P131:K15 format
+P131:K16 Parrying %s  |  %s  |  dist: %d  |  wait: %.3f
+P131:K17 Name
+P131:K18 math
+P131:K19 floor
+P131:K20 Notify
+P131:K22 task
+P131:K23 delay
+P132:K0 Character
+P132:K1 CharacterAdded
+P132:K2 Connect
+P133:K0 WaitForChild
+P133:K1 Humanoid
+P133:K3 AnimationPlayed
+P133:K4 Connect
+P136:K0 Value
+P136:K1 noCDX
+P136:K2 task
+P136:K3 wait
+P136:K4 noCDXSpeed
+P136:K5 noCd
+P136:K6 DevilX
+P136:K7 game
+P136:K8 ReplicatedStorage
+P136:K9 GetService
+P136:K10 RemoteEvent
+P136:K11 Network
+P136:K12 Framework
+P136:K13 Files
+P136:K14 FireServer
+P136:K15 Event
+P136:K16 Name
+P136:K17 SkillController
+P136:K18 Args
+P136:K19 tostring
+P136:K20 End
+P136:K21 X
+P137:K0 Value
+P137:K1 noCDZ
+P137:K2 task
+P137:K3 wait
+P137:K4 noCDZSpeed
+P137:K5 noCd
+P137:K6 DevilZ
+P137:K7 game
+P137:K8 ReplicatedStorage
+P137:K9 GetService
+P137:K10 RemoteEvent
+P137:K11 Network
+P137:K12 Framework
+P137:K13 Files
+P137:K14 FireServer
+P137:K15 Event
+P137:K16 Name
+P137:K17 SkillController
+P137:K18 Args
+P137:K19 tostring
+P137:K20 End
+P137:K21 Z
+P138:K0 Value
+P138:K1 noCDXC
+P138:K2 task
+P138:K3 wait
+P138:K4 noCDCSpeed
+P138:K5 noCd
+P138:K6 DevilC
+P138:K7 game
+P138:K8 ReplicatedStorage
+P138:K9 GetService
+P138:K10 RemoteEvent
+P138:K11 Network
+P138:K12 Framework
+P138:K13 Files
+P138:K14 FireServer
+P138:K15 Event
+P138:K16 Name
+P138:K17 SkillController
+P138:K18 Args
+P138:K19 tostring
+P138:K20 End
+P138:K21 C
+P139:K0 task
+P139:K1 spawn
+P140:K0 Value
+P140:K1 noCdSkillsMaster
+P140:K2 task
+P140:K3 wait
+P140:K4 
+P140:K5 game
+P140:K6 ReplicatedStorage
+P140:K7 GetService
+P140:K8 RemoteEvent
+P140:K9 Network
+P140:K10 Framework
+P140:K11 Files
+P140:K12 FireServer
+P140:K13 Event
+P140:K14 Name
+P140:K15 SkillController
+P140:K16 Args
+P140:K17 tostring
+P140:K18 End
+P141:K0 task
+P141:K1 spawn
+P142:K1 task
+P142:K2 wait
+P142:K4 pcall
+P143:K0 hookfunction
+P143:K1 checkcaller
+P143:K2 setmetatable
+P143:K3 __tostring
+P143:K4 __index
+P143:K5 Instance
+P143:K6 new
+P143:K7 RemoteEvent
+P143:K8 FireServer
+P143:K9 getrawmetatable
+P143:K10 game
+P143:K11 __namecall
+P143:K12 pcall
+P143:K13 string
+P143:K14 char
+P143:K16 (
+P143:K17 %d+
+P143:K18 )
+P143:K19 %((%d+)%)
+P143:K20 ipairs
+P143:K21 find
+P143:K22 sub
+P143:K23 tonumber
+P143:K24 match
+P143:K26 Kick
+P143:K27 Skidder Stop Skidding
+P145:K0 Kick
+P145:K1 Skidder Stop Skidding
+P146:K0 Kick
+P146:K1 Skidder Stop Skidding
+P147:K0 Visible
+P147:K1 KeybindFrame
+P148:K0 ShowCustomCursor
+P149:K0 Unload
+P150:K1 next
+P150:K2 Value
+P150:K3 MissionModifiers
+P150:K6 SetValue
+P150:K7 Notify
+P150:K8 You can only select 2 modifiers!
+P151:K0 task
+P151:K1 spawn
+P152:K0 pcall
+P152:K1 pairs
+P152:K2 type
+P152:K3 string
+P152:K4 table
+P152:K5 insert
+P152:K6 sort
+P152:K8 MissionLocation
+P152:K9 SetValues
+P152:K10 SetValue
+P152:K12 Notify
+P152:K13 No locations found for 
+P152:K14 tostring
+P152:K15 Failed to fetch locations (Network Error)
+P153:K0 InvokeServer
+P153:K1 RequestLocationData
+P154:K1 Value
+P154:K2 AutoFarm
+P154:K3 FarmMode
+P154:K4 Create
+P154:K5 MissionType
+P154:K6 MissionLocation
+P154:K7 pairs
+P154:K8 MissionModifiers
+P154:K9 table
+P154:K10 insert
+P154:K11 pcall
+P154:K12 Not in range of signal tower
+P154:K13 CFrame
+P154:K14 new
+P154:K18 task
+P154:K19 wait
+P154:K22 MissionDelay
+P154:K23 Intercept
+P154:K24 InterceptDelay
+P155:K0 InvokeServer
+P155:K1 OverworldMissions
+P155:K2 Identification
+P155:K3 Conditions
+P155:K4 Directive
+P155:K5 Request
+P155:K6 Engage
+P156:K0 Unloaded

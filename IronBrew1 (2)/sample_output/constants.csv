@@ -1,0 +1,2637 @@
+﻿prototype,index,kind,tag,subtype,value
+0,0,string,0,0,Options
+0,1,string,0,0,Toggles
+0,2,string,0,0,ShowToggleFrameInKeybinds
+0,3,boolean,5,,True
+0,4,string,0,0,ShowCustomCursor
+0,5,boolean,5,,False
+0,6,string,0,0,NotifySide
+0,7,string,0,0,Left
+0,8,string,0,0,game
+0,9,string,0,0,GetService
+0,10,string,0,0,ReplicatedStorage
+0,11,string,0,0,Players
+0,12,string,0,0,LocalPlayer
+0,13,string,0,0,RunService
+0,14,string,0,0,Workspace
+0,15,string,0,0,VirtualInputManager
+0,16,string,0,0,Character
+0,17,string,0,0,Humanoid
+0,18,string,0,0,FindFirstChild
+0,19,string,0,0,HumanoidRootPart
+0,20,string,0,0,CharacterAdded
+0,21,string,0,0,Connect
+0,22,string,0,0,Files
+0,23,string,0,0,WaitForChild
+0,24,string,0,0,Framework
+0,25,string,0,0,Network
+0,26,string,0,0,RemoteFunction
+0,27,string,0,0,Cleanup Duty
+0,28,string,0,0,Hold the line
+0,29,string,0,0,Hold the Line
+0,30,string,0,0,Aftermath detail
+0,31,string,0,0,Aftermath Detail
+0,32,string,0,0,CreateWindow
+0,33,string,0,0,Title
+0,34,string,0,0,Neptune - Devil Hunter
+0,35,string,0,0,Color3
+0,36,string,0,0,fromRGB
+0,37,int,1,1,0
+0,38,int,1,1,255
+0,39,int,1,1,196
+0,40,int,1,1,147
+0,41,string,0,0,Center
+0,42,string,0,0,AutoShow
+0,43,string,0,0,Resizable
+0,44,string,0,0,UnlockMouseWhileOpen
+0,45,string,0,0,TabPadding
+0,46,int,1,1,8
+0,47,string,0,0,MenuFadeTime
+0,48,number,4,0,0.2
+0,49,string,0,0,AutoFarm
+0,50,string,0,0,AddTab
+0,51,string,0,0,Main
+0,52,string,0,0,Combat
+0,53,string,0,0,Visual
+0,54,string,0,0,Player
+0,55,string,0,0,Raid
+0,56,string,0,0,UI Settings
+0,57,string,0,0,AddLeftGroupbox
+0,58,string,0,0,Teleport
+0,59,string,0,0,Eternity Devil Raid
+0,60,string,0,0,AddRightGroupbox
+0,61,string,0,0,Katana Devil Raid
+0,62,string,0,0,Cool Raid Stuff
+0,63,string,0,0,GodMode
+0,64,string,0,0,AddLabel
+0,65,string,0,0,No Position Set
+0,66,string,0,0,AddButton
+0,67,string,0,0,Text
+0,68,string,0,0,Set Position
+0,69,string,0,0,Func
+0,70,string,0,0,AddToggle
+0,71,string,0,0,godModeV2
+0,72,string,0,0,GodMode V2
+0,73,string,0,0,Default
+0,74,string,0,0,Callback
+0,75,string,0,0,AddInput
+0,76,string,0,0,raidMainName
+0,77,string,0,0,
+0,78,string,0,0,Numeric
+0,79,string,0,0,Finished
+0,80,string,0,0,ClearTextOnFocus
+0,81,string,0,0,Main Player Name
+0,82,string,0,0,Tooltip
+0,83,string,0,0,Main Account to Send into Raid
+0,84,string,0,0,Placeholder
+0,85,string,0,0,Input Player name
+0,86,string,0,0,raidAltName
+0,87,string,0,0,Alt Player Name
+0,88,string,0,0,Alt Account to Auto Accept Invite
+0,89,string,0,0,AddDropdown
+0,90,string,0,0,raidType
+0,91,string,0,0,Values
+0,92,string,0,0,Eternity
+0,93,string,0,0,Katana
+0,94,string,0,0,Zombie
+0,95,int,1,1,1
+0,96,string,0,0,Multi
+0,97,string,0,0,Raid Name
+0,98,string,0,0,CFrame
+0,99,string,0,0,new
+0,100,number,4,1,-2752
+0,101,int,1,1,144
+0,102,string,0,0,DialogName
+0,103,string,0,0,Mysterious Hotel
+0,104,int,1,1,379
+0,105,int,1,1,9
+0,106,int,1,1,944
+0,107,string,0,0,Yakuza Infiltration
+0,108,int,1,1,37
+0,109,int,1,1,10
+0,110,number,4,1,-1443
+0,111,string,0,0,Zombie Devil Warehouse
+0,112,string,0,0,infiniteRaid
+0,113,string,0,0,Auto Launch Raid [Alt Account]
+0,114,string,0,0,infiniteAltRaid
+0,115,string,0,0,Auto Launch Raid [Main Account]
+0,116,string,0,0,AddDivider
+0,117,string,0,0,Manual Use Only
+0,118,string,0,0,AddSlider
+0,119,string,0,0,healthPercent
+0,120,string,0,0,Health Percent
+0,121,string,0,0,Min
+0,122,int,1,1,5
+0,123,string,0,0,Max
+0,124,int,1,1,80
+0,125,string,0,0,Rounding
+0,126,string,0,0,Compact
+0,127,string,0,0,InfiniteLive
+0,128,string,0,0,Auto Void Yourself
+0,129,string,0,0,Current Floor: Unknown
+0,130,string,0,0,autofloor
+0,131,string,0,0,Auto Floor
+0,132,string,0,0,xRaid
+0,133,string,0,0,x
+0,134,number,4,1,-20
+0,135,int,1,1,20
+0,136,string,0,0,yRaid
+0,137,string,0,0,y
+0,138,string,0,0,zRaid
+0,139,string,0,0,z
+0,140,int,1,1,7
+0,141,string,0,0,Open All Door
+0,142,string,0,0,KeyEsp
+0,143,string,0,0,Key Esp
+0,144,string,0,0,Tp to Key
+0,145,string,0,0,Tp to Vault
+0,146,string,0,0,Tp to Safe Room
+0,147,string,0,0,Tp to Boss Room
+0,148,string,0,0,Zombie Raid
+0,149,string,0,0,Katana-Man Raid
+0,150,string,0,0,Eternity Raid
+0,151,string,0,0,Auto Farm
+0,152,string,0,0,Void Mob
+0,153,string,0,0,Mob Farm
+0,154,string,0,0,Mastery Farm
+0,155,string,0,0,punchingBag
+0,156,string,0,0,Farm Punching Bag
+0,157,string,0,0,task
+0,158,string,0,0,spawn
+0,159,string,0,0,spamParry
+0,160,string,0,0,Spam Parry
+0,161,string,0,0,distanceFarmMob
+0,162,string,0,0,Distance From Mob
+0,163,number,4,1,-5
+0,164,string,0,0,maxFarmDistance
+0,165,string,0,0,Max Farm Distance
+0,166,int,1,1,100
+0,167,int,1,1,50
+0,168,int,1,1,300
+0,169,string,0,0,mobFarm
+0,170,string,0,0,Farm Mob
+0,171,string,0,0,Auto Quest
+0,172,string,0,0,FarmMode
+0,173,string,0,0,Intercept
+0,174,string,0,0,Create
+0,175,string,0,0,Mode
+0,176,string,0,0,Mission Rewards : 
+0,177,string,0,0,RewardsLabel
+0,178,string,0,0,AddDependencyBox
+0,179,string,0,0,InterceptDelay
+0,180,string,0,0,Intercept delay
+0,181,number,4,0,0.5
+0,182,number,4,0,0.1
+0,183,string,0,0,playerName
+0,184,string,0,0,Player To Intercept
+0,185,string,0,0,Alt Account to intercept
+0,186,string,0,0,AutoIntercept
+0,187,string,0,0,Auto-Intercept
+0,188,string,0,0,Auto Get Lootbox
+0,189,string,0,0,MissionType
+0,190,string,0,0,Mission Type
+0,191,string,0,0,MissionLocation
+0,192,string,0,0,Loading...
+0,193,string,0,0,Location
+0,194,string,0,0,MissionModifiers
+0,195,string,0,0,Bloodlust
+0,196,string,0,0,Flawless
+0,197,string,0,0,Contract Lock
+0,198,string,0,0,Stifle
+0,199,string,0,0,Blind Path
+0,200,string,0,0,Recall
+0,201,string,0,0,Modifiers
+0,202,string,0,0,MissionDelay
+0,203,string,0,0,Mission delay
+0,204,string,0,0,EnhancedCleanup
+0,205,string,0,0,Enhanced Cleanup Duty
+0,206,string,0,0,Better item pickup/turn-in - works on all locations
+0,207,string,0,0,EnhancedAftermath
+0,208,string,0,0,Enhanced Aftermath Detail
+0,209,string,0,0,Improved trash/body handling (works best with Residential Area)
+0,210,string,0,0,StayOnPoint
+0,211,string,0,0,Goes underground when mobs spawn to avoid damage
+0,212,string,0,0,NetworkCheck
+0,213,string,0,0,Network Check
+0,214,string,0,0,DistanceVoid
+0,215,string,0,0,Distance
+0,216,int,1,1,200
+0,217,int,1,1,2000
+0,218,string,0,0,Distance For Voiding Entities
+0,219,string,0,0,Void
+0,220,string,0,0,Void Entities Within Distance [Selected]
+0,221,string,0,0,DisabledTooltip
+0,222,string,0,0,I am disabled!
+0,223,string,0,0,Disabled
+0,224,string,0,0,Visible
+0,225,string,0,0,Risky
+0,226,string,0,0,freezeMob
+0,227,string,0,0,Freeze Mob
+0,228,string,0,0,Freeze entities Within Distance [Selected]
+0,229,string,0,0,DistanceGrabMax
+0,230,string,0,0,Distance Max For Grabbing
+0,231,string,0,0,Distance For Grabbing Entities Max
+0,232,string,0,0,DistanceGrab
+0,233,string,0,0,Distance Mob
+0,234,string,0,0,Distance For putting Entities
+0,235,string,0,0,grabMob
+0,236,string,0,0,Bring Mob
+0,237,string,0,0,Bring Entities Within Distance [Selected]
+0,238,string,0,0,SetupDependencies
+0,239,string,0,0,Player Farm
+0,240,string,0,0,Player utils
+0,241,string,0,0,Player Auto
+0,242,string,0,0,LootBox
+0,243,string,0,0,Npc Teleport
+0,244,string,0,0,Auto Eat
+0,245,string,0,0,WIPE YOURSELF
+0,246,string,0,0,Auto Discard
+0,247,string,0,0,Common
+0,248,string,0,0,itemRarities
+0,249,string,0,0,Uncommon
+0,250,string,0,0,Rare
+0,251,string,0,0,Epic
+0,252,string,0,0,Legendary
+0,253,string,0,0,Rarity To Discard
+0,254,string,0,0,Show Potential Discarded Items
+0,255,string,0,0,DoubleClick
+0,256,string,0,0,Discard Selected Items
+0,257,string,0,0,WIPE YOURSELF BE CAUTIOUS
+0,258,string,0,0,eatList
+0,259,string,0,0,Heart
+0,260,string,0,0,Arm
+0,261,string,0,0,Eye
+0,262,string,0,0,Leg
+0,263,string,0,0,Common Devil Flesh
+0,264,string,0,0,Uncommon Devil Flesh
+0,265,string,0,0,Rare Devil Flesh
+0,266,string,0,0,Epic Devil Flesh
+0,267,string,0,0,Eat List
+0,268,string,0,0,autoEat
+0,269,string,0,0,All in the title digga[7PX is a skidder]
+0,270,string,0,0,Some Npc doesnt spawn if your not within range
+0,271,string,0,0,npcList
+0,272,string,0,0,Refresh List of Npc
+0,273,string,0,0,Npc List
+0,274,string,0,0,Refresh Npc List
+0,275,string,0,0,TP to Selected Npc
+0,276,string,0,0,AutoBox
+0,277,string,0,0,Auto Open LootBox
+0,278,string,0,0,AutoHit
+0,279,string,0,0,Auto Hit
+0,280,string,0,0,AutoCrit
+0,281,string,0,0,Auto Critical
+0,282,string,0,0,Auto Critical M1
+0,283,string,0,0,AutoEquip
+0,284,string,0,0,Auto Equip
+0,285,string,0,0,Auto Equip Weapon
+0,286,string,0,0,SemiGod
+0,287,string,0,0,AutoDodge
+0,288,string,0,0,"Doesnt work on all attack, its a 50/50"
+0,289,string,0,0,AutoCarry
+0,290,string,0,0,Auto Carry
+0,291,string,0,0,Auto Carry People
+0,292,string,0,0,AutoGrip
+0,293,string,0,0,Auto Grip
+0,294,string,0,0,Auto Grip People
+0,295,string,0,0,AutoSurgery
+0,296,string,0,0,Auto Surgery Kit
+0,297,string,0,0,Open Pawn Shop
+0,298,string,0,0,Open Black Market
+0,299,string,0,0,Open Crafting Menue
+0,300,string,0,0,playerListFarm
+0,301,string,0,0,Refresh Player
+0,302,string,0,0,Player List
+0,303,string,0,0,InventoryViewer
+0,304,string,0,0,Select a Player
+0,305,string,0,0,Inventory viewer
+0,306,string,0,0,Refresh Players List
+0,307,string,0,0,distanceFarmPlayer
+0,308,string,0,0,playerFarm
+0,309,string,0,0,Farm Player [WARNING]
+0,310,string,0,0,Dont Forget to setup Distance to your liking
+0,311,string,0,0,Fly
+0,312,string,0,0,WASD + Space/Ctrl to move
+0,313,string,0,0,AddKeyPicker
+0,314,string,0,0,FlyKeybind
+0,315,string,0,0,F1
+0,316,string,0,0,Toggle
+0,317,string,0,0,Fly Keybind
+0,318,string,0,0,SyncToggleState
+0,319,string,0,0,NoClip
+0,320,string,0,0,noClip
+0,321,string,0,0,F2
+0,322,string,0,0,Noclip
+0,323,string,0,0,FlySpeed
+0,324,string,0,0,Fly Speed
+0,325,string,0,0,WalkSpeed
+0,326,string,0,0,walkspeed
+0,327,string,0,0,All in the name
+0,328,string,0,0,WSKeybind
+0,329,string,0,0,F3
+0,330,string,0,0,WS Keybind
+0,331,string,0,0,WalkSpeedSlider
+0,332,string,0,0,WalkSpeed Value
+0,333,int,1,1,35
+0,334,string,0,0,AntiVoid
+0,335,string,0,0,Anti Void
+0,336,string,0,0,Prevents falling into void
+0,337,string,0,0,OnChanged
+0,338,string,0,0,OnClick
+0,339,string,0,0,Heartbeat
+0,340,string,0,0,Player Esp Section
+0,341,string,0,0,ESP_Master
+0,342,string,0,0,Enabled
+0,343,string,0,0,ESP_TeamCheck
+0,344,string,0,0,Team Check
+0,345,string,0,0,ESP_Box
+0,346,string,0,0,Boxes
+0,347,string,0,0,ESP_BoxType
+0,348,string,0,0,Corner
+0,349,string,0,0,Box
+0,350,string,0,0,Type
+0,351,string,0,0,ESP_Health
+0,352,string,0,0,Healthbar
+0,353,string,0,0,ESP_HealthPos
+0,354,string,0,0,Right
+0,355,string,0,0,Top
+0,356,string,0,0,Bottom
+0,357,string,0,0,Position
+0,358,string,0,0,ESP_HealthStart
+0,359,string,0,0,AddColorPicker
+0,360,string,0,0,ESP_HealthMid
+0,361,string,0,0,ESP_HealthEnd
+0,362,string,0,0,ESP_HealthWidth
+0,363,string,0,0,Healthbar Thickness
+0,364,int,1,1,3
+0,365,string,0,0,ESP_Posture
+0,366,string,0,0,Posture Bar
+0,367,string,0,0,ESP_PosturePos
+0,368,int,1,1,2
+0,369,string,0,0,ESP_PostureColor
+0,370,int,1,1,207
+0,371,int,1,1,125
+0,372,string,0,0,ESP_PostureWidth
+0,373,string,0,0,Posture Thickness
+0,374,string,0,0,ESP_Name
+0,375,string,0,0,Name
+0,376,string,0,0,ESP_NameColor
+0,377,int,1,1,235
+0,378,int,1,1,225
+0,379,string,0,0,ESP_NameSize
+0,380,string,0,0,Name Size
+0,381,int,1,1,11
+0,382,int,1,1,16
+0,383,string,0,0,ESP_Rank
+0,384,string,0,0,Rank
+0,385,string,0,0,ESP_Weapon
+0,386,string,0,0,Weapon
+0,387,string,0,0,ESP_WeaponColor
+0,388,string,0,0,ESP_WeaponSize
+0,389,string,0,0,Weapon Size
+0,390,string,0,0,ESP_Distance
+0,391,string,0,0,ESP_DistanceColor
+0,392,string,0,0,ESP_DistanceSize
+0,393,string,0,0,Distance Size
+0,394,string,0,0,ServerSkeleton
+0,395,string,0,0,Skeleton
+0,396,string,0,0,ServerSkeletonColor
+0,397,string,0,0,ServerSkeletonWidth
+0,398,string,0,0,Skeleton Thickness
+0,399,number,4,0,1.5
+0,400,int,1,1,4
+0,401,string,0,0,ESP_Chams
+0,402,string,0,0,Chams
+0,403,string,0,0,ESP_ChamsColor
+0,404,int,1,1,170
+0,405,int,1,1,110
+0,406,string,0,0,ESP_ChamsTransparency
+0,407,string,0,0,Chams Transparency
+0,408,string,0,0,Mob ESP Section
+0,409,string,0,0,Mob_Master
+0,410,string,0,0,Mob_Box
+0,411,string,0,0,Mob_BoxType
+0,412,string,0,0,Mob_Health
+0,413,string,0,0,Mob_HealthPos
+0,414,string,0,0,Mob_HealthStart
+0,415,string,0,0,Mob_HealthMid
+0,416,string,0,0,Mob_HealthEnd
+0,417,string,0,0,Mob_HealthWidth
+0,418,string,0,0,Mob_Name
+0,419,string,0,0,Mob_NameColor
+0,420,string,0,0,Mob_NameSize
+0,421,string,0,0,Name Text Size
+0,422,string,0,0,Mob_Distance
+0,423,string,0,0,Mob_DistanceColor
+0,424,string,0,0,Mob_DistanceSize
+0,425,string,0,0,Distance Text Size
+0,426,string,0,0,Mob_Chams
+0,427,string,0,0,Mob_ChamsColor
+0,428,string,0,0,Chams Color
+0,429,string,0,0,Mob_ChamsTransparency
+0,430,string,0,0,RemoteEvent
+0,431,string,0,0,rbxassetid://83170627744442
+0,432,number,4,0,0.216
+0,433,string,0,0,rbxassetid://99785834052081
+0,434,string,0,0,rbxassetid://129319150158146
+0,435,string,0,0,rbxassetid://75114926121591
+0,436,string,0,0,rbxassetid://72795592997118
+0,437,string,0,0,rbxassetid://84882180540900
+0,438,string,0,0,rbxassetid://91695353081923
+0,439,string,0,0,rbxassetid://91841671178746
+0,440,number,4,0,0.219
+0,441,string,0,0,rbxassetid://102225002431566
+0,442,string,0,0,rbxassetid://98961744431023
+0,443,string,0,0,rbxassetid://114393492422894
+0,444,string,0,0,rbxassetid://72716101431005
+0,445,string,0,0,rbxassetid://85964235716367
+0,446,number,4,0,0.18
+0,447,string,0,0,rbxassetid://138301923963329
+0,448,string,0,0,rbxassetid://87069745086938
+0,449,string,0,0,rbxassetid://97144244689985
+0,450,string,0,0,rbxassetid://86092141229505
+0,451,string,0,0,rbxassetid://131943611612712
+0,452,string,0,0,rbxassetid://77032242569772
+0,453,string,0,0,rbxassetid://123304488838885
+0,454,string,0,0,rbxassetid://95592305575287
+0,455,number,4,0,0.256
+0,456,string,0,0,rbxassetid://97504155433185
+0,457,string,0,0,rbxassetid://137901650114553
+0,458,string,0,0,rbxassetid://71420013211462
+0,459,string,0,0,rbxassetid://73189775256758
+0,460,string,0,0,rbxassetid://102790860802603
+0,461,string,0,0,rbxassetid://90303043747701
+0,462,number,4,0,0.213
+0,463,string,0,0,rbxassetid://73033593102525
+0,464,string,0,0,rbxassetid://89307684071889
+0,465,string,0,0,rbxassetid://115670609737438
+0,466,string,0,0,rbxassetid://127716005072935
+0,467,string,0,0,rbxassetid://106719097885109
+0,468,string,0,0,rbxassetid://125351403307657
+0,469,string,0,0,rbxassetid://87673107583059
+0,470,string,0,0,rbxassetid://99589308896321
+0,471,string,0,0,rbxassetid://93712797216935
+0,472,string,0,0,rbxassetid://90648436096048
+0,473,string,0,0,rbxassetid://106187325444182
+0,474,string,0,0,rbxassetid://113014104453621
+0,475,string,0,0,rbxassetid://139174098471434
+0,476,number,4,0,0.286
+0,477,string,0,0,rbxassetid://118176169991277
+0,478,string,0,0,rbxassetid://89332566098222
+0,479,string,0,0,rbxassetid://125571123165138
+0,480,string,0,0,rbxassetid://125936250279691
+0,481,string,0,0,rbxassetid://134137542280552
+0,482,string,0,0,rbxassetid://139513647256700
+0,483,number,4,0,0.251
+0,484,string,0,0,rbxassetid://114630509263415
+0,485,string,0,0,rbxassetid://109871824431204
+0,486,string,0,0,rbxassetid://113429385792170
+0,487,string,0,0,rbxassetid://139374816012669
+0,488,string,0,0,rbxassetid://78842969890728
+0,489,string,0,0,rbxassetid://81424669180469
+0,490,string,0,0,rbxassetid://84893282137796
+0,491,string,0,0,rbxassetid://127656671537189
+0,492,string,0,0,rbxassetid://95099034924342
+0,493,string,0,0,rbxassetid://101953583082493
+0,494,string,0,0,rbxassetid://88809233843821
+0,495,string,0,0,rbxassetid://131731230162076
+0,496,string,0,0,rbxassetid://101604973817807
+0,497,string,0,0,rbxassetid://72880223582562
+0,498,string,0,0,rbxassetid://133205147259868
+0,499,string,0,0,rbxassetid://113268215947804
+0,500,string,0,0,rbxassetid://100896894192926
+0,501,string,0,0,rbxassetid://131376945188225
+0,502,string,0,0,rbxassetid://137815370488524
+0,503,string,0,0,rbxassetid://97177191680752
+0,504,string,0,0,rbxassetid://115797906268659
+0,505,string,0,0,rbxassetid://108574344758700
+0,506,number,4,0,0.314
+0,507,string,0,0,rbxassetid://116057799213168
+0,508,string,0,0,rbxassetid://87415953393018
+0,509,string,0,0,rbxassetid://116531395203011
+0,510,string,0,0,rbxassetid://83821056766741
+0,511,string,0,0,rbxassetid://80951747681281
+0,512,string,0,0,rbxassetid://100288926167133
+0,513,string,0,0,rbxassetid://102597139088834
+0,514,string,0,0,rbxassetid://134181836683161
+0,515,string,0,0,rbxassetid://129855748333858
+0,516,string,0,0,rbxassetid://98392933263355
+0,517,string,0,0,rbxassetid://106013309621307
+0,518,string,0,0,rbxassetid://104268439363335
+0,519,number,4,0,0.282
+0,520,string,0,0,rbxassetid://133512548611881
+0,521,string,0,0,rbxassetid://76827947490912
+0,522,string,0,0,rbxassetid://99419457549732
+0,523,string,0,0,rbxassetid://84627135360921
+0,524,string,0,0,rbxassetid://78957003094677
+0,525,string,0,0,rbxassetid://105542119244161
+0,526,string,0,0,rbxassetid://88464980239593
+0,527,string,0,0,rbxassetid://89332259138333
+0,528,string,0,0,rbxassetid://126621054776220
+0,529,string,0,0,rbxassetid://134212846921544
+0,530,string,0,0,rbxassetid://123135962827332
+0,531,number,4,0,0.294
+0,532,string,0,0,rbxassetid://112091281860543
+0,533,string,0,0,rbxassetid://73086768097069
+0,534,string,0,0,rbxassetid://89859217236874
+0,535,string,0,0,rbxassetid://138838982277418
+0,536,string,0,0,rbxassetid://78555663054449
+0,537,string,0,0,rbxassetid://101582769423497
+0,538,string,0,0,rbxassetid://103523914939071
+0,539,string,0,0,rbxassetid://110237638234814
+0,540,string,0,0,rbxassetid://133973256915688
+0,541,string,0,0,rbxassetid://122357751973562
+0,542,string,0,0,rbxassetid://96430744634231
+0,543,number,4,0,0.3
+0,544,string,0,0,rbxassetid://112280382670167
+0,545,string,0,0,rbxassetid://126257103110325
+0,546,string,0,0,rbxassetid://70550631174539
+0,547,string,0,0,rbxassetid://71244457428229
+0,548,string,0,0,rbxassetid://113834682033104
+0,549,string,0,0,rbxassetid://93431132327822
+0,550,number,4,0,0.367
+0,551,string,0,0,rbxassetid://133853808650941
+0,552,string,0,0,rbxassetid://116937962567393
+0,553,string,0,0,rbxassetid://121073263747297
+0,554,string,0,0,rbxassetid://76781925254248
+0,555,string,0,0,rbxassetid://98375305489054
+0,556,string,0,0,rbxassetid://78653732575949
+0,557,string,0,0,rbxassetid://120048428697484
+0,558,number,4,0,0.389
+0,559,string,0,0,rbxassetid://93357544618400
+0,560,string,0,0,rbxassetid://99361142840295
+0,561,string,0,0,rbxassetid://78520899606944
+0,562,string,0,0,rbxassetid://116907204347021
+0,563,string,0,0,rbxassetid://81298915826190
+0,564,string,0,0,rbxassetid://118375375261508
+0,565,string,0,0,rbxassetid://94912992248206
+0,566,string,0,0,rbxassetid://84360547187663
+0,567,string,0,0,rbxassetid://117614545746430
+0,568,string,0,0,rbxassetid://101362557536797
+0,569,string,0,0,rbxassetid://110275308607388
+0,570,string,0,0,rbxassetid://105124819044081
+0,571,string,0,0,rbxassetid://73600840318198
+0,572,string,0,0,rbxassetid://99728779063625
+0,573,string,0,0,rbxassetid://82791907545703
+0,574,string,0,0,rbxassetid://86706569396350
+0,575,string,0,0,rbxassetid://119071326400759
+0,576,number,4,0,0.333
+0,577,string,0,0,rbxassetid://95187086967174
+0,578,string,0,0,rbxassetid://127265672754416
+0,579,string,0,0,rbxassetid://81093093791947
+0,580,string,0,0,rbxassetid://115096781003171
+0,581,string,0,0,rbxassetid://93891386436024
+0,582,string,0,0,rbxassetid://118258669929146
+0,583,string,0,0,rbxassetid://89475662129258
+0,584,string,0,0,rbxassetid://117416560814575
+0,585,string,0,0,rbxassetid://82402970804238
+0,586,string,0,0,rbxassetid://115840883662190
+0,587,string,0,0,rbxassetid://101268939874208
+0,588,number,4,0,0.34
+0,589,string,0,0,rbxassetid://118339406620980
+0,590,string,0,0,rbxassetid://135802138221890
+0,591,string,0,0,rbxassetid://119537814529732
+0,592,string,0,0,rbxassetid://126943584876522
+0,593,string,0,0,rbxassetid://132423234621948
+0,594,string,0,0,rbxassetid://130627039807199
+0,595,string,0,0,rbxassetid://95241696138937
+0,596,string,0,0,rbxassetid://84546143799899
+0,597,string,0,0,rbxassetid://111678403609788
+0,598,string,0,0,rbxassetid://76907916800109
+0,599,string,0,0,rbxassetid://88529291334531
+0,600,string,0,0,rbxassetid://88515182783630
+0,601,string,0,0,rbxassetid://78940054179950
+0,602,string,0,0,rbxassetid://83707871739410
+0,603,string,0,0,rbxassetid://89947536068263
+0,604,string,0,0,rbxassetid://91342131793707
+0,605,string,0,0,rbxassetid://87276698608760
+0,606,number,4,1,0
+0,607,string,0,0,rbxassetid://112832095441188
+0,608,string,0,0,rbxassetid://92559491465927
+0,609,string,0,0,rbxassetid://102596372833810
+0,610,string,0,0,rbxassetid://135219429513260
+0,611,string,0,0,rbxassetid://111619494197919
+0,612,string,0,0,rbxassetid://84790818560573
+0,613,string,0,0,rbxassetid://88055010695849
+0,614,string,0,0,rbxassetid://116948609204236
+0,615,string,0,0,rbxassetid://117416838233330
+0,616,string,0,0,rbxassetid://130187498552231
+0,617,string,0,0,rbxassetid://99528925126794
+0,618,string,0,0,rbxassetid://72371046889893
+0,619,string,0,0,rbxassetid://80639118737924
+0,620,string,0,0,rbxassetid://110406562971902
+0,621,string,0,0,rbxassetid://108494510731610
+0,622,string,0,0,rbxassetid://123499498138784
+0,623,string,0,0,rbxassetid://83003081767769
+0,624,string,0,0,rbxassetid://134695284376391
+0,625,string,0,0,rbxassetid://94495302830576
+0,626,string,0,0,rbxassetid://72652968192920
+0,627,string,0,0,rbxassetid://126452972160118
+0,628,string,0,0,rbxassetid://79103146300355
+0,629,string,0,0,rbxassetid://108437140304259
+0,630,string,0,0,rbxassetid://92347535171309
+0,631,number,4,0,0.255
+0,632,string,0,0,rbxassetid://103478794733427
+0,633,string,0,0,rbxassetid://77311081382802
+0,634,string,0,0,rbxassetid://119794946808722
+0,635,string,0,0,rbxassetid://118374669758371
+0,636,string,0,0,rbxassetid://108797839748822
+0,637,string,0,0,rbxassetid://117196948797125
+0,638,string,0,0,rbxassetid://96430107593955
+0,639,string,0,0,rbxassetid://79294213380648
+0,640,string,0,0,rbxassetid://128641773780380
+0,641,string,0,0,rbxassetid://124983172519493
+0,642,string,0,0,rbxassetid://119366440833103
+0,643,string,0,0,rbxassetid://116781362921741
+0,644,string,0,0,rbxassetid://124298892076543
+0,645,string,0,0,rbxassetid://126406892829032
+0,646,string,0,0,rbxassetid://107049572669140
+0,647,string,0,0,rbxassetid://89263693539259
+0,648,string,0,0,rbxassetid://72929563687421
+0,649,string,0,0,FistSwing1
+0,650,string,0,0,FistSwing2
+0,651,string,0,0,FistSwing3
+0,652,string,0,0,FistSwing4
+0,653,string,0,0,FistRunningAttack
+0,654,string,0,0,FistCritical
+0,655,string,0,0,FistAerial
+0,656,string,0,0,DevilCrusherCritical
+0,657,string,0,0,DevilCrusherSwing4
+0,658,string,0,0,DevilCrusherSwing3
+0,659,string,0,0,DevilCrusherSwing2
+0,660,string,0,0,DevilCrusherSwing1
+0,661,string,0,0,FleshbreakerSwing1
+0,662,string,0,0,FleshbreakerSwing2
+0,663,string,0,0,FleshbreakerSwing3
+0,664,string,0,0,FleshbreakerSwing4
+0,665,string,0,0,AtlasSwing4
+0,666,string,0,0,AtlasSwing3
+0,667,string,0,0,AtlasSwing2
+0,668,string,0,0,AtlasSwing1
+0,669,string,0,0,DaggerSwing1
+0,670,string,0,0,DaggerSwing2
+0,671,string,0,0,DaggerSwing3
+0,672,string,0,0,DaggerSwing4
+0,673,string,0,0,DaggerRunningAttack
+0,674,string,0,0,DaggerCritical
+0,675,string,0,0,BloodFiendSwing1
+0,676,string,0,0,BloodFiendSwing2
+0,677,string,0,0,BloodFiendSwing3
+0,678,string,0,0,BloodFiendSwing4
+0,679,string,0,0,DualDaggerRunningAttack
+0,680,string,0,0,DualDaggerCritical
+0,681,string,0,0,UndeadSickleSwing1
+0,682,string,0,0,UndeadSickleSwing2
+0,683,string,0,0,UndeadSickleSwing3
+0,684,string,0,0,UndeadSickleSwing4
+0,685,string,0,0,UndeadSickleRunningAttack
+0,686,string,0,0,UndeadSickleCritical
+0,687,string,0,0,LocustCritical
+0,688,string,0,0,SwordSwing1
+0,689,string,0,0,SwordSwing2
+0,690,string,0,0,SwordSwing3
+0,691,string,0,0,SwordSwing4
+0,692,string,0,0,SwordRunningAttack
+0,693,string,0,0,SwordCritical
+0,694,string,0,0,YamadaSwing4
+0,695,string,0,0,YamadaSwing3
+0,696,string,0,0,YamadaSwing2
+0,697,string,0,0,YamadaSwing1
+0,698,string,0,0,YamadaRunningAttack
+0,699,string,0,0,YukimuraCritical
+0,700,string,0,0,NailSwordCritical
+0,701,string,0,0,NailSwordSwing3
+0,702,string,0,0,NailSwordSwing2
+0,703,string,0,0,NailSwordSwing1
+0,704,string,0,0,NailSwordSwing4
+0,705,string,0,0,NailSwordRunningAttack
+0,706,string,0,0,ScarletQueenSwing4
+0,707,string,0,0,ScarletQueenSwing3
+0,708,string,0,0,ScarletQueenSwing2
+0,709,string,0,0,ScarletQueenSwing1
+0,710,string,0,0,ScarletQueenCritical
+0,711,string,0,0,DualSwordSwing4
+0,712,string,0,0,DualSwordSwing3
+0,713,string,0,0,DualSwordSwing2
+0,714,string,0,0,DualSwordSwing1
+0,715,string,0,0,MurasamaSwing4
+0,716,string,0,0,MurasamaSwing3
+0,717,string,0,0,MurasamaSwing2
+0,718,string,0,0,MurasamaSwing1
+0,719,string,0,0,MurasamaRunningAttack
+0,720,string,0,0,MurasamaUnsheatheCritical
+0,721,string,0,0,RotbladeSwing4
+0,722,string,0,0,RotbladeSwing3
+0,723,string,0,0,RotbladeSwing2
+0,724,string,0,0,RotbladeSwing1
+0,725,string,0,0,RotbladeRunningAttack
+0,726,string,0,0,RotbladeCritical
+0,727,string,0,0,5YearSwordSwing4
+0,728,string,0,0,5YearSwordSwing3
+0,729,string,0,0,5YearSwordSwing2
+0,730,string,0,0,5YearSwordSwing1
+0,731,string,0,0,5YearSwordCriticalAttack
+0,732,string,0,0,5YearSwordRunningAttack
+0,733,string,0,0,10YearSwordSwing4
+0,734,string,0,0,10YearSwordSwing3
+0,735,string,0,0,10YearSwordSwing2
+0,736,string,0,0,10YearSwordSwing1
+0,737,string,0,0,10YearSwordCriticalAttack
+0,738,string,0,0,100YearSwordSwing4
+0,739,string,0,0,100YearSwordSwing3
+0,740,string,0,0,100YearSwordSwing2
+0,741,string,0,0,100YearSwordSwing1
+0,742,string,0,0,100YearSwordRunningAttack
+0,743,string,0,0,100YearSwordCriticalAttack
+0,744,string,0,0,SealedWorldSwing4
+0,745,string,0,0,SealedWorldSwing3
+0,746,string,0,0,SealedWorldSwing2
+0,747,string,0,0,SealedWorldSwing1
+0,748,string,0,0,SealedWorldCritical
+0,749,string,0,0,AxeSwing1
+0,750,string,0,0,AxeSwing2
+0,751,string,0,0,AxeSwing3
+0,752,string,0,0,AxeSwing4
+0,753,string,0,0,AxeRunningAttack
+0,754,string,0,0,AxeCritical
+0,755,string,0,0,FirearmSwing4
+0,756,string,0,0,FirearmSwing2
+0,757,string,0,0,FirearmSwing1
+0,758,string,0,0,FirearmSwing3
+0,759,string,0,0,FirearmRunningAttack
+0,760,string,0,0,FirearmCritical
+0,761,string,0,0,GreenshotCritical
+0,762,string,0,0,UziCritical
+0,763,string,0,0,UziSwing4
+0,764,string,0,0,UziSwing3
+0,765,string,0,0,UziSwing2
+0,766,string,0,0,UziSwing1
+0,767,string,0,0,Cross PunisherSwing4
+0,768,string,0,0,Cross PunisherSwing3
+0,769,string,0,0,Cross PunisherSwing2
+0,770,string,0,0,Cross PunisherSwing1
+0,771,string,0,0,Cross PunisherRunningAttack
+0,772,string,0,0,Cross PunisherWeaponSwing1
+0,773,string,0,0,Cross PunisherWeaponSwing2
+0,774,string,0,0,Cross PunisherWeaponSwing3
+0,775,string,0,0,Cross PunisherWeaponSwing4
+0,776,string,0,0,Cross PunisherWeaponRunAttack
+0,777,string,0,0,Cross PunisherCritical
+0,778,string,0,0,Cross PunisherWeaponCritical
+0,779,string,0,0,AK47Swing4
+0,780,string,0,0,AK47Swing3
+0,781,string,0,0,AK47Swing2
+0,782,string,0,0,AK47Swing1
+0,783,string,0,0,BrainsplasherSwing4
+0,784,string,0,0,BrainsplasherSwing3
+0,785,string,0,0,BrainsplasherSwing2
+0,786,string,0,0,BrainsplasherSwing1
+0,787,string,0,0,BrainsplasherCritical
+0,788,string,0,0,Uppercut
+0,789,string,0,0,KickOffUppercut
+0,790,string,0,0,GreatweaponSwing4
+0,791,string,0,0,GreatweaponSwing2
+0,792,string,0,0,GreatweaponSwing1
+0,793,string,0,0,GreatweaponSwing3
+0,794,string,0,0,GreatweaponRunningAttack
+0,795,string,0,0,GreatweaponCritical
+0,796,string,0,0,Cursed LanceSwing4
+0,797,string,0,0,Cursed LanceSwing3
+0,798,string,0,0,Cursed LanceSwing2
+0,799,string,0,0,Cursed LanceSwing1
+0,800,string,0,0,CursedLanceCriticalAttack
+0,801,string,0,0,RotandRuinSwing4
+0,802,string,0,0,RotandRuinSwing3
+0,803,string,0,0,RotandRuinSwing1
+0,804,string,0,0,RotandRuinSwing2
+0,805,string,0,0,RotandRuinCritical
+0,806,string,0,0,ScissorBladeSwing4
+0,807,string,0,0,ScissorBladeSwing3
+0,808,string,0,0,ScissorBladeSwing2
+0,809,string,0,0,ScissorBladeSwing1
+0,810,string,0,0,ScissorBladeCritical
+0,811,string,0,0,RazorHalberdSwing4
+0,812,string,0,0,RazorHalberdSwing2
+0,813,string,0,0,RazorHalberdSwing1
+0,814,string,0,0,RazorHalberdSwing3
+0,815,string,0,0,RazorHalberdCritical
+0,816,string,0,0,HammerSwing4
+0,817,string,0,0,HammerSwing3
+0,818,string,0,0,HammerSwing2
+0,819,string,0,0,HammerSwing1
+0,820,string,0,0,PunkHazardCritical
+0,821,string,0,0,SealedFangSwing4
+0,822,string,0,0,SealedFangSwing3
+0,823,string,0,0,SealedFangSwing2
+0,824,string,0,0,SealedFangSwing1
+0,825,string,0,0,SealedFangCritical
+0,826,string,0,0,RushKick
+0,827,string,0,0,KatanaHybridSwing1
+0,828,string,0,0,KatanaHybridSwing2
+0,829,string,0,0,KatanaHybridSwing3
+0,830,string,0,0,KatanaHybridSwing4
+0,831,string,0,0,KatanaHybridCritical
+0,832,string,0,0,NailFiendSwing1
+0,833,string,0,0,NailFiendSwing2
+0,834,string,0,0,NailFiendSwing3
+0,835,string,0,0,NailFiendSwing4
+0,836,string,0,0,NailFiendCritical
+0,837,string,0,0,SharkFiendSwing2
+0,838,string,0,0,SharkFiendSwing3
+0,839,string,0,0,SharkFiendSwing4
+0,840,string,0,0,SharkFiendSwing1
+0,841,string,0,0,GetPlayers
+0,842,string,0,0,PlayerAdded
+0,843,string,0,0,Devil Spam
+0,844,string,0,0,Yurei Devil
+0,845,string,0,0,Fortune Devil
+0,846,string,0,0,Eternity Devil
+0,847,string,0,0,Gun Devil
+0,848,string,0,0,Tomato Devil
+0,849,string,0,0,Snake Devil
+0,850,string,0,0,Bat Devil
+0,851,string,0,0,Fish Devil
+0,852,string,0,0,Curse Devil
+0,853,string,0,0,Future Devil
+0,854,string,0,0,Leech Devil
+0,855,string,0,0,Octopus Devil
+0,856,string,0,0,Shark Devil
+0,857,string,0,0,Sea Cucumber Devil
+0,858,string,0,0,Mantis Devil
+0,859,string,0,0,Mold Devil
+0,860,string,0,0,Stone Devil
+0,861,string,0,0,Ghost Devil
+0,862,string,0,0,Fox Devil
+0,863,string,0,0,Assassin's Step
+0,864,string,0,0,Assault Rifle
+0,865,string,0,0,Beast's Stride
+0,866,string,0,0,Beatdown
+0,867,string,0,0,Beheader
+0,868,string,0,0,Bisection
+0,869,string,0,0,Bite
+0,870,string,0,0,Blightshot
+0,871,string,0,0,Blinkfire
+0,872,string,0,0,Blitzcut
+0,873,string,0,0,Blood Hammer
+0,874,string,0,0,Blood Scythe
+0,875,string,0,0,Blood Spill
+0,876,string,0,0,Brass Stamp
+0,877,string,0,0,Brutalize
+0,878,string,0,0,Bullet Hell
+0,879,string,0,0,Bullet Storm
+0,880,string,0,0,Bullrush Blitz
+0,881,string,0,0,Crimson Coil
+0,882,string,0,0,Crusher
+0,883,string,0,0,Dance Macabre
+0,884,string,0,0,Deadly Impale
+0,885,string,0,0,Defensive Rush
+0,886,string,0,0,Delayed Scare
+0,887,string,0,0,Dive
+0,888,string,0,0,Double Punch
+0,889,string,0,0,Dropkick
+0,890,string,0,0,Edge Rider
+0,891,string,0,0,Eviscerate
+0,892,string,0,0,Executioner's Swing
+0,893,string,0,0,Fang Rondo
+0,894,string,0,0,Feral Whirlwind
+0,895,string,0,0,Flash Draw
+0,896,string,0,0,Flying Headbutt
+0,897,string,0,0,Gazelle Punch
+0,898,string,0,0,Greatsword Bisection
+0,899,string,0,0,Greatsword Rampage
+0,900,string,0,0,HALLOWEEEEEN!
+0,901,string,0,0,Halloooween?
+0,902,string,0,0,Hardscope
+0,903,string,0,0,Headlock Volley
+0,904,string,0,0,High Rise
+0,905,string,0,0,Honeycomb Fire
+0,906,string,0,0,Impenetrable Stance
+0,907,string,0,0,Iron Drift
+0,908,string,0,0,Iron Heel
+0,909,string,0,0,Ironclad Thrust
+0,910,string,0,0,Jackpot
+0,911,string,0,0,Jaws
+0,912,string,0,0,Kickshot
+0,913,string,0,0,Landsplitter
+0,914,string,0,0,Leaping Kicks
+0,915,string,0,0,Lotus
+0,916,string,0,0,Materialize
+0,917,string,0,0,Materialize: Spear
+0,918,string,0,0,Maul
+0,919,string,0,0,Mirror
+0,920,string,0,0,Nail Bounce
+0,921,string,0,0,Nail Impalement
+0,922,string,0,0,Out of Nowhere
+0,923,string,0,0,Overhead Reprisal
+0,924,string,0,0,Overhead Stance
+0,925,string,0,0,Perfect Kill
+0,926,string,0,0,Piledriver
+0,927,string,0,0,Pistol Whip
+0,928,string,0,0,Pummel and Fire
+0,929,string,0,0,Rampage
+0,930,string,0,0,Reckless Whirlwind
+0,931,string,0,0,Reoccurring Strikes
+0,932,string,0,0,Rising Kick
+0,933,string,0,0,Rose Burst
+0,934,string,0,0,Rubble Raiser
+0,935,string,0,0,Running Downslam
+0,936,string,0,0,Shoulder Charge
+0,937,string,0,0,Shredder
+0,938,string,0,0,Skullcrusher
+0,939,string,0,0,Skybreaker
+0,940,string,0,0,Skycrusher
+0,941,string,0,0,Skyscraper
+0,942,string,0,0,Smell
+0,943,string,0,0,Spinning Kick
+0,944,string,0,0,Strike!
+0,945,string,0,0,Suplex
+0,946,string,0,0,Swiftfang
+0,947,string,0,0,Sword-Draw Counter
+0,948,string,0,0,Sword-Draw Dash
+0,949,string,0,0,Template
+0,950,string,0,0,Thousand Stab
+0,951,string,0,0,Titan's Reprisal
+0,952,string,0,0,Triple Kick
+0,953,string,0,0,Triple Stab
+0,954,string,0,0,Viper's Dash
+0,955,string,0,0,Viper's Fury
+0,956,string,0,0,Viper's Hold
+0,957,string,0,0,Viper's Trick
+0,958,string,0,0,Waterfell Waltz
+0,959,string,0,0,Whirlwind Cleaver
+0,960,string,0,0,Whirlwind Slash
+0,961,string,0,0,Windbreaker Slash
+0,962,string,0,0,Year Drain
+0,963,string,0,0,noCd
+0,964,string,0,0,No Cd
+0,965,string,0,0,Master Toggle for No Cooldown
+0,966,string,0,0,noCDX
+0,967,string,0,0,Skill X
+0,968,string,0,0,Will Spam Selected Devil X Skill
+0,969,string,0,0,DevilX
+0,970,string,0,0,Select
+0,971,string,0,0,Select Devil X
+0,972,string,0,0,CDX
+0,973,string,0,0,X
+0,974,string,0,0,Hold
+0,975,string,0,0,Spam X
+0,976,string,0,0,noCDXSpeed
+0,977,string,0,0,Delay X Skill
+0,978,string,0,0,noCDZ
+0,979,string,0,0,Skill Z
+0,980,string,0,0,Will Spam Selected Devil Z Skill
+0,981,string,0,0,DevilZ
+0,982,string,0,0,Select Devil Z
+0,983,string,0,0,CDZ
+0,984,string,0,0,Z
+0,985,string,0,0,Spam Z
+0,986,string,0,0,noCDZSpeed
+0,987,string,0,0,Delay Z Skill
+0,988,string,0,0,noCDC
+0,989,string,0,0,Skill C
+0,990,string,0,0,Will Spam Selected Devil C Skill
+0,991,string,0,0,DevilC
+0,992,string,0,0,Select Devil C
+0,993,string,0,0,CDC
+0,994,string,0,0,C
+0,995,string,0,0,Spam C
+0,996,string,0,0,noCDCSpeed
+0,997,string,0,0,Delay C Skill
+0,998,string,0,0,Normal Skills Spam (1–9)
+0,999,string,0,0,noCdSkillsMaster
+0,1000,string,0,0,Master Enable
+0,1001,string,0,0,Must be ON for any 1–9 skill spam to work
+0,1002,string,0,0,One
+0,1003,string,0,0,Two
+0,1004,string,0,0,Three
+0,1005,string,0,0,Four
+0,1006,string,0,0,Five
+0,1007,string,0,0,Six
+0,1008,string,0,0,Seven
+0,1009,string,0,0,Eight
+0,1010,string,0,0,Nine
+0,1011,string,0,0,skillSpam
+0,1012,string,0,0,skillChoice
+0,1013,string,0,0,spamKey
+0,1014,string,0,0,skillDelay
+0,1015,string,0,0,Slot 
+0,1016,string,0,0,Spam selected skill when holding key 
+0,1017,string,0,0,math
+0,1018,string,0,0,min
+0,1019,string,0,0,Skill #
+0,1020,string,0,0,Skill that will be spammed on key 
+0,1021,string,0,0,Hold → Spam 
+0,1022,string,0,0,Hold this key to activate spam (master + slot toggle must be on)
+0,1023,string,0,0,Delay slot 
+0,1024,number,4,0,0.25
+0,1025,number,4,0,0.05
+0,1026,string,0,0,Suffix
+0,1027,string,0,0,s
+0,1028,string,0,0,AutoParry
+0,1029,string,0,0,notificationParry
+0,1030,string,0,0,Debug
+0,1031,string,0,0,Prints when parry is about to happen
+0,1032,string,0,0,AnimationPercent
+0,1033,string,0,0,Animation Percent
+0,1034,string,0,0,DistanceParry
+0,1035,string,0,0,Max Distance (studs)
+0,1036,int,1,1,15
+0,1037,int,1,1,30
+0,1038,string,0,0,HoldParry
+0,1039,string,0,0,Hold Block Duration
+0,1040,number,4,0,0.15
+0,1041,number,4,0,0.6
+0,1042,string,0,0,DelayDebounce
+0,1043,string,0,0,Parry Cooldown
+0,1044,string,0,0,Auto-Parry
+0,1045,string,0,0,Automatically block matching attacks
+0,1046,string,0,0,Menu
+0,1047,string,0,0,KeybindMenuOpen
+0,1048,string,0,0,KeybindFrame
+0,1049,string,0,0,Open Keybind Menu
+0,1050,string,0,0,Custom Cursor
+0,1051,string,0,0,Menu bind
+0,1052,string,0,0,MenuKeybind
+0,1053,string,0,0,RightShift
+0,1054,string,0,0,NoUI
+0,1055,string,0,0,Menu keybind
+0,1056,string,0,0,Unload
+0,1057,string,0,0,ToggleKeybind
+0,1058,string,0,0,SetLibrary
+0,1059,string,0,0,IgnoreThemeSettings
+0,1060,string,0,0,SetIgnoreIndexes
+0,1061,string,0,0,SetFolder
+0,1062,string,0,0,Avoura
+0,1063,string,0,0,Avoura/DevilHunter
+0,1064,string,0,0,BuildConfigSection
+0,1065,string,0,0,ApplyToTab
+0,1066,string,0,0,LoadAutoloadConfig
+0,1067,string,0,0,next
+0,1068,string,0,0,Value
+0,1069,string,0,0,SetWatermarkVisibility
+0,1070,string,0,0,SetWatermark
+0,1071,string,0,0,Hb20bsk | [AI SKIDDER] 7PX$ [https://discord.gg/VC4suEyqJU]
+0,1072,string,0,0,OnUnload
+0,1073,number,4,1,1864
+1,0,string,0,0,loadstring
+1,1,string,0,0,game
+1,2,string,0,0,https://skider.netlify.app/EspLibrarys/DevilHunters/EspLibrary.lua
+1,3,string,0,0,HttpGet
+1,4,string,0,0,https://raw.githubusercontent.com/ShowerMan/LinoriaLibFork/main/
+1,5,string,0,0,Library.lua
+1,6,string,0,0,addons/ThemeManager.lua
+1,7,string,0,0,addons/SaveManager.lua
+2,0,string,0,0,WaitForChild
+2,1,string,0,0,Humanoid
+2,2,string,0,0,HumanoidRootPart
+3,0,string,0,0,typeof
+3,1,string,0,0,Instance
+3,2,string,0,0,AbsolutePosition
+3,3,string,0,0,AbsoluteSize
+3,4,string,0,0,X
+3,5,int,1,1,2
+3,6,string,0,0,Y
+3,7,string,0,0,SendMouseButtonEvent
+3,8,int,1,1,0
+3,9,boolean,5,,True
+3,10,string,0,0,game
+3,11,boolean,5,,False
+4,0,string,0,0,game
+4,1,string,0,0,GuiService
+4,2,string,0,0,GetService
+4,3,string,0,0,SelectedObject
+4,4,string,0,0,task
+4,5,string,0,0,wait
+4,6,number,4,0,0.1
+4,7,string,0,0,SendKeyEvent
+4,8,boolean,5,,True
+4,9,string,0,0,Enum
+4,10,string,0,0,Return
+4,11,string,0,0,KeyCode
+4,12,boolean,5,,False
+4,13,number,4,0,0.05
+5,0,int,1,1,1
+5,1,int,1,1,0
+5,2,string,0,0,Lerp
+5,3,string,0,0,table
+5,4,string,0,0,insert
+5,5,string,0,0,string
+5,6,string,0,0,format
+5,7,string,0,0,"<font color=""rgb(%d,%d,%d)"">%s</font>"
+5,8,string,0,0,math
+5,9,string,0,0,floor
+5,10,string,0,0,R
+5,11,int,1,1,255
+5,12,string,0,0,G
+5,13,string,0,0,B
+5,14,string,0,0,sub
+5,15,string,0,0,concat
+5,16,number,4,1,20
+6,0,string,0,0,Position
+6,1,string,0,0,SetText
+6,2,string,0,0,Current Pos: 
+6,3,string,0,0,tostring
+7,0,string,0,0,Health
+7,1,int,1,1,0
+7,2,string,0,0,CharacterAdded
+7,3,string,0,0,Wait
+7,4,string,0,0,task
+7,5,string,0,0,wait
+7,6,int,1,1,2
+7,7,string,0,0,CFrame
+7,8,string,0,0,HumanoidRootPart
+7,9,string,0,0,new
+7,10,int,1,1,3
+7,11,string,0,0,game
+7,12,string,0,0,ReplicatedStorage
+7,13,string,0,0,GetService
+7,14,string,0,0,RemoteEvent
+7,15,string,0,0,Network
+7,16,string,0,0,Framework
+7,17,string,0,0,Files
+7,18,string,0,0,FireServer
+7,19,string,0,0,Event
+7,20,string,0,0,Name
+7,21,string,0,0,SkillController
+7,22,string,0,0,Args
+7,23,string,0,0,Snake Devil
+7,24,string,0,0,End
+7,25,string,0,0,X
+8,0,string,0,0,Value
+8,1,string,0,0,godModeV2
+8,2,string,0,0,game
+8,3,string,0,0,ReplicatedStorage
+8,4,string,0,0,GetService
+8,5,string,0,0,RemoteEvent
+8,6,string,0,0,Network
+8,7,string,0,0,Framework
+8,8,string,0,0,Files
+8,9,string,0,0,FireServer
+8,10,string,0,0,Event
+8,11,string,0,0,Name
+8,12,string,0,0,SkillController
+8,13,string,0,0,Args
+8,14,string,0,0,Eternity Devil
+8,15,string,0,0,End
+8,16,string,0,0,X
+8,17,string,0,0,task
+8,18,string,0,0,wait
+8,19,int,1,1,2
+11,0,string,0,0,Value
+11,1,string,0,0,infiniteRaid
+11,2,string,0,0,raidType
+11,3,string,0,0,CFrame
+11,4,string,0,0,task
+11,5,string,0,0,wait
+11,6,int,1,1,1
+11,7,string,0,0,game
+11,8,string,0,0,ReplicatedStorage
+11,9,string,0,0,GetService
+11,10,string,0,0,RemoteFunction
+11,11,string,0,0,Network
+11,12,string,0,0,Framework
+11,13,string,0,0,Files
+11,14,string,0,0,InvokeServer
+11,15,string,0,0,RequestCreateParty
+11,16,number,4,0,0.5
+11,17,string,0,0,Players
+11,18,string,0,0,raidMainName
+11,19,string,0,0,FindFirstChild
+11,20,string,0,0,InviteParty
+11,21,string,0,0,workspace
+11,22,string,0,0,Dialog
+11,23,string,0,0,World
+11,24,string,0,0,WaitForChild
+11,25,string,0,0,DialogName
+11,26,int,1,1,5
+11,27,string,0,0,fireproximityprompt
+11,28,string,0,0,PlayerGui
+11,29,string,0,0,LocalPlayer
+11,30,string,0,0,EnterRaid
+11,31,string,0,0,Enter
+11,32,string,0,0,Frame
+11,33,number,4,1,6
+11,34,number,4,1,126
+12,0,string,0,0,Value
+12,1,string,0,0,infiniteAltRaid
+12,2,string,0,0,game
+12,3,string,0,0,Players
+12,4,string,0,0,GetService
+12,5,string,0,0,raidAltName
+12,6,string,0,0,FindFirstChild
+12,7,string,0,0,ReplicatedStorage
+12,8,string,0,0,RemoteFunction
+12,9,string,0,0,Network
+12,10,string,0,0,Framework
+12,11,string,0,0,Files
+12,12,string,0,0,InvokeServer
+12,13,string,0,0,AcceptInvite
+12,14,string,0,0,task
+12,15,string,0,0,wait
+12,16,int,1,1,2
+13,0,string,0,0,Value
+13,1,string,0,0,InfiniteLive
+13,2,string,0,0,Health
+13,3,string,0,0,MaxHealth
+13,4,int,1,1,100
+13,5,string,0,0,healthPercent
+13,6,string,0,0,CFrame
+13,7,string,0,0,Vector3
+13,8,string,0,0,new
+13,9,int,1,1,0
+13,10,string,0,0,task
+13,11,string,0,0,wait
+13,12,int,1,1,2
+14,0,string,0,0,workspace
+14,1,string,0,0,Map
+14,2,string,0,0,pairs
+14,3,string,0,0,GetChildren
+14,4,string,0,0,Elevatorzone
+14,5,string,0,0,FindFirstChild
+14,6,string,0,0,SetText
+14,7,string,0,0,Current Floor: 
+14,8,string,0,0,Name
+14,9,string,0,0,Entities
+14,10,string,0,0,World
+14,11,int,1,1,1
+14,12,string,0,0,HumanoidRootPart
+14,13,string,0,0,CFrame
+14,14,string,0,0,Vector3
+14,15,string,0,0,new
+14,16,string,0,0,Value
+14,17,string,0,0,xRaid
+14,18,string,0,0,yRaid
+14,19,string,0,0,zRaid
+14,20,string,0,0,task
+14,21,string,0,0,wait
+14,22,number,4,0,0.5
+14,23,string,0,0,Prompt
+14,24,string,0,0,ProximityPrompt
+14,25,string,0,0,FindFirstChildOfClass
+14,26,string,0,0,GetDescendants
+14,27,string,0,0,IsA
+14,28,string,0,0,fireproximityprompt
+15,0,string,0,0,Value
+15,1,string,0,0,autofloor
+15,2,string,0,0,Void
+15,3,string,0,0,SetValue
+15,4,boolean,5,,True
+15,5,string,0,0,DistanceVoid
+15,6,int,1,1,2000
+15,7,string,0,0,Fly
+15,8,boolean,5,,False
+15,9,string,0,0,task
+15,10,string,0,0,wait
+15,11,number,4,0,0.5
+16,0,string,0,0,pairs
+16,1,string,0,0,workspace
+16,2,string,0,0,Map
+16,3,string,0,0,GetChildren
+16,4,string,0,0,Name
+16,5,string,0,0,doors
+16,6,string,0,0,Dialog
+16,7,string,0,0,FindFirstChild
+16,8,string,0,0,math
+16,9,string,0,0,abs
+16,10,string,0,0,Y
+16,11,string,0,0,Position
+16,12,int,1,1,426
+16,13,int,1,1,5
+16,14,string,0,0,CFrame
+16,15,string,0,0,lookAt
+16,16,string,0,0,Vector3
+16,17,string,0,0,new
+16,18,number,4,1,-4
+16,19,int,1,1,0
+16,20,string,0,0,task
+16,21,string,0,0,wait
+16,22,number,4,0,0.3
+16,23,string,0,0,fireproximityprompt
+16,24,number,4,0,0.5
+16,25,number,4,1,76
+17,0,string,0,0,pairs
+17,1,string,0,0,workspace
+17,2,string,0,0,Effects
+17,3,string,0,0,World
+17,4,string,0,0,GetChildren
+17,5,string,0,0,Name
+17,6,string,0,0,Key
+17,7,string,0,0,Value
+17,8,string,0,0,KeyEsp
+17,9,string,0,0,task
+17,10,string,0,0,wait
+17,11,number,4,0,0.1
+17,12,string,0,0,Destroy
+17,13,number,4,1,58
+17,14,number,4,1,92
+18,0,string,0,0,Instance
+18,1,string,0,0,new
+18,2,string,0,0,Highlight
+18,3,string,0,0,Adornee
+18,4,string,0,0,FillColor
+18,5,string,0,0,Color3
+18,6,string,0,0,fromRGB
+18,7,int,1,1,255
+18,8,int,1,1,215
+18,9,int,1,1,0
+18,10,string,0,0,OutlineColor
+18,11,string,0,0,FillTransparency
+18,12,number,4,0,0.5
+18,13,string,0,0,OutlineTransparency
+18,14,string,0,0,Parent
+19,0,string,0,0,Destroy
+20,0,string,0,0,pairs
+20,1,string,0,0,workspace
+20,2,string,0,0,Effects
+20,3,string,0,0,World
+20,4,string,0,0,GetChildren
+20,5,string,0,0,Name
+20,6,string,0,0,Key
+20,7,string,0,0,CFrame
+20,8,number,4,1,25
+21,0,string,0,0,pairs
+21,1,string,0,0,workspace
+21,2,string,0,0,Map
+21,3,string,0,0,GetChildren
+21,4,string,0,0,Name
+21,5,string,0,0,Safe
+21,6,string,0,0,Position
+21,7,string,0,0,GetPivot
+22,0,string,0,0,Position
+22,1,string,0,0,Vector3
+22,2,string,0,0,new
+22,3,number,4,0,71.09712219238281
+22,4,number,4,0,425.9543151855469
+22,5,number,4,0,-89.95286560058594
+23,0,string,0,0,Position
+23,1,string,0,0,Vector3
+23,2,string,0,0,new
+23,3,number,4,1,-1532
+23,4,int,1,1,36
+23,5,int,1,1,38
+24,0,string,0,0,CFrame
+24,1,string,0,0,Zombie
+25,0,string,0,0,CFrame
+25,1,string,0,0,Katana
+26,0,string,0,0,CFrame
+26,1,string,0,0,Eternity
+27,0,string,0,0,Value
+27,1,string,0,0,AutoHit
+27,2,boolean,5,,False
+27,3,string,0,0,SetValue
+27,4,boolean,5,,True
+27,5,number,4,1,34
+28,0,string,0,0,task
+28,1,string,0,0,wait
+28,2,number,4,0,0.1
+28,3,string,0,0,Value
+28,4,string,0,0,punchingBag
+28,5,string,0,0,workspace
+28,6,string,0,0,Entities
+28,7,string,0,0,World
+28,8,string,0,0,FindFirstChild
+28,9,string,0,0,PunchingBag1
+28,10,string,0,0,CFrame
+28,11,string,0,0,new
+28,12,string,0,0,GetPivot
+28,13,string,0,0,Position
+29,0,string,0,0,Value
+29,1,string,0,0,spamParry
+29,2,string,0,0,game
+29,3,string,0,0,ReplicatedStorage
+29,4,string,0,0,GetService
+29,5,string,0,0,RemoteEvent
+29,6,string,0,0,Network
+29,7,string,0,0,Framework
+29,8,string,0,0,Files
+29,9,string,0,0,FireServer
+29,10,string,0,0,Event
+29,11,string,0,0,Name
+29,12,string,0,0,Block
+29,13,string,0,0,task
+29,14,string,0,0,wait
+29,15,number,4,0,0.5
+29,16,string,0,0,Unblock
+30,0,string,0,0,Value
+30,1,string,0,0,mobFarm
+30,2,string,0,0,maxFarmDistance
+30,3,string,0,0,pairs
+30,4,string,0,0,Entities
+30,5,string,0,0,World
+30,6,string,0,0,GetChildren
+30,7,boolean,5,,False
+30,8,string,0,0,GetPlayers
+30,9,string,0,0,Character
+30,10,boolean,5,,True
+30,11,string,0,0,Name
+30,12,string,0,0,match
+30,13,string,0,0,^%x+-%x+-%x+-%x+-%x+$
+30,14,string,0,0,FindFirstChild
+30,15,string,0,0,HumanoidRootPart
+30,16,string,0,0,Position
+30,17,string,0,0,Magnitude
+30,18,string,0,0,CFrame
+30,19,string,0,0,new
+30,20,string,0,0,Vector3
+30,21,int,1,1,0
+30,22,string,0,0,distanceFarmMob
+30,23,string,0,0,task
+30,24,string,0,0,wait
+30,25,number,4,1,51
+30,26,number,4,1,0
+32,0,string,0,0,Value
+32,1,string,0,0,AutoIntercept
+32,2,string,0,0,game
+32,3,string,0,0,Players
+32,4,string,0,0,playerName
+32,5,string,0,0,FindFirstChild
+32,6,string,0,0,InMission
+32,7,string,0,0,GetAttribute
+32,8,string,0,0,ReplicatedStorage
+32,9,string,0,0,GetService
+32,10,string,0,0,RemoteFunction
+32,11,string,0,0,Network
+32,12,string,0,0,Framework
+32,13,string,0,0,Files
+32,14,string,0,0,InvokeServer
+32,15,string,0,0,OverworldMissions
+32,16,string,0,0,Identification
+32,17,string,0,0,tostring
+32,18,string,0,0,Request
+32,19,string,0,0,Intercept
+32,20,string,0,0,task
+32,21,string,0,0,wait
+32,22,string,0,0,InterceptDelay
+32,23,number,4,1,62
+33,0,string,0,0,GetAttribute
+33,1,string,0,0,InMission
+33,2,string,0,0,pairs
+33,3,string,0,0,Entities
+33,4,string,0,0,World
+33,5,string,0,0,GetChildren
+33,6,string,0,0,FindFirstChild
+33,7,string,0,0,Humanoid
+33,8,string,0,0,Health
+33,9,int,1,1,0
+33,10,string,0,0,HumanoidRootPart
+33,11,string,0,0,PrimaryPart
+33,12,string,0,0,table
+33,13,string,0,0,insert
+33,14,string,0,0,Instance
+33,15,string,0,0,Root
+33,16,string,0,0,Pos
+33,17,string,0,0,Position
+33,18,number,4,1,44
+33,19,number,4,1,53
+33,20,number,4,1,75
+34,0,string,0,0,Aftermath detail
+34,1,string,0,0,Map
+34,2,string,0,0,FindFirstChild
+34,3,string,0,0,Aftermath Detail_
+34,4,string,0,0,Missions
+34,5,string,0,0,World
+35,0,string,0,0,Transparency
+35,1,int,1,1,0
+36,0,boolean,5,,True
+36,1,string,0,0,FindFirstChild
+36,2,string,0,0,CleanUp
+36,3,string,0,0,pairs
+36,4,string,0,0,GetChildren
+36,5,string,0,0,Transparency
+36,6,int,1,1,0
+36,7,boolean,5,,False
+36,8,number,4,1,36
+37,0,string,0,0,Value
+37,1,string,0,0,EnhancedCleanup
+37,2,string,0,0,task
+37,3,string,0,0,wait
+37,4,number,4,0,0.5
+37,5,string,0,0,AutoFarm
+37,6,string,0,0,FarmMode
+37,7,string,0,0,Create
+37,8,string,0,0,GetAttribute
+37,9,string,0,0,InMission
+37,10,string,0,0,MissionType
+37,11,string,0,0,Cleanup Duty
+37,12,string,0,0,MissionLocation
+37,13,string,0,0,World
+37,14,string,0,0,FindFirstChild
+37,15,string,0,0,Effects
+37,16,string,0,0,CleanupDutyItem
+37,17,string,0,0,Tube
+37,18,string,0,0,TurnIn
+37,19,string,0,0,Residential Area
+37,20,string,0,0,Commercial District
+37,21,string,0,0,BasePart
+37,22,string,0,0,IsA
+37,23,string,0,0,Prompt
+37,24,string,0,0,CFrame
+37,25,string,0,0,new
+37,26,string,0,0,Position
+37,27,string,0,0,Vector3
+37,28,int,1,1,0
+37,29,number,4,1,-5
+37,30,number,4,0,0.3
+37,31,string,0,0,fireproximityprompt
+37,32,int,1,1,1
+37,33,string,0,0,math
+37,34,string,0,0,huge
+37,35,string,0,0,pairs
+37,36,string,0,0,GetChildren
+37,37,string,0,0,Name
+37,38,string,0,0,TomatoDevil
+37,39,string,0,0,Model
+37,40,string,0,0,RootPart
+37,41,string,0,0,Magnitude
+37,42,int,1,1,500
+37,43,string,0,0,Enabled
+37,44,int,1,1,2
+37,45,number,4,1,22
+37,46,number,4,1,0
+37,47,number,4,1,114
+37,48,number,4,1,121
+37,49,number,4,1,255
+38,0,string,0,0,Value
+38,1,string,0,0,EnhancedAftermath
+38,2,string,0,0,AutoFarm
+38,3,string,0,0,FarmMode
+38,4,string,0,0,Create
+38,5,string,0,0,GetAttribute
+38,6,string,0,0,InMission
+38,7,string,0,0,MissionType
+38,8,string,0,0,Aftermath detail
+38,9,string,0,0,MissionLocation
+38,10,string,0,0,FindFirstChild
+38,11,string,0,0,CleanUp
+38,12,string,0,0,pairs
+38,13,string,0,0,GetChildren
+38,14,string,0,0,Position
+38,15,string,0,0,Magnitude
+38,16,int,1,1,150
+38,17,string,0,0,CFrame
+38,18,string,0,0,task
+38,19,string,0,0,wait
+38,20,number,4,0,0.1
+38,21,string,0,0,Prompt
+38,22,string,0,0,fireproximityprompt
+38,23,string,0,0,AutoCarry
+38,24,string,0,0,SetValue
+38,25,boolean,5,,True
+38,26,string,0,0,Entities
+38,27,string,0,0,World
+38,28,string,0,0,Name
+38,29,string,0,0,match
+38,30,string,0,0,^%x+-%x+-%x+-%x+-%x+$
+38,31,string,0,0,HumanoidRootPart
+38,32,string,0,0,Carrying
+38,33,string,0,0,Spawns
+38,34,string,0,0,DropOff
+38,35,string,0,0,BasePart
+38,36,string,0,0,IsA
+38,37,string,0,0,new
+38,38,number,4,0,0.3
+38,39,number,4,1,220
+38,40,number,4,1,128
+38,41,number,4,1,194
+38,42,number,4,1,0
+39,0,string,0,0,Value
+39,1,string,0,0,StayOnPoint
+39,2,string,0,0,AutoFarm
+39,3,string,0,0,FarmMode
+39,4,string,0,0,Create
+39,5,string,0,0,GetAttribute
+39,6,string,0,0,InMission
+39,7,string,0,0,MissionType
+39,8,string,0,0,Hold the line
+39,9,string,0,0,MissionLocation
+39,10,string,0,0,FindFirstChild
+39,11,string,0,0,PointCapture
+39,12,string,0,0,Model
+39,13,string,0,0,IsA
+39,14,string,0,0,PrimaryPart
+39,15,string,0,0,Position
+39,16,string,0,0,GetBoundingBox
+39,17,string,0,0,BasePart
+39,18,string,0,0,Vector3
+39,19,string,0,0,new
+39,20,int,1,1,0
+39,21,number,4,1,-20
+39,22,string,0,0,CFrame
+39,23,string,0,0,task
+39,24,string,0,0,wait
+39,25,number,4,1,6
+40,0,string,0,0,pairs
+40,1,string,0,0,workspace
+40,2,string,0,0,Entities
+40,3,string,0,0,World
+40,4,string,0,0,GetChildren
+40,5,string,0,0,Name
+40,6,string,0,0,match
+40,7,string,0,0,^%x+-%x+-%x+-%x+-%x+$
+40,8,string,0,0,Humanoid
+40,9,string,0,0,FindFirstChild
+40,10,string,0,0,Health
+40,11,int,1,1,0
+40,12,string,0,0,Position
+40,13,string,0,0,HumanoidRootPart
+40,14,string,0,0,Magnitude
+40,15,string,0,0,Value
+40,16,string,0,0,DistanceVoid
+40,17,string,0,0,NetworkCheck
+40,18,string,0,0,isnetworkowner
+40,19,string,0,0,task
+40,20,string,0,0,wait
+40,21,number,4,0,0.1
+40,22,number,4,1,45
+40,23,number,4,1,77
+41,0,string,0,0,pairs
+41,1,string,0,0,workspace
+41,2,string,0,0,Entities
+41,3,string,0,0,World
+41,4,string,0,0,GetChildren
+41,5,string,0,0,Name
+41,6,string,0,0,Humanoid
+41,7,string,0,0,FindFirstChild
+41,8,string,0,0,Health
+41,9,int,1,1,0
+41,10,string,0,0,WalkSpeed
+41,11,string,0,0,Position
+41,12,string,0,0,HumanoidRootPart
+41,13,string,0,0,Magnitude
+41,14,string,0,0,Value
+41,15,string,0,0,DistanceVoid
+41,16,string,0,0,NetworkCheck
+41,17,string,0,0,isnetworkowner
+41,18,string,0,0,JumpPower
+41,19,string,0,0,task
+41,20,string,0,0,wait
+41,21,number,4,0,0.1
+41,22,number,4,1,29
+41,23,number,4,1,42
+41,24,number,4,1,78
+42,0,string,0,0,sethiddenproperty
+42,1,string,0,0,game
+42,2,string,0,0,LocalPlayer
+42,3,string,0,0,Players
+42,4,string,0,0,SimulationRadius
+42,5,number,4,0,9000000000.0
+42,6,string,0,0,MaxSimulationRadius
+43,0,string,0,0,pairs
+43,1,string,0,0,workspace
+43,2,string,0,0,Entities
+43,3,string,0,0,World
+43,4,string,0,0,GetChildren
+43,5,string,0,0,Name
+43,6,string,0,0,Humanoid
+43,7,string,0,0,FindFirstChild
+43,8,string,0,0,Health
+43,9,int,1,1,0
+43,10,string,0,0,Position
+43,11,string,0,0,HumanoidRootPart
+43,12,string,0,0,Magnitude
+43,13,string,0,0,Value
+43,14,string,0,0,DistanceGrabMax
+43,15,string,0,0,NetworkCheck
+43,16,string,0,0,isnetworkowner
+43,17,string,0,0,CFrame
+43,18,string,0,0,Vector3
+43,19,string,0,0,new
+43,20,string,0,0,DistanceGrab
+43,21,string,0,0,task
+43,22,string,0,0,wait
+43,23,number,4,1,29
+44,0,string,0,0,WaitForChild
+44,1,string,0,0,Backpack
+44,2,int,1,1,5
+44,3,string,0,0,ipairs
+44,4,string,0,0,GetChildren
+44,5,string,0,0,Name
+44,6,string,0,0,ID$
+44,7,string,0,0,match
+44,8,string,0,0,uuid
+44,9,string,0,0,StringValue
+44,10,string,0,0,IsA
+44,11,string,0,0,ID
+44,12,string,0,0,GetAttribute
+44,13,string,0,0,Value
+44,14,string,0,0,Id
+44,15,number,4,1,70
+45,0,string,0,0,ipairs
+45,1,string,0,0,getgc
+45,2,boolean,5,,True
+45,3,string,0,0,type
+45,4,string,0,0,table
+45,5,string,0,0,pcall
+45,6,number,4,1,27
+46,0,string,0,0,Data
+46,1,string,0,0,Slots
+46,2,int,1,1,1
+46,3,string,0,0,Player
+46,4,string,0,0,Items
+46,5,string,0,0,type
+46,6,string,0,0,table
+46,7,number,4,1,8
+46,8,number,4,1,15
+46,9,number,4,1,26
+48,0,string,0,0,Value
+48,1,string,0,0,itemRarities
+48,2,string,0,0,
+48,3,string,0,0,Notify
+48,4,string,0,0,Please select a rarity first.
+48,5,int,1,1,4
+48,6,string,0,0,Failed to find player inventory data.
+48,7,string,0,0,print
+48,8,string,0,0,──────────────────────────────────────────────
+48,9,string,0,0,Potential items to discard (rarity: 
+48,10,string,0,0,)
+48,11,int,1,1,0
+48,12,string,0,0,pairs
+48,13,string,0,0,type
+48,14,string,0,0,table
+48,15,string,0,0,ipairs
+48,16,string,0,0,Id
+48,17,string,0,0,Data
+48,18,string,0,0,Rarity
+48,19,string,0,0,Unknown
+48,20,int,1,1,1
+48,21,string,0,0,Name
+48,22,string,0,0,Unnamed
+48,23,string,0,0,string
+48,24,string,0,0,format
+48,25,string,0,0,ID: %s   →   %s   (category: %s)
+48,26,string,0,0,Found 
+48,27,string,0,0, items matching rarity: 
+48,28,string,0,0,Check console → 
+48,29,string,0,0, potential items listed.
+48,30,int,1,1,5
+48,31,number,4,1,121
+49,0,string,0,0,Value
+49,1,string,0,0,itemRarities
+49,2,string,0,0,
+49,3,string,0,0,Notify
+49,4,string,0,0,Please select a rarity first.
+49,5,int,1,1,4
+49,6,string,0,0,Cannot find inventory data. Aborted.
+49,7,int,1,1,5
+49,8,int,1,1,0
+49,9,number,4,0,0.4
+49,10,string,0,0,Starting discard of 
+49,11,string,0,0, items...
+49,12,string,0,0,pairs
+49,13,string,0,0,type
+49,14,string,0,0,table
+49,15,int,1,1,1
+49,16,number,4,1,-1
+49,17,string,0,0,Id
+49,18,string,0,0,Data
+49,19,string,0,0,Rarity
+49,20,string,0,0,Name
+49,21,string,0,0,Unknown Item
+49,22,string,0,0,RemoteEvent
+49,23,string,0,0,Network
+49,24,string,0,0,Framework
+49,25,string,0,0,Files
+49,26,string,0,0,FireServer
+49,27,string,0,0,Event
+49,28,string,0,0,DiscardItem
+49,29,string,0,0,Args
+49,30,string,0,0,ID
+49,31,string,0,0,task
+49,32,string,0,0,wait
+49,33,string,0,0,Finished! Discarded 
+49,34,string,0,0, items.
+49,35,int,1,1,6
+49,36,number,4,1,8
+50,0,string,0,0,game
+50,1,string,0,0,ReplicatedStorage
+50,2,string,0,0,GetService
+50,3,string,0,0,RemoteEvent
+50,4,string,0,0,Network
+50,5,string,0,0,Framework
+50,6,string,0,0,Files
+50,7,string,0,0,FireServer
+50,8,string,0,0,Event
+50,9,string,0,0,Name
+50,10,string,0,0,SettingsEvent
+50,11,string,0,0,Args
+50,12,string,0,0,Type
+50,13,string,0,0,Keybinds
+50,14,string,0,0,Value1
+50,15,string,0,0,ÿ
+52,0,string,0,0,Value
+52,1,string,0,0,autoEat
+52,2,string,0,0,eatList
+52,3,string,0,0,FindFirstChild
+52,4,string,0,0,Activate
+52,5,string,0,0,Backpack
+52,6,string,0,0,Parent
+52,7,string,0,0,task
+52,8,string,0,0,wait
+52,9,number,4,0,0.1
+52,10,string,0,0,print
+52,11,string,0,0,the item is no more
+52,12,number,4,1,81
+54,0,string,0,0,pairs
+54,1,string,0,0,workspace
+54,2,string,0,0,Dialog
+54,3,string,0,0,World
+54,4,string,0,0,GetChildren
+54,5,string,0,0,Model
+54,6,string,0,0,IsA
+54,7,string,0,0,table
+54,8,string,0,0,insert
+54,9,string,0,0,Name
+54,10,string,0,0,sort
+54,11,string,0,0,npcList
+54,12,string,0,0,SetValues
+54,13,string,0,0,Notify
+54,14,string,0,0,Found 
+54,15,string,0,0, Npc(s)
+55,0,string,0,0,Value
+55,1,string,0,0,npcList
+55,2,string,0,0,workspace
+55,3,string,0,0,Dialog
+55,4,string,0,0,World
+55,5,string,0,0,FindFirstChild
+55,6,string,0,0,CFrame
+55,7,string,0,0,new
+55,8,string,0,0,GetPivot
+55,9,string,0,0,Position
+55,10,string,0,0,Vector3
+55,11,int,1,1,0
+55,12,int,1,1,5
+55,13,string,0,0,Notify
+55,14,string,0,0,Select an npc first
+56,0,string,0,0,game
+56,1,string,0,0,Players
+56,2,string,0,0,GetService
+56,3,string,0,0,Visible
+56,4,string,0,0,Lootboxes
+56,5,string,0,0,Phone
+56,6,string,0,0,HUD
+56,7,string,0,0,PlayerGui
+56,8,string,0,0,LocalPlayer
+56,9,boolean,5,,True
+56,10,boolean,5,,False
+56,11,string,0,0,List
+56,12,string,0,0,Lootbox
+56,13,string,0,0,OnScreenEffects
+56,14,string,0,0,ScrollingFrame
+56,15,string,0,0,FindFirstChild
+56,16,string,0,0,LootboxRemote
+56,17,string,0,0,ReplicatedStorage
+56,18,string,0,0,RemoteFunction
+56,19,string,0,0,Network
+56,20,string,0,0,Framework
+56,21,string,0,0,Files
+56,22,string,0,0,pairs
+56,23,string,0,0,GetChildren
+56,24,string,0,0,Name
+56,25,string,0,0,UIListLayout
+56,26,string,0,0,FireServer
+56,27,string,0,0,Take
+56,28,string,0,0,tostring
+56,29,string,0,0,task
+56,30,string,0,0,wait
+56,31,number,4,0,0.1
+56,32,int,1,1,1
+56,33,string,0,0,pcall
+56,34,string,0,0,print
+56,35,string,0,0,Opened box:
+56,36,int,1,1,3
+56,37,number,4,0,0.5
+56,38,number,4,1,25
+56,39,number,4,1,149
+56,40,number,4,1,204
+57,0,string,0,0,InvokeServer
+57,1,string,0,0,RequestLootboxOpen
+57,2,string,0,0,Default
+58,0,string,0,0,game
+58,1,string,0,0,ReplicatedStorage
+58,2,string,0,0,GetService
+58,3,string,0,0,UnreliableRemoteEvent
+58,4,string,0,0,Network
+58,5,string,0,0,Framework
+58,6,string,0,0,Files
+58,7,string,0,0,FireServer
+58,8,string,0,0,M1
+58,9,string,0,0,task
+58,10,string,0,0,wait
+58,11,number,4,0,0.2
+58,12,number,4,1,1
+59,0,string,0,0,game
+59,1,string,0,0,ReplicatedStorage
+59,2,string,0,0,GetService
+59,3,string,0,0,UnreliableRemoteEvent
+59,4,string,0,0,Network
+59,5,string,0,0,Framework
+59,6,string,0,0,Files
+59,7,string,0,0,FireServer
+59,8,string,0,0,Critical
+59,9,string,0,0,task
+59,10,string,0,0,wait
+59,11,int,1,1,5
+60,0,boolean,5,,False
+60,1,string,0,0,pairs
+60,2,string,0,0,GetChildren
+60,3,string,0,0,Name
+60,4,string,0,0,Weapon
+60,5,boolean,5,,True
+60,6,string,0,0,game
+60,7,string,0,0,ReplicatedStorage
+60,8,string,0,0,GetService
+60,9,string,0,0,RemoteEvent
+60,10,string,0,0,Network
+60,11,string,0,0,Framework
+60,12,string,0,0,Files
+60,13,string,0,0,FireServer
+60,14,string,0,0,Event
+60,15,string,0,0,WeaponInteract
+60,16,string,0,0,task
+60,17,string,0,0,wait
+60,18,int,1,1,1
+60,19,number,4,1,22
+61,0,string,0,0,game
+61,1,string,0,0,ReplicatedStorage
+61,2,string,0,0,GetService
+61,3,string,0,0,RemoteEvent
+61,4,string,0,0,Network
+61,5,string,0,0,Framework
+61,6,string,0,0,Files
+61,7,string,0,0,FireServer
+61,8,string,0,0,Event
+61,9,string,0,0,Name
+61,10,string,0,0,SettingsEvent
+61,11,string,0,0,Args
+61,12,string,0,0,Value
+61,13,int,1,1,0
+61,14,string,0,0,Type
+61,15,string,0,0,SoundVolume
+61,16,string,0,0,Dash
+61,17,boolean,5,,True
+61,18,string,0,0,task
+61,19,string,0,0,wait
+61,20,number,4,0,0.2
+61,21,int,1,1,100
+61,22,number,4,1,21
+62,0,string,0,0,pairs
+62,1,string,0,0,workspace
+62,2,string,0,0,Entities
+62,3,string,0,0,World
+62,4,string,0,0,GetChildren
+62,5,string,0,0,Knocked
+62,6,string,0,0,GetAttribute
+62,7,string,0,0,Position
+62,8,string,0,0,HumanoidRootPart
+62,9,string,0,0,Magnitude
+62,10,int,1,1,10
+62,11,string,0,0,Carrying
+62,12,string,0,0,game
+62,13,string,0,0,ReplicatedStorage
+62,14,string,0,0,GetService
+62,15,string,0,0,RemoteEvent
+62,16,string,0,0,Network
+62,17,string,0,0,Framework
+62,18,string,0,0,Files
+62,19,string,0,0,FireServer
+62,20,string,0,0,Event
+62,21,string,0,0,Name
+62,22,string,0,0,Carry
+62,23,string,0,0,task
+62,24,string,0,0,wait
+62,25,int,1,1,2
+62,26,number,4,1,1
+63,0,string,0,0,pairs
+63,1,string,0,0,workspace
+63,2,string,0,0,Entities
+63,3,string,0,0,World
+63,4,string,0,0,GetChildren
+63,5,string,0,0,Knocked
+63,6,string,0,0,GetAttribute
+63,7,string,0,0,Position
+63,8,string,0,0,HumanoidRootPart
+63,9,string,0,0,Magnitude
+63,10,int,1,1,10
+63,11,string,0,0,PerformingGrip
+63,12,string,0,0,game
+63,13,string,0,0,ReplicatedStorage
+63,14,string,0,0,GetService
+63,15,string,0,0,RemoteEvent
+63,16,string,0,0,Network
+63,17,string,0,0,Framework
+63,18,string,0,0,Files
+63,19,string,0,0,FireServer
+63,20,string,0,0,Event
+63,21,string,0,0,Name
+63,22,string,0,0,Grip
+63,23,string,0,0,task
+63,24,string,0,0,wait
+63,25,int,1,1,2
+64,0,string,0,0,Value
+64,1,string,0,0,AutoSurgery
+64,2,string,0,0,pairs
+64,3,string,0,0,workspace
+64,4,string,0,0,Entities
+64,5,string,0,0,World
+64,6,string,0,0,GetChildren
+64,7,string,0,0,Knocked
+64,8,string,0,0,GetAttribute
+64,9,string,0,0,Position
+64,10,string,0,0,HumanoidRootPart
+64,11,string,0,0,Magnitude
+64,12,int,1,1,10
+64,13,string,0,0,PerformingGrip
+64,14,string,0,0,Surgery Kit
+64,15,string,0,0,FinFirstChild
+64,16,string,0,0,Activate
+64,17,string,0,0,Backpack
+64,18,string,0,0,FindFirstChild
+64,19,string,0,0,Parent
+64,20,string,0,0,task
+64,21,string,0,0,wait
+64,22,int,1,1,2
+64,23,number,4,1,65
+64,24,number,4,1,0
+65,0,string,0,0,game
+65,1,string,0,0,Players
+65,2,string,0,0,GetService
+65,3,string,0,0,Enabled
+65,4,string,0,0,PawnShop
+65,5,string,0,0,PlayerGui
+65,6,string,0,0,LocalPlayer
+65,7,boolean,5,,True
+66,0,string,0,0,game
+66,1,string,0,0,Players
+66,2,string,0,0,GetService
+66,3,string,0,0,Enabled
+66,4,string,0,0,Blackmarket
+66,5,string,0,0,PlayerGui
+66,6,string,0,0,LocalPlayer
+66,7,boolean,5,,True
+67,0,string,0,0,game
+67,1,string,0,0,Players
+67,2,string,0,0,GetService
+67,3,string,0,0,Enabled
+67,4,string,0,0,CraftingMenu
+67,5,string,0,0,PlayerGui
+67,6,string,0,0,LocalPlayer
+67,7,boolean,5,,True
+68,0,string,0,0,FindFirstChild
+68,1,string,0,0,Value
+68,2,string,0,0,playerListFarm
+68,3,string,0,0,Backpack
+68,4,string,0,0,pairs
+68,5,string,0,0,GetChildren
+68,6,string,0,0,table
+68,7,string,0,0,insert
+68,8,string,0,0,Name
+68,9,string,0,0,sort
+68,10,string,0,0,InventoryViewer
+68,11,string,0,0,SetValues
+68,12,string,0,0,Notify
+68,13,string,0,0,Found 
+68,14,string,0,0, Items
+69,0,string,0,0,pairs
+69,1,string,0,0,GetPlayers
+69,2,string,0,0,table
+69,3,string,0,0,insert
+69,4,string,0,0,Name
+69,5,string,0,0,sort
+69,6,string,0,0,playerListFarm
+69,7,string,0,0,SetValues
+69,8,string,0,0,Notify
+69,9,string,0,0,Found 
+69,10,string,0,0, Players
+70,0,string,0,0,FindFirstChild
+70,1,string,0,0,Value
+70,2,string,0,0,playerListFarm
+70,3,string,0,0,Character
+70,4,string,0,0,HumanoidRootPart
+70,5,string,0,0,CFrame
+70,6,string,0,0,lookAt
+70,7,string,0,0,Position
+70,8,string,0,0,Vector3
+70,9,string,0,0,new
+70,10,int,1,1,0
+70,11,string,0,0,distanceFarmPlayer
+70,12,string,0,0,task
+70,13,string,0,0,wait
+71,0,string,0,0,Disconnect
+71,1,string,0,0,Stepped
+71,2,string,0,0,Connect
+72,0,string,0,0,Character
+72,1,string,0,0,LocalPlayer
+72,2,string,0,0,pairs
+72,3,string,0,0,GetDescendants
+72,4,string,0,0,BasePart
+72,5,string,0,0,IsA
+72,6,string,0,0,CanCollide
+72,7,boolean,5,,False
+73,0,string,0,0,Value
+73,1,string,0,0,walkspeed
+73,2,string,0,0,task
+73,3,string,0,0,wait
+73,4,number,4,0,0.1
+73,5,string,0,0,WalkSpeed
+73,6,string,0,0,WalkSpeedSlider
+73,7,int,1,1,30
+73,8,number,4,1,32
+74,0,boolean,5,,False
+74,1,string,0,0,Disconnect
+74,2,string,0,0,Destroy
+74,3,string,0,0,pairs
+74,4,string,0,0,Enum
+74,5,string,0,0,HumanoidStateType
+74,6,string,0,0,GetEnumItems
+74,7,string,0,0,None
+74,8,string,0,0,SetStateEnabled
+74,9,boolean,5,,True
+74,10,number,4,1,63
+75,0,boolean,5,,True
+75,1,string,0,0,Instance
+75,2,string,0,0,new
+75,3,string,0,0,BodyVelocity
+75,4,string,0,0,Velocity
+75,5,string,0,0,Vector3
+75,6,string,0,0,zero
+75,7,string,0,0,MaxForce
+75,8,number,4,0,9000000000.0
+75,9,string,0,0,Parent
+75,10,string,0,0,BodyGyro
+75,11,string,0,0,MaxTorque
+75,12,string,0,0,pairs
+75,13,string,0,0,Enum
+75,14,string,0,0,HumanoidStateType
+75,15,string,0,0,GetEnumItems
+75,16,string,0,0,None
+75,17,string,0,0,SetStateEnabled
+75,18,boolean,5,,False
+75,19,string,0,0,Heartbeat
+75,20,string,0,0,Connect
+76,0,string,0,0,workspace
+76,1,string,0,0,CurrentCamera
+76,2,string,0,0,Vector3
+76,3,string,0,0,zero
+76,4,string,0,0,game
+76,5,string,0,0,GetService
+76,6,string,0,0,UserInputService
+76,7,string,0,0,Enum
+76,8,string,0,0,W
+76,9,string,0,0,KeyCode
+76,10,string,0,0,IsKeyDown
+76,11,string,0,0,LookVector
+76,12,string,0,0,CFrame
+76,13,string,0,0,S
+76,14,string,0,0,A
+76,15,string,0,0,RightVector
+76,16,string,0,0,D
+76,17,string,0,0,Space
+76,18,string,0,0,new
+76,19,int,1,1,0
+76,20,int,1,1,1
+76,21,string,0,0,LeftControl
+76,22,string,0,0,Velocity
+76,23,string,0,0,Magnitude
+76,24,string,0,0,Unit
+76,25,number,4,1,7
+76,26,number,4,1,70
+78,0,string,0,0,Fly
+78,1,string,0,0,SetValue
+78,2,string,0,0,Value
+80,0,string,0,0,AntiVoid
+80,1,string,0,0,Value
+80,2,string,0,0,Y
+80,3,string,0,0,Position
+80,4,number,4,1,-100
+80,5,string,0,0,CFrame
+80,6,string,0,0,Vector3
+80,7,string,0,0,new
+80,8,int,1,1,0
+80,9,int,1,1,200
+81,0,string,0,0,Enabled
+81,1,string,0,0,Options
+82,0,string,0,0,TeamCheck
+82,1,string,0,0,Options
+83,0,string,0,0,Boxes
+83,1,string,0,0,Options
+84,0,string,0,0,BoxType
+84,1,string,0,0,Options
+85,0,string,0,0,Healthbar
+85,1,string,0,0,Options
+86,0,string,0,0,Healthbar_Position
+86,1,string,0,0,Options
+87,0,string,0,0,Healthbar_High
+87,1,string,0,0,Options
+87,2,string,0,0,Color
+87,3,string,0,0,Transparency
+87,4,int,1,1,0
+88,0,string,0,0,Healthbar_Medium
+88,1,string,0,0,Options
+88,2,string,0,0,Color
+88,3,string,0,0,Transparency
+88,4,int,1,1,0
+89,0,string,0,0,Healthbar_Low
+89,1,string,0,0,Options
+89,2,string,0,0,Color
+89,3,string,0,0,Transparency
+89,4,int,1,1,0
+90,0,string,0,0,Healthbar_Thickness
+90,1,string,0,0,Options
+91,0,string,0,0,PostureBar
+91,1,string,0,0,Options
+92,0,string,0,0,PostureBar_Position
+92,1,string,0,0,Options
+93,0,string,0,0,PostureBar_Color
+93,1,string,0,0,Options
+93,2,string,0,0,Color
+93,3,string,0,0,Transparency
+93,4,int,1,1,0
+94,0,string,0,0,PostureBar_Width
+94,1,string,0,0,Options
+95,0,string,0,0,Name_Text
+95,1,string,0,0,Options
+96,0,string,0,0,Name_Text_Color
+96,1,string,0,0,Options
+96,2,string,0,0,Color
+97,0,string,0,0,Name_Text_Size
+97,1,string,0,0,Options
+98,0,string,0,0,Rank_Text
+98,1,string,0,0,Options
+99,0,string,0,0,Weapon_Text
+99,1,string,0,0,Options
+100,0,string,0,0,Weapon_Text_Color
+100,1,string,0,0,Options
+100,2,string,0,0,Color
+101,0,string,0,0,Weapon_Text_Size
+101,1,string,0,0,Options
+102,0,string,0,0,Distance_Text
+102,1,string,0,0,Options
+103,0,string,0,0,Distance_Text_Color
+103,1,string,0,0,Options
+103,2,string,0,0,Color
+104,0,string,0,0,Distance_Text_Size
+104,1,string,0,0,Options
+105,0,string,0,0,Skeleton
+105,1,string,0,0,Options
+106,0,string,0,0,Skeleton_Color
+106,1,string,0,0,Options
+106,2,string,0,0,Color
+106,3,string,0,0,Transparency
+106,4,int,1,1,0
+107,0,string,0,0,Skeleton_Thickness
+107,1,string,0,0,Options
+108,0,string,0,0,Chams
+108,1,string,0,0,Options
+109,0,string,0,0,Transparency
+109,1,string,0,0,Chams_Fill_Color
+109,2,string,0,0,Options
+109,3,number,4,0,0.5
+109,4,string,0,0,Color
+109,5,number,4,1,8
+110,0,string,0,0,Color
+110,1,string,0,0,Chams_Fill_Color
+110,2,string,0,0,Options
+110,3,string,0,0,Color3
+110,4,string,0,0,fromRGB
+110,5,int,1,1,170
+110,6,int,1,1,110
+110,7,int,1,1,255
+110,8,string,0,0,Transparency
+111,0,string,0,0,Enabled
+111,1,string,0,0,MobOptions
+112,0,string,0,0,Boxes
+112,1,string,0,0,MobOptions
+113,0,string,0,0,BoxType
+113,1,string,0,0,MobOptions
+114,0,string,0,0,Healthbar
+114,1,string,0,0,MobOptions
+115,0,string,0,0,Healthbar_Position
+115,1,string,0,0,MobOptions
+116,0,string,0,0,Healthbar_High
+116,1,string,0,0,MobOptions
+116,2,string,0,0,Color
+116,3,string,0,0,Transparency
+116,4,int,1,1,0
+117,0,string,0,0,Healthbar_Medium
+117,1,string,0,0,MobOptions
+117,2,string,0,0,Color
+117,3,string,0,0,Transparency
+117,4,int,1,1,0
+118,0,string,0,0,Healthbar_Low
+118,1,string,0,0,MobOptions
+118,2,string,0,0,Color
+118,3,string,0,0,Transparency
+118,4,int,1,1,0
+119,0,string,0,0,Healthbar_Thickness
+119,1,string,0,0,MobOptions
+120,0,string,0,0,Name_Text
+120,1,string,0,0,MobOptions
+121,0,string,0,0,Name_Text_Color
+121,1,string,0,0,MobOptions
+121,2,string,0,0,Color
+122,0,string,0,0,Name_Text_Size
+122,1,string,0,0,MobOptions
+123,0,string,0,0,Distance_Text
+123,1,string,0,0,MobOptions
+124,0,string,0,0,Distance_Text_Color
+124,1,string,0,0,MobOptions
+124,2,string,0,0,Color
+125,0,string,0,0,Distance_Text_Size
+125,1,string,0,0,MobOptions
+126,0,string,0,0,Chams
+126,1,string,0,0,MobOptions
+127,0,string,0,0,Chams_Fill_Color
+127,1,string,0,0,MobOptions
+127,2,string,0,0,Color
+127,3,string,0,0,Color3
+127,4,string,0,0,fromRGB
+127,5,int,1,1,255
+127,6,int,1,1,50
+127,7,string,0,0,Transparency
+127,8,number,4,0,0.5
+128,0,string,0,0,Chams_Fill_Color
+128,1,string,0,0,MobOptions
+128,2,string,0,0,Color
+128,3,string,0,0,Color3
+128,4,string,0,0,fromRGB
+128,5,int,1,1,255
+128,6,int,1,1,50
+128,7,string,0,0,Transparency
+128,8,number,4,0,0.5
+128,9,number,4,1,18
+129,0,string,0,0,Options
+129,1,string,0,0,MobOptions
+129,2,string,0,0,Enabled
+129,3,boolean,5,,False
+129,4,string,0,0,TeamCheck
+129,5,string,0,0,Boxes
+129,6,boolean,5,,True
+129,7,string,0,0,BoxType
+129,8,string,0,0,Corner
+129,9,string,0,0,Healthbar
+129,10,string,0,0,Healthbar_Position
+129,11,string,0,0,Left
+129,12,string,0,0,PostureBar
+129,13,string,0,0,PostureBar_Position
+129,14,string,0,0,Right
+129,15,string,0,0,Name_Text
+129,16,string,0,0,Name_Text_Size
+129,17,int,1,1,11
+129,18,string,0,0,Rank_Text
+129,19,string,0,0,Weapon_Text
+129,20,string,0,0,Distance_Text
+129,21,string,0,0,Distance_Text_Size
+129,22,string,0,0,Skeleton
+129,23,string,0,0,Chams
+130,0,boolean,5,,True
+130,1,string,0,0,FireServer
+130,2,string,0,0,Event
+130,3,string,0,0,Name
+130,4,string,0,0,Block
+130,5,string,0,0,task
+130,6,string,0,0,wait
+130,7,string,0,0,Value
+130,8,string,0,0,HoldParry
+130,9,string,0,0,Unblock
+130,10,string,0,0,DelayDebounce
+130,11,boolean,5,,False
+131,0,string,0,0,Value
+131,1,string,0,0,AutoParry
+131,2,string,0,0,AnimationId
+131,3,string,0,0,Animation
+131,4,int,1,1,0
+131,5,string,0,0,Character
+131,6,string,0,0,FindFirstChild
+131,7,string,0,0,HumanoidRootPart
+131,8,string,0,0,Position
+131,9,string,0,0,Magnitude
+131,10,string,0,0,DistanceParry
+131,11,string,0,0,AnimationPercent
+131,12,string,0,0,notificationParry
+131,13,string,0,0,???
+131,14,string,0,0,string
+131,15,string,0,0,format
+131,16,string,0,0,Parrying %s  |  %s  |  dist: %d  |  wait: %.3f
+131,17,string,0,0,Name
+131,18,string,0,0,math
+131,19,string,0,0,floor
+131,20,string,0,0,Notify
+131,21,number,4,0,2.5
+131,22,string,0,0,task
+131,23,string,0,0,delay
+131,24,number,4,1,23
+131,25,number,4,1,27
+132,0,string,0,0,Character
+132,1,string,0,0,CharacterAdded
+132,2,string,0,0,Connect
+133,0,string,0,0,WaitForChild
+133,1,string,0,0,Humanoid
+133,2,int,1,1,8
+133,3,string,0,0,AnimationPlayed
+133,4,string,0,0,Connect
+136,0,string,0,0,Value
+136,1,string,0,0,noCDX
+136,2,string,0,0,task
+136,3,string,0,0,wait
+136,4,string,0,0,noCDXSpeed
+136,5,string,0,0,noCd
+136,6,string,0,0,DevilX
+136,7,string,0,0,game
+136,8,string,0,0,ReplicatedStorage
+136,9,string,0,0,GetService
+136,10,string,0,0,RemoteEvent
+136,11,string,0,0,Network
+136,12,string,0,0,Framework
+136,13,string,0,0,Files
+136,14,string,0,0,FireServer
+136,15,string,0,0,Event
+136,16,string,0,0,Name
+136,17,string,0,0,SkillController
+136,18,string,0,0,Args
+136,19,string,0,0,tostring
+136,20,string,0,0,End
+136,21,string,0,0,X
+136,22,number,4,1,13
+137,0,string,0,0,Value
+137,1,string,0,0,noCDZ
+137,2,string,0,0,task
+137,3,string,0,0,wait
+137,4,string,0,0,noCDZSpeed
+137,5,string,0,0,noCd
+137,6,string,0,0,DevilZ
+137,7,string,0,0,game
+137,8,string,0,0,ReplicatedStorage
+137,9,string,0,0,GetService
+137,10,string,0,0,RemoteEvent
+137,11,string,0,0,Network
+137,12,string,0,0,Framework
+137,13,string,0,0,Files
+137,14,string,0,0,FireServer
+137,15,string,0,0,Event
+137,16,string,0,0,Name
+137,17,string,0,0,SkillController
+137,18,string,0,0,Args
+137,19,string,0,0,tostring
+137,20,string,0,0,End
+137,21,string,0,0,Z
+137,22,number,4,1,0
+138,0,string,0,0,Value
+138,1,string,0,0,noCDXC
+138,2,string,0,0,task
+138,3,string,0,0,wait
+138,4,string,0,0,noCDCSpeed
+138,5,string,0,0,noCd
+138,6,string,0,0,DevilC
+138,7,string,0,0,game
+138,8,string,0,0,ReplicatedStorage
+138,9,string,0,0,GetService
+138,10,string,0,0,RemoteEvent
+138,11,string,0,0,Network
+138,12,string,0,0,Framework
+138,13,string,0,0,Files
+138,14,string,0,0,FireServer
+138,15,string,0,0,Event
+138,16,string,0,0,Name
+138,17,string,0,0,SkillController
+138,18,string,0,0,Args
+138,19,string,0,0,tostring
+138,20,string,0,0,End
+138,21,string,0,0,C
+139,0,string,0,0,task
+139,1,string,0,0,spawn
+140,0,string,0,0,Value
+140,1,string,0,0,noCdSkillsMaster
+140,2,string,0,0,task
+140,3,string,0,0,wait
+140,4,string,0,0,
+140,5,string,0,0,game
+140,6,string,0,0,ReplicatedStorage
+140,7,string,0,0,GetService
+140,8,string,0,0,RemoteEvent
+140,9,string,0,0,Network
+140,10,string,0,0,Framework
+140,11,string,0,0,Files
+140,12,string,0,0,FireServer
+140,13,string,0,0,Event
+140,14,string,0,0,Name
+140,15,string,0,0,SkillController
+140,16,string,0,0,Args
+140,17,string,0,0,tostring
+140,18,string,0,0,End
+140,19,number,4,1,0
+141,0,string,0,0,task
+141,1,string,0,0,spawn
+142,0,boolean,5,,True
+142,1,string,0,0,task
+142,2,string,0,0,wait
+142,3,int,1,1,5
+142,4,string,0,0,pcall
+142,5,number,4,1,10
+142,6,number,4,1,0
+143,0,string,0,0,hookfunction
+143,1,string,0,0,checkcaller
+143,2,string,0,0,setmetatable
+143,3,string,0,0,__tostring
+143,4,string,0,0,__index
+143,5,string,0,0,Instance
+143,6,string,0,0,new
+143,7,string,0,0,RemoteEvent
+143,8,string,0,0,FireServer
+143,9,string,0,0,getrawmetatable
+143,10,string,0,0,game
+143,11,string,0,0,__namecall
+143,12,string,0,0,pcall
+143,13,string,0,0,string
+143,14,string,0,0,char
+143,15,int,1,1,92
+143,16,string,0,0,(
+143,17,string,0,0,%d+
+143,18,string,0,0,)
+143,19,string,0,0,%((%d+)%)
+143,20,string,0,0,ipairs
+143,21,string,0,0,find
+143,22,string,0,0,sub
+143,23,string,0,0,tonumber
+143,24,string,0,0,match
+143,25,int,1,1,0
+143,26,string,0,0,Kick
+143,27,string,0,0,Skidder Stop Skidding
+143,28,int,1,1,10
+143,29,number,4,1,113
+143,30,number,4,1,122
+143,31,number,4,1,133
+144,0,boolean,5,,False
+145,0,string,0,0,Kick
+145,1,string,0,0,Skidder Stop Skidding
+146,0,string,0,0,Kick
+146,1,string,0,0,Skidder Stop Skidding
+147,0,string,0,0,Visible
+147,1,string,0,0,KeybindFrame
+148,0,string,0,0,ShowCustomCursor
+149,0,string,0,0,Unload
+150,0,int,1,1,0
+150,1,string,0,0,next
+150,2,string,0,0,Value
+150,3,string,0,0,MissionModifiers
+150,4,int,1,1,1
+150,5,int,1,1,2
+150,6,string,0,0,SetValue
+150,7,string,0,0,Notify
+150,8,string,0,0,You can only select 2 modifiers!
+151,0,string,0,0,task
+151,1,string,0,0,spawn
+152,0,string,0,0,pcall
+152,1,string,0,0,pairs
+152,2,string,0,0,type
+152,3,string,0,0,string
+152,4,string,0,0,table
+152,5,string,0,0,insert
+152,6,string,0,0,sort
+152,7,int,1,1,0
+152,8,string,0,0,MissionLocation
+152,9,string,0,0,SetValues
+152,10,string,0,0,SetValue
+152,11,int,1,1,1
+152,12,string,0,0,Notify
+152,13,string,0,0,No locations found for 
+152,14,string,0,0,tostring
+152,15,string,0,0,Failed to fetch locations (Network Error)
+153,0,string,0,0,InvokeServer
+153,1,string,0,0,RequestLocationData
+154,0,boolean,5,,True
+154,1,string,0,0,Value
+154,2,string,0,0,AutoFarm
+154,3,string,0,0,FarmMode
+154,4,string,0,0,Create
+154,5,string,0,0,MissionType
+154,6,string,0,0,MissionLocation
+154,7,string,0,0,pairs
+154,8,string,0,0,MissionModifiers
+154,9,string,0,0,table
+154,10,string,0,0,insert
+154,11,string,0,0,pcall
+154,12,string,0,0,Not in range of signal tower
+154,13,string,0,0,CFrame
+154,14,string,0,0,new
+154,15,number,4,1,-741
+154,16,int,1,1,6
+154,17,int,1,1,188
+154,18,string,0,0,task
+154,19,string,0,0,wait
+154,20,int,1,1,3
+154,21,int,1,1,1
+154,22,string,0,0,MissionDelay
+154,23,string,0,0,Intercept
+154,24,string,0,0,InterceptDelay
+154,25,number,4,1,39
+154,26,number,4,1,85
+154,27,number,4,1,0
+155,0,string,0,0,InvokeServer
+155,1,string,0,0,OverworldMissions
+155,2,string,0,0,Identification
+155,3,string,0,0,Conditions
+155,4,string,0,0,Directive
+155,5,string,0,0,Request
+155,6,string,0,0,Engage
+156,0,string,0,0,Unloaded
+156,1,boolean,5,,True

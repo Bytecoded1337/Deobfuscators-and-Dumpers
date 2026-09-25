@@ -1,0 +1,10 @@
+IronBrew1 constants vs recovered.lua
+=====================================
+dumped string constants : 2327
+recovered string literals: 2327
+matched occurrences      : 2327
+missing occurrences      : 0
+extra occurrences        : 0
+representation coverage  : 100.0%
+
+NOTE: representation coverage only checks literal presence. It does NOT prove opcode/semantic recovery.

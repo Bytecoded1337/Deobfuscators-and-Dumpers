@@ -1,0 +1,11878 @@
+{
+  "Options": [
+    {
+      "prototype": 0,
+      "index": 0
+    },
+    {
+      "prototype": 81,
+      "index": 1
+    },
+    {
+      "prototype": 82,
+      "index": 1
+    },
+    {
+      "prototype": 83,
+      "index": 1
+    },
+    {
+      "prototype": 84,
+      "index": 1
+    },
+    {
+      "prototype": 85,
+      "index": 1
+    },
+    {
+      "prototype": 86,
+      "index": 1
+    },
+    {
+      "prototype": 87,
+      "index": 1
+    },
+    {
+      "prototype": 88,
+      "index": 1
+    },
+    {
+      "prototype": 89,
+      "index": 1
+    },
+    {
+      "prototype": 90,
+      "index": 1
+    },
+    {
+      "prototype": 91,
+      "index": 1
+    },
+    {
+      "prototype": 92,
+      "index": 1
+    },
+    {
+      "prototype": 93,
+      "index": 1
+    },
+    {
+      "prototype": 94,
+      "index": 1
+    },
+    {
+      "prototype": 95,
+      "index": 1
+    },
+    {
+      "prototype": 96,
+      "index": 1
+    },
+    {
+      "prototype": 97,
+      "index": 1
+    },
+    {
+      "prototype": 98,
+      "index": 1
+    },
+    {
+      "prototype": 99,
+      "index": 1
+    },
+    {
+      "prototype": 100,
+      "index": 1
+    },
+    {
+      "prototype": 101,
+      "index": 1
+    },
+    {
+      "prototype": 102,
+      "index": 1
+    },
+    {
+      "prototype": 103,
+      "index": 1
+    },
+    {
+      "prototype": 104,
+      "index": 1
+    },
+    {
+      "prototype": 105,
+      "index": 1
+    },
+    {
+      "prototype": 106,
+      "index": 1
+    },
+    {
+      "prototype": 107,
+      "index": 1
+    },
+    {
+      "prototype": 108,
+      "index": 1
+    },
+    {
+      "prototype": 109,
+      "index": 2
+    },
+    {
+      "prototype": 110,
+      "index": 2
+    },
+    {
+      "prototype": 129,
+      "index": 0
+    }
+  ],
+  "Toggles": [
+    {
+      "prototype": 0,
+      "index": 1
+    }
+  ],
+  "ShowToggleFrameInKeybinds": [
+    {
+      "prototype": 0,
+      "index": 2
+    }
+  ],
+  "ShowCustomCursor": [
+    {
+      "prototype": 0,
+      "index": 4
+    },
+    {
+      "prototype": 148,
+      "index": 0
+    }
+  ],
+  "NotifySide": [
+    {
+      "prototype": 0,
+      "index": 6
+    }
+  ],
+  "Left": [
+    {
+      "prototype": 0,
+      "index": 7
+    },
+    {
+      "prototype": 129,
+      "index": 11
+    }
+  ],
+  "game": [
+    {
+      "prototype": 0,
+      "index": 8
+    },
+    {
+      "prototype": 1,
+      "index": 1
+    },
+    {
+      "prototype": 3,
+      "index": 10
+    },
+    {
+      "prototype": 4,
+      "index": 0
+    },
+    {
+      "prototype": 7,
+      "index": 11
+    },
+    {
+      "prototype": 8,
+      "index": 2
+    },
+    {
+      "prototype": 11,
+      "index": 7
+    },
+    {
+      "prototype": 12,
+      "index": 2
+    },
+    {
+      "prototype": 29,
+      "index": 2
+    },
+    {
+      "prototype": 32,
+      "index": 2
+    },
+    {
+      "prototype": 42,
+      "index": 1
+    },
+    {
+      "prototype": 50,
+      "index": 0
+    },
+    {
+      "prototype": 56,
+      "index": 0
+    },
+    {
+      "prototype": 58,
+      "index": 0
+    },
+    {
+      "prototype": 59,
+      "index": 0
+    },
+    {
+      "prototype": 60,
+      "index": 6
+    },
+    {
+      "prototype": 61,
+      "index": 0
+    },
+    {
+      "prototype": 62,
+      "index": 12
+    },
+    {
+      "prototype": 63,
+      "index": 12
+    },
+    {
+      "prototype": 65,
+      "index": 0
+    },
+    {
+      "prototype": 66,
+      "index": 0
+    },
+    {
+      "prototype": 67,
+      "index": 0
+    },
+    {
+      "prototype": 76,
+      "index": 4
+    },
+    {
+      "prototype": 136,
+      "index": 7
+    },
+    {
+      "prototype": 137,
+      "index": 7
+    },
+    {
+      "prototype": 138,
+      "index": 7
+    },
+    {
+      "prototype": 140,
+      "index": 5
+    },
+    {
+      "prototype": 143,
+      "index": 10
+    }
+  ],
+  "GetService": [
+    {
+      "prototype": 0,
+      "index": 9
+    },
+    {
+      "prototype": 4,
+      "index": 2
+    },
+    {
+      "prototype": 7,
+      "index": 13
+    },
+    {
+      "prototype": 8,
+      "index": 4
+    },
+    {
+      "prototype": 11,
+      "index": 9
+    },
+    {
+      "prototype": 12,
+      "index": 4
+    },
+    {
+      "prototype": 29,
+      "index": 4
+    },
+    {
+      "prototype": 32,
+      "index": 9
+    },
+    {
+      "prototype": 50,
+      "index": 2
+    },
+    {
+      "prototype": 56,
+      "index": 2
+    },
+    {
+      "prototype": 58,
+      "index": 2
+    },
+    {
+      "prototype": 59,
+      "index": 2
+    },
+    {
+      "prototype": 60,
+      "index": 8
+    },
+    {
+      "prototype": 61,
+      "index": 2
+    },
+    {
+      "prototype": 62,
+      "index": 14
+    },
+    {
+      "prototype": 63,
+      "index": 14
+    },
+    {
+      "prototype": 65,
+      "index": 2
+    },
+    {
+      "prototype": 66,
+      "index": 2
+    },
+    {
+      "prototype": 67,
+      "index": 2
+    },
+    {
+      "prototype": 76,
+      "index": 5
+    },
+    {
+      "prototype": 136,
+      "index": 9
+    },
+    {
+      "prototype": 137,
+      "index": 9
+    },
+    {
+      "prototype": 138,
+      "index": 9
+    },
+    {
+      "prototype": 140,
+      "index": 7
+    }
+  ],
+  "ReplicatedStorage": [
+    {
+      "prototype": 0,
+      "index": 10
+    },
+    {
+      "prototype": 7,
+      "index": 12
+    },
+    {
+      "prototype": 8,
+      "index": 3
+    },
+    {
+      "prototype": 11,
+      "index": 8
+    },
+    {
+      "prototype": 12,
+      "index": 7
+    },
+    {
+      "prototype": 29,
+      "index": 3
+    },
+    {
+      "prototype": 32,
+      "index": 8
+    },
+    {
+      "prototype": 50,
+      "index": 1
+    },
+    {
+      "prototype": 56,
+      "index": 17
+    },
+    {
+      "prototype": 58,
+      "index": 1
+    },
+    {
+      "prototype": 59,
+      "index": 1
+    },
+    {
+      "prototype": 60,
+      "index": 7
+    },
+    {
+      "prototype": 61,
+      "index": 1
+    },
+    {
+      "prototype": 62,
+      "index": 13
+    },
+    {
+      "prototype": 63,
+      "index": 13
+    },
+    {
+      "prototype": 136,
+      "index": 8
+    },
+    {
+      "prototype": 137,
+      "index": 8
+    },
+    {
+      "prototype": 138,
+      "index": 8
+    },
+    {
+      "prototype": 140,
+      "index": 6
+    }
+  ],
+  "Players": [
+    {
+      "prototype": 0,
+      "index": 11
+    },
+    {
+      "prototype": 11,
+      "index": 17
+    },
+    {
+      "prototype": 12,
+      "index": 3
+    },
+    {
+      "prototype": 32,
+      "index": 3
+    },
+    {
+      "prototype": 42,
+      "index": 3
+    },
+    {
+      "prototype": 56,
+      "index": 1
+    },
+    {
+      "prototype": 65,
+      "index": 1
+    },
+    {
+      "prototype": 66,
+      "index": 1
+    },
+    {
+      "prototype": 67,
+      "index": 1
+    }
+  ],
+  "LocalPlayer": [
+    {
+      "prototype": 0,
+      "index": 12
+    },
+    {
+      "prototype": 11,
+      "index": 29
+    },
+    {
+      "prototype": 42,
+      "index": 2
+    },
+    {
+      "prototype": 56,
+      "index": 8
+    },
+    {
+      "prototype": 65,
+      "index": 6
+    },
+    {
+      "prototype": 66,
+      "index": 6
+    },
+    {
+      "prototype": 67,
+      "index": 6
+    },
+    {
+      "prototype": 72,
+      "index": 1
+    }
+  ],
+  "RunService": [
+    {
+      "prototype": 0,
+      "index": 13
+    }
+  ],
+  "Workspace": [
+    {
+      "prototype": 0,
+      "index": 14
+    }
+  ],
+  "VirtualInputManager": [
+    {
+      "prototype": 0,
+      "index": 15
+    }
+  ],
+  "Character": [
+    {
+      "prototype": 0,
+      "index": 16
+    },
+    {
+      "prototype": 30,
+      "index": 9
+    },
+    {
+      "prototype": 70,
+      "index": 3
+    },
+    {
+      "prototype": 72,
+      "index": 0
+    },
+    {
+      "prototype": 131,
+      "index": 5
+    },
+    {
+      "prototype": 132,
+      "index": 0
+    }
+  ],
+  "Humanoid": [
+    {
+      "prototype": 0,
+      "index": 17
+    },
+    {
+      "prototype": 2,
+      "index": 1
+    },
+    {
+      "prototype": 33,
+      "index": 7
+    },
+    {
+      "prototype": 40,
+      "index": 8
+    },
+    {
+      "prototype": 41,
+      "index": 6
+    },
+    {
+      "prototype": 43,
+      "index": 6
+    },
+    {
+      "prototype": 133,
+      "index": 1
+    }
+  ],
+  "FindFirstChild": [
+    {
+      "prototype": 0,
+      "index": 18
+    },
+    {
+      "prototype": 11,
+      "index": 19
+    },
+    {
+      "prototype": 12,
+      "index": 6
+    },
+    {
+      "prototype": 14,
+      "index": 5
+    },
+    {
+      "prototype": 16,
+      "index": 7
+    },
+    {
+      "prototype": 28,
+      "index": 8
+    },
+    {
+      "prototype": 30,
+      "index": 14
+    },
+    {
+      "prototype": 32,
+      "index": 5
+    },
+    {
+      "prototype": 33,
+      "index": 6
+    },
+    {
+      "prototype": 34,
+      "index": 2
+    },
+    {
+      "prototype": 36,
+      "index": 1
+    },
+    {
+      "prototype": 37,
+      "index": 14
+    },
+    {
+      "prototype": 38,
+      "index": 10
+    },
+    {
+      "prototype": 39,
+      "index": 10
+    },
+    {
+      "prototype": 40,
+      "index": 9
+    },
+    {
+      "prototype": 41,
+      "index": 7
+    },
+    {
+      "prototype": 43,
+      "index": 7
+    },
+    {
+      "prototype": 52,
+      "index": 3
+    },
+    {
+      "prototype": 55,
+      "index": 5
+    },
+    {
+      "prototype": 56,
+      "index": 15
+    },
+    {
+      "prototype": 64,
+      "index": 18
+    },
+    {
+      "prototype": 68,
+      "index": 0
+    },
+    {
+      "prototype": 70,
+      "index": 0
+    },
+    {
+      "prototype": 131,
+      "index": 6
+    }
+  ],
+  "HumanoidRootPart": [
+    {
+      "prototype": 0,
+      "index": 19
+    },
+    {
+      "prototype": 2,
+      "index": 2
+    },
+    {
+      "prototype": 7,
+      "index": 8
+    },
+    {
+      "prototype": 14,
+      "index": 12
+    },
+    {
+      "prototype": 30,
+      "index": 15
+    },
+    {
+      "prototype": 33,
+      "index": 10
+    },
+    {
+      "prototype": 38,
+      "index": 31
+    },
+    {
+      "prototype": 40,
+      "index": 13
+    },
+    {
+      "prototype": 41,
+      "index": 12
+    },
+    {
+      "prototype": 43,
+      "index": 11
+    },
+    {
+      "prototype": 62,
+      "index": 8
+    },
+    {
+      "prototype": 63,
+      "index": 8
+    },
+    {
+      "prototype": 64,
+      "index": 10
+    },
+    {
+      "prototype": 70,
+      "index": 4
+    },
+    {
+      "prototype": 131,
+      "index": 7
+    }
+  ],
+  "CharacterAdded": [
+    {
+      "prototype": 0,
+      "index": 20
+    },
+    {
+      "prototype": 7,
+      "index": 2
+    },
+    {
+      "prototype": 132,
+      "index": 1
+    }
+  ],
+  "Connect": [
+    {
+      "prototype": 0,
+      "index": 21
+    },
+    {
+      "prototype": 71,
+      "index": 2
+    },
+    {
+      "prototype": 75,
+      "index": 20
+    },
+    {
+      "prototype": 132,
+      "index": 2
+    },
+    {
+      "prototype": 133,
+      "index": 4
+    }
+  ],
+  "Files": [
+    {
+      "prototype": 0,
+      "index": 22
+    },
+    {
+      "prototype": 7,
+      "index": 17
+    },
+    {
+      "prototype": 8,
+      "index": 8
+    },
+    {
+      "prototype": 11,
+      "index": 13
+    },
+    {
+      "prototype": 12,
+      "index": 11
+    },
+    {
+      "prototype": 29,
+      "index": 8
+    },
+    {
+      "prototype": 32,
+      "index": 13
+    },
+    {
+      "prototype": 49,
+      "index": 25
+    },
+    {
+      "prototype": 50,
+      "index": 6
+    },
+    {
+      "prototype": 56,
+      "index": 21
+    },
+    {
+      "prototype": 58,
+      "index": 6
+    },
+    {
+      "prototype": 59,
+      "index": 6
+    },
+    {
+      "prototype": 60,
+      "index": 12
+    },
+    {
+      "prototype": 61,
+      "index": 6
+    },
+    {
+      "prototype": 62,
+      "index": 18
+    },
+    {
+      "prototype": 63,
+      "index": 18
+    },
+    {
+      "prototype": 136,
+      "index": 13
+    },
+    {
+      "prototype": 137,
+      "index": 13
+    },
+    {
+      "prototype": 138,
+      "index": 13
+    },
+    {
+      "prototype": 140,
+      "index": 11
+    }
+  ],
+  "WaitForChild": [
+    {
+      "prototype": 0,
+      "index": 23
+    },
+    {
+      "prototype": 2,
+      "index": 0
+    },
+    {
+      "prototype": 11,
+      "index": 24
+    },
+    {
+      "prototype": 44,
+      "index": 0
+    },
+    {
+      "prototype": 133,
+      "index": 0
+    }
+  ],
+  "Framework": [
+    {
+      "prototype": 0,
+      "index": 24
+    },
+    {
+      "prototype": 7,
+      "index": 16
+    },
+    {
+      "prototype": 8,
+      "index": 7
+    },
+    {
+      "prototype": 11,
+      "index": 12
+    },
+    {
+      "prototype": 12,
+      "index": 10
+    },
+    {
+      "prototype": 29,
+      "index": 7
+    },
+    {
+      "prototype": 32,
+      "index": 12
+    },
+    {
+      "prototype": 49,
+      "index": 24
+    },
+    {
+      "prototype": 50,
+      "index": 5
+    },
+    {
+      "prototype": 56,
+      "index": 20
+    },
+    {
+      "prototype": 58,
+      "index": 5
+    },
+    {
+      "prototype": 59,
+      "index": 5
+    },
+    {
+      "prototype": 60,
+      "index": 11
+    },
+    {
+      "prototype": 61,
+      "index": 5
+    },
+    {
+      "prototype": 62,
+      "index": 17
+    },
+    {
+      "prototype": 63,
+      "index": 17
+    },
+    {
+      "prototype": 136,
+      "index": 12
+    },
+    {
+      "prototype": 137,
+      "index": 12
+    },
+    {
+      "prototype": 138,
+      "index": 12
+    },
+    {
+      "prototype": 140,
+      "index": 10
+    }
+  ],
+  "Network": [
+    {
+      "prototype": 0,
+      "index": 25
+    },
+    {
+      "prototype": 7,
+      "index": 15
+    },
+    {
+      "prototype": 8,
+      "index": 6
+    },
+    {
+      "prototype": 11,
+      "index": 11
+    },
+    {
+      "prototype": 12,
+      "index": 9
+    },
+    {
+      "prototype": 29,
+      "index": 6
+    },
+    {
+      "prototype": 32,
+      "index": 11
+    },
+    {
+      "prototype": 49,
+      "index": 23
+    },
+    {
+      "prototype": 50,
+      "index": 4
+    },
+    {
+      "prototype": 56,
+      "index": 19
+    },
+    {
+      "prototype": 58,
+      "index": 4
+    },
+    {
+      "prototype": 59,
+      "index": 4
+    },
+    {
+      "prototype": 60,
+      "index": 10
+    },
+    {
+      "prototype": 61,
+      "index": 4
+    },
+    {
+      "prototype": 62,
+      "index": 16
+    },
+    {
+      "prototype": 63,
+      "index": 16
+    },
+    {
+      "prototype": 136,
+      "index": 11
+    },
+    {
+      "prototype": 137,
+      "index": 11
+    },
+    {
+      "prototype": 138,
+      "index": 11
+    },
+    {
+      "prototype": 140,
+      "index": 9
+    }
+  ],
+  "RemoteFunction": [
+    {
+      "prototype": 0,
+      "index": 26
+    },
+    {
+      "prototype": 11,
+      "index": 10
+    },
+    {
+      "prototype": 12,
+      "index": 8
+    },
+    {
+      "prototype": 32,
+      "index": 10
+    },
+    {
+      "prototype": 56,
+      "index": 18
+    }
+  ],
+  "Cleanup Duty": [
+    {
+      "prototype": 0,
+      "index": 27
+    },
+    {
+      "prototype": 37,
+      "index": 11
+    }
+  ],
+  "Hold the line": [
+    {
+      "prototype": 0,
+      "index": 28
+    },
+    {
+      "prototype": 39,
+      "index": 8
+    }
+  ],
+  "Hold the Line": [
+    {
+      "prototype": 0,
+      "index": 29
+    }
+  ],
+  "Aftermath detail": [
+    {
+      "prototype": 0,
+      "index": 30
+    },
+    {
+      "prototype": 34,
+      "index": 0
+    },
+    {
+      "prototype": 38,
+      "index": 8
+    }
+  ],
+  "Aftermath Detail": [
+    {
+      "prototype": 0,
+      "index": 31
+    }
+  ],
+  "CreateWindow": [
+    {
+      "prototype": 0,
+      "index": 32
+    }
+  ],
+  "Title": [
+    {
+      "prototype": 0,
+      "index": 33
+    }
+  ],
+  "Neptune - Devil Hunter": [
+    {
+      "prototype": 0,
+      "index": 34
+    }
+  ],
+  "Color3": [
+    {
+      "prototype": 0,
+      "index": 35
+    },
+    {
+      "prototype": 18,
+      "index": 5
+    },
+    {
+      "prototype": 110,
+      "index": 3
+    },
+    {
+      "prototype": 127,
+      "index": 3
+    },
+    {
+      "prototype": 128,
+      "index": 3
+    }
+  ],
+  "fromRGB": [
+    {
+      "prototype": 0,
+      "index": 36
+    },
+    {
+      "prototype": 18,
+      "index": 6
+    },
+    {
+      "prototype": 110,
+      "index": 4
+    },
+    {
+      "prototype": 127,
+      "index": 4
+    },
+    {
+      "prototype": 128,
+      "index": 4
+    }
+  ],
+  "Center": [
+    {
+      "prototype": 0,
+      "index": 41
+    }
+  ],
+  "AutoShow": [
+    {
+      "prototype": 0,
+      "index": 42
+    }
+  ],
+  "Resizable": [
+    {
+      "prototype": 0,
+      "index": 43
+    }
+  ],
+  "UnlockMouseWhileOpen": [
+    {
+      "prototype": 0,
+      "index": 44
+    }
+  ],
+  "TabPadding": [
+    {
+      "prototype": 0,
+      "index": 45
+    }
+  ],
+  "MenuFadeTime": [
+    {
+      "prototype": 0,
+      "index": 47
+    }
+  ],
+  "AutoFarm": [
+    {
+      "prototype": 0,
+      "index": 49
+    },
+    {
+      "prototype": 37,
+      "index": 5
+    },
+    {
+      "prototype": 38,
+      "index": 2
+    },
+    {
+      "prototype": 39,
+      "index": 2
+    },
+    {
+      "prototype": 154,
+      "index": 2
+    }
+  ],
+  "AddTab": [
+    {
+      "prototype": 0,
+      "index": 50
+    }
+  ],
+  "Main": [
+    {
+      "prototype": 0,
+      "index": 51
+    }
+  ],
+  "Combat": [
+    {
+      "prototype": 0,
+      "index": 52
+    }
+  ],
+  "Visual": [
+    {
+      "prototype": 0,
+      "index": 53
+    }
+  ],
+  "Player": [
+    {
+      "prototype": 0,
+      "index": 54
+    },
+    {
+      "prototype": 46,
+      "index": 3
+    }
+  ],
+  "Raid": [
+    {
+      "prototype": 0,
+      "index": 55
+    }
+  ],
+  "UI Settings": [
+    {
+      "prototype": 0,
+      "index": 56
+    }
+  ],
+  "AddLeftGroupbox": [
+    {
+      "prototype": 0,
+      "index": 57
+    }
+  ],
+  "Teleport": [
+    {
+      "prototype": 0,
+      "index": 58
+    }
+  ],
+  "Eternity Devil Raid": [
+    {
+      "prototype": 0,
+      "index": 59
+    }
+  ],
+  "AddRightGroupbox": [
+    {
+      "prototype": 0,
+      "index": 60
+    }
+  ],
+  "Katana Devil Raid": [
+    {
+      "prototype": 0,
+      "index": 61
+    }
+  ],
+  "Cool Raid Stuff": [
+    {
+      "prototype": 0,
+      "index": 62
+    }
+  ],
+  "GodMode": [
+    {
+      "prototype": 0,
+      "index": 63
+    }
+  ],
+  "AddLabel": [
+    {
+      "prototype": 0,
+      "index": 64
+    }
+  ],
+  "No Position Set": [
+    {
+      "prototype": 0,
+      "index": 65
+    }
+  ],
+  "AddButton": [
+    {
+      "prototype": 0,
+      "index": 66
+    }
+  ],
+  "Text": [
+    {
+      "prototype": 0,
+      "index": 67
+    }
+  ],
+  "Set Position": [
+    {
+      "prototype": 0,
+      "index": 68
+    }
+  ],
+  "Func": [
+    {
+      "prototype": 0,
+      "index": 69
+    }
+  ],
+  "AddToggle": [
+    {
+      "prototype": 0,
+      "index": 70
+    }
+  ],
+  "godModeV2": [
+    {
+      "prototype": 0,
+      "index": 71
+    },
+    {
+      "prototype": 8,
+      "index": 1
+    }
+  ],
+  "GodMode V2": [
+    {
+      "prototype": 0,
+      "index": 72
+    }
+  ],
+  "Default": [
+    {
+      "prototype": 0,
+      "index": 73
+    },
+    {
+      "prototype": 57,
+      "index": 2
+    }
+  ],
+  "Callback": [
+    {
+      "prototype": 0,
+      "index": 74
+    }
+  ],
+  "AddInput": [
+    {
+      "prototype": 0,
+      "index": 75
+    }
+  ],
+  "raidMainName": [
+    {
+      "prototype": 0,
+      "index": 76
+    },
+    {
+      "prototype": 11,
+      "index": 18
+    }
+  ],
+  "": [
+    {
+      "prototype": 0,
+      "index": 77
+    },
+    {
+      "prototype": 48,
+      "index": 2
+    },
+    {
+      "prototype": 49,
+      "index": 2
+    },
+    {
+      "prototype": 140,
+      "index": 4
+    }
+  ],
+  "Numeric": [
+    {
+      "prototype": 0,
+      "index": 78
+    }
+  ],
+  "Finished": [
+    {
+      "prototype": 0,
+      "index": 79
+    }
+  ],
+  "ClearTextOnFocus": [
+    {
+      "prototype": 0,
+      "index": 80
+    }
+  ],
+  "Main Player Name": [
+    {
+      "prototype": 0,
+      "index": 81
+    }
+  ],
+  "Tooltip": [
+    {
+      "prototype": 0,
+      "index": 82
+    }
+  ],
+  "Main Account to Send into Raid": [
+    {
+      "prototype": 0,
+      "index": 83
+    }
+  ],
+  "Placeholder": [
+    {
+      "prototype": 0,
+      "index": 84
+    }
+  ],
+  "Input Player name": [
+    {
+      "prototype": 0,
+      "index": 85
+    }
+  ],
+  "raidAltName": [
+    {
+      "prototype": 0,
+      "index": 86
+    },
+    {
+      "prototype": 12,
+      "index": 5
+    }
+  ],
+  "Alt Player Name": [
+    {
+      "prototype": 0,
+      "index": 87
+    }
+  ],
+  "Alt Account to Auto Accept Invite": [
+    {
+      "prototype": 0,
+      "index": 88
+    }
+  ],
+  "AddDropdown": [
+    {
+      "prototype": 0,
+      "index": 89
+    }
+  ],
+  "raidType": [
+    {
+      "prototype": 0,
+      "index": 90
+    },
+    {
+      "prototype": 11,
+      "index": 2
+    }
+  ],
+  "Values": [
+    {
+      "prototype": 0,
+      "index": 91
+    }
+  ],
+  "Eternity": [
+    {
+      "prototype": 0,
+      "index": 92
+    },
+    {
+      "prototype": 26,
+      "index": 1
+    }
+  ],
+  "Katana": [
+    {
+      "prototype": 0,
+      "index": 93
+    },
+    {
+      "prototype": 25,
+      "index": 1
+    }
+  ],
+  "Zombie": [
+    {
+      "prototype": 0,
+      "index": 94
+    },
+    {
+      "prototype": 24,
+      "index": 1
+    }
+  ],
+  "Multi": [
+    {
+      "prototype": 0,
+      "index": 96
+    }
+  ],
+  "Raid Name": [
+    {
+      "prototype": 0,
+      "index": 97
+    }
+  ],
+  "CFrame": [
+    {
+      "prototype": 0,
+      "index": 98
+    },
+    {
+      "prototype": 7,
+      "index": 7
+    },
+    {
+      "prototype": 11,
+      "index": 3
+    },
+    {
+      "prototype": 13,
+      "index": 6
+    },
+    {
+      "prototype": 14,
+      "index": 13
+    },
+    {
+      "prototype": 16,
+      "index": 14
+    },
+    {
+      "prototype": 20,
+      "index": 7
+    },
+    {
+      "prototype": 24,
+      "index": 0
+    },
+    {
+      "prototype": 25,
+      "index": 0
+    },
+    {
+      "prototype": 26,
+      "index": 0
+    },
+    {
+      "prototype": 28,
+      "index": 10
+    },
+    {
+      "prototype": 30,
+      "index": 18
+    },
+    {
+      "prototype": 37,
+      "index": 24
+    },
+    {
+      "prototype": 38,
+      "index": 17
+    },
+    {
+      "prototype": 39,
+      "index": 22
+    },
+    {
+      "prototype": 43,
+      "index": 17
+    },
+    {
+      "prototype": 55,
+      "index": 6
+    },
+    {
+      "prototype": 70,
+      "index": 5
+    },
+    {
+      "prototype": 76,
+      "index": 12
+    },
+    {
+      "prototype": 80,
+      "index": 5
+    },
+    {
+      "prototype": 154,
+      "index": 13
+    }
+  ],
+  "new": [
+    {
+      "prototype": 0,
+      "index": 99
+    },
+    {
+      "prototype": 7,
+      "index": 9
+    },
+    {
+      "prototype": 13,
+      "index": 8
+    },
+    {
+      "prototype": 14,
+      "index": 15
+    },
+    {
+      "prototype": 16,
+      "index": 17
+    },
+    {
+      "prototype": 18,
+      "index": 1
+    },
+    {
+      "prototype": 22,
+      "index": 2
+    },
+    {
+      "prototype": 23,
+      "index": 2
+    },
+    {
+      "prototype": 28,
+      "index": 11
+    },
+    {
+      "prototype": 30,
+      "index": 19
+    },
+    {
+      "prototype": 37,
+      "index": 25
+    },
+    {
+      "prototype": 38,
+      "index": 37
+    },
+    {
+      "prototype": 39,
+      "index": 19
+    },
+    {
+      "prototype": 43,
+      "index": 19
+    },
+    {
+      "prototype": 55,
+      "index": 7
+    },
+    {
+      "prototype": 70,
+      "index": 9
+    },
+    {
+      "prototype": 75,
+      "index": 2
+    },
+    {
+      "prototype": 76,
+      "index": 18
+    },
+    {
+      "prototype": 80,
+      "index": 7
+    },
+    {
+      "prototype": 143,
+      "index": 6
+    },
+    {
+      "prototype": 154,
+      "index": 14
+    }
+  ],
+  "DialogName": [
+    {
+      "prototype": 0,
+      "index": 102
+    },
+    {
+      "prototype": 11,
+      "index": 25
+    }
+  ],
+  "Mysterious Hotel": [
+    {
+      "prototype": 0,
+      "index": 103
+    }
+  ],
+  "Yakuza Infiltration": [
+    {
+      "prototype": 0,
+      "index": 107
+    }
+  ],
+  "Zombie Devil Warehouse": [
+    {
+      "prototype": 0,
+      "index": 111
+    }
+  ],
+  "infiniteRaid": [
+    {
+      "prototype": 0,
+      "index": 112
+    },
+    {
+      "prototype": 11,
+      "index": 1
+    }
+  ],
+  "Auto Launch Raid [Alt Account]": [
+    {
+      "prototype": 0,
+      "index": 113
+    }
+  ],
+  "infiniteAltRaid": [
+    {
+      "prototype": 0,
+      "index": 114
+    },
+    {
+      "prototype": 12,
+      "index": 1
+    }
+  ],
+  "Auto Launch Raid [Main Account]": [
+    {
+      "prototype": 0,
+      "index": 115
+    }
+  ],
+  "AddDivider": [
+    {
+      "prototype": 0,
+      "index": 116
+    }
+  ],
+  "Manual Use Only": [
+    {
+      "prototype": 0,
+      "index": 117
+    }
+  ],
+  "AddSlider": [
+    {
+      "prototype": 0,
+      "index": 118
+    }
+  ],
+  "healthPercent": [
+    {
+      "prototype": 0,
+      "index": 119
+    },
+    {
+      "prototype": 13,
+      "index": 5
+    }
+  ],
+  "Health Percent": [
+    {
+      "prototype": 0,
+      "index": 120
+    }
+  ],
+  "Min": [
+    {
+      "prototype": 0,
+      "index": 121
+    }
+  ],
+  "Max": [
+    {
+      "prototype": 0,
+      "index": 123
+    }
+  ],
+  "Rounding": [
+    {
+      "prototype": 0,
+      "index": 125
+    }
+  ],
+  "Compact": [
+    {
+      "prototype": 0,
+      "index": 126
+    }
+  ],
+  "InfiniteLive": [
+    {
+      "prototype": 0,
+      "index": 127
+    },
+    {
+      "prototype": 13,
+      "index": 1
+    }
+  ],
+  "Auto Void Yourself": [
+    {
+      "prototype": 0,
+      "index": 128
+    }
+  ],
+  "Current Floor: Unknown": [
+    {
+      "prototype": 0,
+      "index": 129
+    }
+  ],
+  "autofloor": [
+    {
+      "prototype": 0,
+      "index": 130
+    },
+    {
+      "prototype": 15,
+      "index": 1
+    }
+  ],
+  "Auto Floor": [
+    {
+      "prototype": 0,
+      "index": 131
+    }
+  ],
+  "xRaid": [
+    {
+      "prototype": 0,
+      "index": 132
+    },
+    {
+      "prototype": 14,
+      "index": 17
+    }
+  ],
+  "x": [
+    {
+      "prototype": 0,
+      "index": 133
+    }
+  ],
+  "yRaid": [
+    {
+      "prototype": 0,
+      "index": 136
+    },
+    {
+      "prototype": 14,
+      "index": 18
+    }
+  ],
+  "y": [
+    {
+      "prototype": 0,
+      "index": 137
+    }
+  ],
+  "zRaid": [
+    {
+      "prototype": 0,
+      "index": 138
+    },
+    {
+      "prototype": 14,
+      "index": 19
+    }
+  ],
+  "z": [
+    {
+      "prototype": 0,
+      "index": 139
+    }
+  ],
+  "Open All Door": [
+    {
+      "prototype": 0,
+      "index": 141
+    }
+  ],
+  "KeyEsp": [
+    {
+      "prototype": 0,
+      "index": 142
+    },
+    {
+      "prototype": 17,
+      "index": 8
+    }
+  ],
+  "Key Esp": [
+    {
+      "prototype": 0,
+      "index": 143
+    }
+  ],
+  "Tp to Key": [
+    {
+      "prototype": 0,
+      "index": 144
+    }
+  ],
+  "Tp to Vault": [
+    {
+      "prototype": 0,
+      "index": 145
+    }
+  ],
+  "Tp to Safe Room": [
+    {
+      "prototype": 0,
+      "index": 146
+    }
+  ],
+  "Tp to Boss Room": [
+    {
+      "prototype": 0,
+      "index": 147
+    }
+  ],
+  "Zombie Raid": [
+    {
+      "prototype": 0,
+      "index": 148
+    }
+  ],
+  "Katana-Man Raid": [
+    {
+      "prototype": 0,
+      "index": 149
+    }
+  ],
+  "Eternity Raid": [
+    {
+      "prototype": 0,
+      "index": 150
+    }
+  ],
+  "Auto Farm": [
+    {
+      "prototype": 0,
+      "index": 151
+    }
+  ],
+  "Void Mob": [
+    {
+      "prototype": 0,
+      "index": 152
+    }
+  ],
+  "Mob Farm": [
+    {
+      "prototype": 0,
+      "index": 153
+    }
+  ],
+  "Mastery Farm": [
+    {
+      "prototype": 0,
+      "index": 154
+    }
+  ],
+  "punchingBag": [
+    {
+      "prototype": 0,
+      "index": 155
+    },
+    {
+      "prototype": 28,
+      "index": 4
+    }
+  ],
+  "Farm Punching Bag": [
+    {
+      "prototype": 0,
+      "index": 156
+    }
+  ],
+  "task": [
+    {
+      "prototype": 0,
+      "index": 157
+    },
+    {
+      "prototype": 4,
+      "index": 4
+    },
+    {
+      "prototype": 7,
+      "index": 4
+    },
+    {
+      "prototype": 8,
+      "index": 17
+    },
+    {
+      "prototype": 11,
+      "index": 4
+    },
+    {
+      "prototype": 12,
+      "index": 14
+    },
+    {
+      "prototype": 13,
+      "index": 10
+    },
+    {
+      "prototype": 14,
+      "index": 20
+    },
+    {
+      "prototype": 15,
+      "index": 9
+    },
+    {
+      "prototype": 16,
+      "index": 20
+    },
+    {
+      "prototype": 17,
+      "index": 9
+    },
+    {
+      "prototype": 28,
+      "index": 0
+    },
+    {
+      "prototype": 29,
+      "index": 13
+    },
+    {
+      "prototype": 30,
+      "index": 23
+    },
+    {
+      "prototype": 32,
+      "index": 20
+    },
+    {
+      "prototype": 37,
+      "index": 2
+    },
+    {
+      "prototype": 38,
+      "index": 18
+    },
+    {
+      "prototype": 39,
+      "index": 23
+    },
+    {
+      "prototype": 40,
+      "index": 19
+    },
+    {
+      "prototype": 41,
+      "index": 19
+    },
+    {
+      "prototype": 43,
+      "index": 21
+    },
+    {
+      "prototype": 49,
+      "index": 31
+    },
+    {
+      "prototype": 52,
+      "index": 7
+    },
+    {
+      "prototype": 56,
+      "index": 29
+    },
+    {
+      "prototype": 58,
+      "index": 9
+    },
+    {
+      "prototype": 59,
+      "index": 9
+    },
+    {
+      "prototype": 60,
+      "index": 16
+    },
+    {
+      "prototype": 61,
+      "index": 18
+    },
+    {
+      "prototype": 62,
+      "index": 23
+    },
+    {
+      "prototype": 63,
+      "index": 23
+    },
+    {
+      "prototype": 64,
+      "index": 20
+    },
+    {
+      "prototype": 70,
+      "index": 12
+    },
+    {
+      "prototype": 73,
+      "index": 2
+    },
+    {
+      "prototype": 130,
+      "index": 5
+    },
+    {
+      "prototype": 131,
+      "index": 22
+    },
+    {
+      "prototype": 136,
+      "index": 2
+    },
+    {
+      "prototype": 137,
+      "index": 2
+    },
+    {
+      "prototype": 138,
+      "index": 2
+    },
+    {
+      "prototype": 139,
+      "index": 0
+    },
+    {
+      "prototype": 140,
+      "index": 2
+    },
+    {
+      "prototype": 141,
+      "index": 0
+    },
+    {
+      "prototype": 142,
+      "index": 1
+    },
+    {
+      "prototype": 151,
+      "index": 0
+    },
+    {
+      "prototype": 154,
+      "index": 18
+    }
+  ],
+  "spawn": [
+    {
+      "prototype": 0,
+      "index": 158
+    },
+    {
+      "prototype": 139,
+      "index": 1
+    },
+    {
+      "prototype": 141,
+      "index": 1
+    },
+    {
+      "prototype": 151,
+      "index": 1
+    }
+  ],
+  "spamParry": [
+    {
+      "prototype": 0,
+      "index": 159
+    },
+    {
+      "prototype": 29,
+      "index": 1
+    }
+  ],
+  "Spam Parry": [
+    {
+      "prototype": 0,
+      "index": 160
+    }
+  ],
+  "distanceFarmMob": [
+    {
+      "prototype": 0,
+      "index": 161
+    },
+    {
+      "prototype": 30,
+      "index": 22
+    }
+  ],
+  "Distance From Mob": [
+    {
+      "prototype": 0,
+      "index": 162
+    }
+  ],
+  "maxFarmDistance": [
+    {
+      "prototype": 0,
+      "index": 164
+    },
+    {
+      "prototype": 30,
+      "index": 2
+    }
+  ],
+  "Max Farm Distance": [
+    {
+      "prototype": 0,
+      "index": 165
+    }
+  ],
+  "mobFarm": [
+    {
+      "prototype": 0,
+      "index": 169
+    },
+    {
+      "prototype": 30,
+      "index": 1
+    }
+  ],
+  "Farm Mob": [
+    {
+      "prototype": 0,
+      "index": 170
+    }
+  ],
+  "Auto Quest": [
+    {
+      "prototype": 0,
+      "index": 171
+    }
+  ],
+  "FarmMode": [
+    {
+      "prototype": 0,
+      "index": 172
+    },
+    {
+      "prototype": 37,
+      "index": 6
+    },
+    {
+      "prototype": 38,
+      "index": 3
+    },
+    {
+      "prototype": 39,
+      "index": 3
+    },
+    {
+      "prototype": 154,
+      "index": 3
+    }
+  ],
+  "Intercept": [
+    {
+      "prototype": 0,
+      "index": 173
+    },
+    {
+      "prototype": 32,
+      "index": 19
+    },
+    {
+      "prototype": 154,
+      "index": 23
+    }
+  ],
+  "Create": [
+    {
+      "prototype": 0,
+      "index": 174
+    },
+    {
+      "prototype": 37,
+      "index": 7
+    },
+    {
+      "prototype": 38,
+      "index": 4
+    },
+    {
+      "prototype": 39,
+      "index": 4
+    },
+    {
+      "prototype": 154,
+      "index": 4
+    }
+  ],
+  "Mode": [
+    {
+      "prototype": 0,
+      "index": 175
+    }
+  ],
+  "Mission Rewards : ": [
+    {
+      "prototype": 0,
+      "index": 176
+    }
+  ],
+  "RewardsLabel": [
+    {
+      "prototype": 0,
+      "index": 177
+    }
+  ],
+  "AddDependencyBox": [
+    {
+      "prototype": 0,
+      "index": 178
+    }
+  ],
+  "InterceptDelay": [
+    {
+      "prototype": 0,
+      "index": 179
+    },
+    {
+      "prototype": 32,
+      "index": 22
+    },
+    {
+      "prototype": 154,
+      "index": 24
+    }
+  ],
+  "Intercept delay": [
+    {
+      "prototype": 0,
+      "index": 180
+    }
+  ],
+  "playerName": [
+    {
+      "prototype": 0,
+      "index": 183
+    },
+    {
+      "prototype": 32,
+      "index": 4
+    }
+  ],
+  "Player To Intercept": [
+    {
+      "prototype": 0,
+      "index": 184
+    }
+  ],
+  "Alt Account to intercept": [
+    {
+      "prototype": 0,
+      "index": 185
+    }
+  ],
+  "AutoIntercept": [
+    {
+      "prototype": 0,
+      "index": 186
+    },
+    {
+      "prototype": 32,
+      "index": 1
+    }
+  ],
+  "Auto-Intercept": [
+    {
+      "prototype": 0,
+      "index": 187
+    }
+  ],
+  "Auto Get Lootbox": [
+    {
+      "prototype": 0,
+      "index": 188
+    }
+  ],
+  "MissionType": [
+    {
+      "prototype": 0,
+      "index": 189
+    },
+    {
+      "prototype": 37,
+      "index": 10
+    },
+    {
+      "prototype": 38,
+      "index": 7
+    },
+    {
+      "prototype": 39,
+      "index": 7
+    },
+    {
+      "prototype": 154,
+      "index": 5
+    }
+  ],
+  "Mission Type": [
+    {
+      "prototype": 0,
+      "index": 190
+    }
+  ],
+  "MissionLocation": [
+    {
+      "prototype": 0,
+      "index": 191
+    },
+    {
+      "prototype": 37,
+      "index": 12
+    },
+    {
+      "prototype": 38,
+      "index": 9
+    },
+    {
+      "prototype": 39,
+      "index": 9
+    },
+    {
+      "prototype": 152,
+      "index": 8
+    },
+    {
+      "prototype": 154,
+      "index": 6
+    }
+  ],
+  "Loading...": [
+    {
+      "prototype": 0,
+      "index": 192
+    }
+  ],
+  "Location": [
+    {
+      "prototype": 0,
+      "index": 193
+    }
+  ],
+  "MissionModifiers": [
+    {
+      "prototype": 0,
+      "index": 194
+    },
+    {
+      "prototype": 150,
+      "index": 3
+    },
+    {
+      "prototype": 154,
+      "index": 8
+    }
+  ],
+  "Bloodlust": [
+    {
+      "prototype": 0,
+      "index": 195
+    }
+  ],
+  "Flawless": [
+    {
+      "prototype": 0,
+      "index": 196
+    }
+  ],
+  "Contract Lock": [
+    {
+      "prototype": 0,
+      "index": 197
+    }
+  ],
+  "Stifle": [
+    {
+      "prototype": 0,
+      "index": 198
+    }
+  ],
+  "Blind Path": [
+    {
+      "prototype": 0,
+      "index": 199
+    }
+  ],
+  "Recall": [
+    {
+      "prototype": 0,
+      "index": 200
+    }
+  ],
+  "Modifiers": [
+    {
+      "prototype": 0,
+      "index": 201
+    }
+  ],
+  "MissionDelay": [
+    {
+      "prototype": 0,
+      "index": 202
+    },
+    {
+      "prototype": 154,
+      "index": 22
+    }
+  ],
+  "Mission delay": [
+    {
+      "prototype": 0,
+      "index": 203
+    }
+  ],
+  "EnhancedCleanup": [
+    {
+      "prototype": 0,
+      "index": 204
+    },
+    {
+      "prototype": 37,
+      "index": 1
+    }
+  ],
+  "Enhanced Cleanup Duty": [
+    {
+      "prototype": 0,
+      "index": 205
+    }
+  ],
+  "Better item pickup/turn-in - works on all locations": [
+    {
+      "prototype": 0,
+      "index": 206
+    }
+  ],
+  "EnhancedAftermath": [
+    {
+      "prototype": 0,
+      "index": 207
+    },
+    {
+      "prototype": 38,
+      "index": 1
+    }
+  ],
+  "Enhanced Aftermath Detail": [
+    {
+      "prototype": 0,
+      "index": 208
+    }
+  ],
+  "Improved trash/body handling (works best with Residential Area)": [
+    {
+      "prototype": 0,
+      "index": 209
+    }
+  ],
+  "StayOnPoint": [
+    {
+      "prototype": 0,
+      "index": 210
+    },
+    {
+      "prototype": 39,
+      "index": 1
+    }
+  ],
+  "Goes underground when mobs spawn to avoid damage": [
+    {
+      "prototype": 0,
+      "index": 211
+    }
+  ],
+  "NetworkCheck": [
+    {
+      "prototype": 0,
+      "index": 212
+    },
+    {
+      "prototype": 40,
+      "index": 17
+    },
+    {
+      "prototype": 41,
+      "index": 16
+    },
+    {
+      "prototype": 43,
+      "index": 15
+    }
+  ],
+  "Network Check": [
+    {
+      "prototype": 0,
+      "index": 213
+    }
+  ],
+  "DistanceVoid": [
+    {
+      "prototype": 0,
+      "index": 214
+    },
+    {
+      "prototype": 15,
+      "index": 5
+    },
+    {
+      "prototype": 40,
+      "index": 16
+    },
+    {
+      "prototype": 41,
+      "index": 15
+    }
+  ],
+  "Distance": [
+    {
+      "prototype": 0,
+      "index": 215
+    }
+  ],
+  "Distance For Voiding Entities": [
+    {
+      "prototype": 0,
+      "index": 218
+    }
+  ],
+  "Void": [
+    {
+      "prototype": 0,
+      "index": 219
+    },
+    {
+      "prototype": 15,
+      "index": 2
+    }
+  ],
+  "Void Entities Within Distance [Selected]": [
+    {
+      "prototype": 0,
+      "index": 220
+    }
+  ],
+  "DisabledTooltip": [
+    {
+      "prototype": 0,
+      "index": 221
+    }
+  ],
+  "I am disabled!": [
+    {
+      "prototype": 0,
+      "index": 222
+    }
+  ],
+  "Disabled": [
+    {
+      "prototype": 0,
+      "index": 223
+    }
+  ],
+  "Visible": [
+    {
+      "prototype": 0,
+      "index": 224
+    },
+    {
+      "prototype": 56,
+      "index": 3
+    },
+    {
+      "prototype": 147,
+      "index": 0
+    }
+  ],
+  "Risky": [
+    {
+      "prototype": 0,
+      "index": 225
+    }
+  ],
+  "freezeMob": [
+    {
+      "prototype": 0,
+      "index": 226
+    }
+  ],
+  "Freeze Mob": [
+    {
+      "prototype": 0,
+      "index": 227
+    }
+  ],
+  "Freeze entities Within Distance [Selected]": [
+    {
+      "prototype": 0,
+      "index": 228
+    }
+  ],
+  "DistanceGrabMax": [
+    {
+      "prototype": 0,
+      "index": 229
+    },
+    {
+      "prototype": 43,
+      "index": 14
+    }
+  ],
+  "Distance Max For Grabbing": [
+    {
+      "prototype": 0,
+      "index": 230
+    }
+  ],
+  "Distance For Grabbing Entities Max": [
+    {
+      "prototype": 0,
+      "index": 231
+    }
+  ],
+  "DistanceGrab": [
+    {
+      "prototype": 0,
+      "index": 232
+    },
+    {
+      "prototype": 43,
+      "index": 20
+    }
+  ],
+  "Distance Mob": [
+    {
+      "prototype": 0,
+      "index": 233
+    }
+  ],
+  "Distance For putting Entities": [
+    {
+      "prototype": 0,
+      "index": 234
+    }
+  ],
+  "grabMob": [
+    {
+      "prototype": 0,
+      "index": 235
+    }
+  ],
+  "Bring Mob": [
+    {
+      "prototype": 0,
+      "index": 236
+    }
+  ],
+  "Bring Entities Within Distance [Selected]": [
+    {
+      "prototype": 0,
+      "index": 237
+    }
+  ],
+  "SetupDependencies": [
+    {
+      "prototype": 0,
+      "index": 238
+    }
+  ],
+  "Player Farm": [
+    {
+      "prototype": 0,
+      "index": 239
+    }
+  ],
+  "Player utils": [
+    {
+      "prototype": 0,
+      "index": 240
+    }
+  ],
+  "Player Auto": [
+    {
+      "prototype": 0,
+      "index": 241
+    }
+  ],
+  "LootBox": [
+    {
+      "prototype": 0,
+      "index": 242
+    }
+  ],
+  "Npc Teleport": [
+    {
+      "prototype": 0,
+      "index": 243
+    }
+  ],
+  "Auto Eat": [
+    {
+      "prototype": 0,
+      "index": 244
+    }
+  ],
+  "WIPE YOURSELF": [
+    {
+      "prototype": 0,
+      "index": 245
+    }
+  ],
+  "Auto Discard": [
+    {
+      "prototype": 0,
+      "index": 246
+    }
+  ],
+  "Common": [
+    {
+      "prototype": 0,
+      "index": 247
+    }
+  ],
+  "itemRarities": [
+    {
+      "prototype": 0,
+      "index": 248
+    },
+    {
+      "prototype": 48,
+      "index": 1
+    },
+    {
+      "prototype": 49,
+      "index": 1
+    }
+  ],
+  "Uncommon": [
+    {
+      "prototype": 0,
+      "index": 249
+    }
+  ],
+  "Rare": [
+    {
+      "prototype": 0,
+      "index": 250
+    }
+  ],
+  "Epic": [
+    {
+      "prototype": 0,
+      "index": 251
+    }
+  ],
+  "Legendary": [
+    {
+      "prototype": 0,
+      "index": 252
+    }
+  ],
+  "Rarity To Discard": [
+    {
+      "prototype": 0,
+      "index": 253
+    }
+  ],
+  "Show Potential Discarded Items": [
+    {
+      "prototype": 0,
+      "index": 254
+    }
+  ],
+  "DoubleClick": [
+    {
+      "prototype": 0,
+      "index": 255
+    }
+  ],
+  "Discard Selected Items": [
+    {
+      "prototype": 0,
+      "index": 256
+    }
+  ],
+  "WIPE YOURSELF BE CAUTIOUS": [
+    {
+      "prototype": 0,
+      "index": 257
+    }
+  ],
+  "eatList": [
+    {
+      "prototype": 0,
+      "index": 258
+    },
+    {
+      "prototype": 52,
+      "index": 2
+    }
+  ],
+  "Heart": [
+    {
+      "prototype": 0,
+      "index": 259
+    }
+  ],
+  "Arm": [
+    {
+      "prototype": 0,
+      "index": 260
+    }
+  ],
+  "Eye": [
+    {
+      "prototype": 0,
+      "index": 261
+    }
+  ],
+  "Leg": [
+    {
+      "prototype": 0,
+      "index": 262
+    }
+  ],
+  "Common Devil Flesh": [
+    {
+      "prototype": 0,
+      "index": 263
+    }
+  ],
+  "Uncommon Devil Flesh": [
+    {
+      "prototype": 0,
+      "index": 264
+    }
+  ],
+  "Rare Devil Flesh": [
+    {
+      "prototype": 0,
+      "index": 265
+    }
+  ],
+  "Epic Devil Flesh": [
+    {
+      "prototype": 0,
+      "index": 266
+    }
+  ],
+  "Eat List": [
+    {
+      "prototype": 0,
+      "index": 267
+    }
+  ],
+  "autoEat": [
+    {
+      "prototype": 0,
+      "index": 268
+    },
+    {
+      "prototype": 52,
+      "index": 1
+    }
+  ],
+  "All in the title digga[7PX is a skidder]": [
+    {
+      "prototype": 0,
+      "index": 269
+    }
+  ],
+  "Some Npc doesnt spawn if your not within range": [
+    {
+      "prototype": 0,
+      "index": 270
+    }
+  ],
+  "npcList": [
+    {
+      "prototype": 0,
+      "index": 271
+    },
+    {
+      "prototype": 54,
+      "index": 11
+    },
+    {
+      "prototype": 55,
+      "index": 1
+    }
+  ],
+  "Refresh List of Npc": [
+    {
+      "prototype": 0,
+      "index": 272
+    }
+  ],
+  "Npc List": [
+    {
+      "prototype": 0,
+      "index": 273
+    }
+  ],
+  "Refresh Npc List": [
+    {
+      "prototype": 0,
+      "index": 274
+    }
+  ],
+  "TP to Selected Npc": [
+    {
+      "prototype": 0,
+      "index": 275
+    }
+  ],
+  "AutoBox": [
+    {
+      "prototype": 0,
+      "index": 276
+    }
+  ],
+  "Auto Open LootBox": [
+    {
+      "prototype": 0,
+      "index": 277
+    }
+  ],
+  "AutoHit": [
+    {
+      "prototype": 0,
+      "index": 278
+    },
+    {
+      "prototype": 27,
+      "index": 1
+    }
+  ],
+  "Auto Hit": [
+    {
+      "prototype": 0,
+      "index": 279
+    }
+  ],
+  "AutoCrit": [
+    {
+      "prototype": 0,
+      "index": 280
+    }
+  ],
+  "Auto Critical": [
+    {
+      "prototype": 0,
+      "index": 281
+    }
+  ],
+  "Auto Critical M1": [
+    {
+      "prototype": 0,
+      "index": 282
+    }
+  ],
+  "AutoEquip": [
+    {
+      "prototype": 0,
+      "index": 283
+    }
+  ],
+  "Auto Equip": [
+    {
+      "prototype": 0,
+      "index": 284
+    }
+  ],
+  "Auto Equip Weapon": [
+    {
+      "prototype": 0,
+      "index": 285
+    }
+  ],
+  "SemiGod": [
+    {
+      "prototype": 0,
+      "index": 286
+    }
+  ],
+  "AutoDodge": [
+    {
+      "prototype": 0,
+      "index": 287
+    }
+  ],
+  "Doesnt work on all attack, its a 50/50": [
+    {
+      "prototype": 0,
+      "index": 288
+    }
+  ],
+  "AutoCarry": [
+    {
+      "prototype": 0,
+      "index": 289
+    },
+    {
+      "prototype": 38,
+      "index": 23
+    }
+  ],
+  "Auto Carry": [
+    {
+      "prototype": 0,
+      "index": 290
+    }
+  ],
+  "Auto Carry People": [
+    {
+      "prototype": 0,
+      "index": 291
+    }
+  ],
+  "AutoGrip": [
+    {
+      "prototype": 0,
+      "index": 292
+    }
+  ],
+  "Auto Grip": [
+    {
+      "prototype": 0,
+      "index": 293
+    }
+  ],
+  "Auto Grip People": [
+    {
+      "prototype": 0,
+      "index": 294
+    }
+  ],
+  "AutoSurgery": [
+    {
+      "prototype": 0,
+      "index": 295
+    },
+    {
+      "prototype": 64,
+      "index": 1
+    }
+  ],
+  "Auto Surgery Kit": [
+    {
+      "prototype": 0,
+      "index": 296
+    }
+  ],
+  "Open Pawn Shop": [
+    {
+      "prototype": 0,
+      "index": 297
+    }
+  ],
+  "Open Black Market": [
+    {
+      "prototype": 0,
+      "index": 298
+    }
+  ],
+  "Open Crafting Menue": [
+    {
+      "prototype": 0,
+      "index": 299
+    }
+  ],
+  "playerListFarm": [
+    {
+      "prototype": 0,
+      "index": 300
+    },
+    {
+      "prototype": 68,
+      "index": 2
+    },
+    {
+      "prototype": 69,
+      "index": 6
+    },
+    {
+      "prototype": 70,
+      "index": 2
+    }
+  ],
+  "Refresh Player": [
+    {
+      "prototype": 0,
+      "index": 301
+    }
+  ],
+  "Player List": [
+    {
+      "prototype": 0,
+      "index": 302
+    }
+  ],
+  "InventoryViewer": [
+    {
+      "prototype": 0,
+      "index": 303
+    },
+    {
+      "prototype": 68,
+      "index": 10
+    }
+  ],
+  "Select a Player": [
+    {
+      "prototype": 0,
+      "index": 304
+    }
+  ],
+  "Inventory viewer": [
+    {
+      "prototype": 0,
+      "index": 305
+    }
+  ],
+  "Refresh Players List": [
+    {
+      "prototype": 0,
+      "index": 306
+    }
+  ],
+  "distanceFarmPlayer": [
+    {
+      "prototype": 0,
+      "index": 307
+    },
+    {
+      "prototype": 70,
+      "index": 11
+    }
+  ],
+  "playerFarm": [
+    {
+      "prototype": 0,
+      "index": 308
+    }
+  ],
+  "Farm Player [WARNING]": [
+    {
+      "prototype": 0,
+      "index": 309
+    }
+  ],
+  "Dont Forget to setup Distance to your liking": [
+    {
+      "prototype": 0,
+      "index": 310
+    }
+  ],
+  "Fly": [
+    {
+      "prototype": 0,
+      "index": 311
+    },
+    {
+      "prototype": 15,
+      "index": 7
+    },
+    {
+      "prototype": 78,
+      "index": 0
+    }
+  ],
+  "WASD + Space/Ctrl to move": [
+    {
+      "prototype": 0,
+      "index": 312
+    }
+  ],
+  "AddKeyPicker": [
+    {
+      "prototype": 0,
+      "index": 313
+    }
+  ],
+  "FlyKeybind": [
+    {
+      "prototype": 0,
+      "index": 314
+    }
+  ],
+  "F1": [
+    {
+      "prototype": 0,
+      "index": 315
+    }
+  ],
+  "Toggle": [
+    {
+      "prototype": 0,
+      "index": 316
+    }
+  ],
+  "Fly Keybind": [
+    {
+      "prototype": 0,
+      "index": 317
+    }
+  ],
+  "SyncToggleState": [
+    {
+      "prototype": 0,
+      "index": 318
+    }
+  ],
+  "NoClip": [
+    {
+      "prototype": 0,
+      "index": 319
+    }
+  ],
+  "noClip": [
+    {
+      "prototype": 0,
+      "index": 320
+    }
+  ],
+  "F2": [
+    {
+      "prototype": 0,
+      "index": 321
+    }
+  ],
+  "Noclip": [
+    {
+      "prototype": 0,
+      "index": 322
+    }
+  ],
+  "FlySpeed": [
+    {
+      "prototype": 0,
+      "index": 323
+    }
+  ],
+  "Fly Speed": [
+    {
+      "prototype": 0,
+      "index": 324
+    }
+  ],
+  "WalkSpeed": [
+    {
+      "prototype": 0,
+      "index": 325
+    },
+    {
+      "prototype": 41,
+      "index": 10
+    },
+    {
+      "prototype": 73,
+      "index": 5
+    }
+  ],
+  "walkspeed": [
+    {
+      "prototype": 0,
+      "index": 326
+    },
+    {
+      "prototype": 73,
+      "index": 1
+    }
+  ],
+  "All in the name": [
+    {
+      "prototype": 0,
+      "index": 327
+    }
+  ],
+  "WSKeybind": [
+    {
+      "prototype": 0,
+      "index": 328
+    }
+  ],
+  "F3": [
+    {
+      "prototype": 0,
+      "index": 329
+    }
+  ],
+  "WS Keybind": [
+    {
+      "prototype": 0,
+      "index": 330
+    }
+  ],
+  "WalkSpeedSlider": [
+    {
+      "prototype": 0,
+      "index": 331
+    },
+    {
+      "prototype": 73,
+      "index": 6
+    }
+  ],
+  "WalkSpeed Value": [
+    {
+      "prototype": 0,
+      "index": 332
+    }
+  ],
+  "AntiVoid": [
+    {
+      "prototype": 0,
+      "index": 334
+    },
+    {
+      "prototype": 80,
+      "index": 0
+    }
+  ],
+  "Anti Void": [
+    {
+      "prototype": 0,
+      "index": 335
+    }
+  ],
+  "Prevents falling into void": [
+    {
+      "prototype": 0,
+      "index": 336
+    }
+  ],
+  "OnChanged": [
+    {
+      "prototype": 0,
+      "index": 337
+    }
+  ],
+  "OnClick": [
+    {
+      "prototype": 0,
+      "index": 338
+    }
+  ],
+  "Heartbeat": [
+    {
+      "prototype": 0,
+      "index": 339
+    },
+    {
+      "prototype": 75,
+      "index": 19
+    }
+  ],
+  "Player Esp Section": [
+    {
+      "prototype": 0,
+      "index": 340
+    }
+  ],
+  "ESP_Master": [
+    {
+      "prototype": 0,
+      "index": 341
+    }
+  ],
+  "Enabled": [
+    {
+      "prototype": 0,
+      "index": 342
+    },
+    {
+      "prototype": 37,
+      "index": 43
+    },
+    {
+      "prototype": 65,
+      "index": 3
+    },
+    {
+      "prototype": 66,
+      "index": 3
+    },
+    {
+      "prototype": 67,
+      "index": 3
+    },
+    {
+      "prototype": 81,
+      "index": 0
+    },
+    {
+      "prototype": 111,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 2
+    }
+  ],
+  "ESP_TeamCheck": [
+    {
+      "prototype": 0,
+      "index": 343
+    }
+  ],
+  "Team Check": [
+    {
+      "prototype": 0,
+      "index": 344
+    }
+  ],
+  "ESP_Box": [
+    {
+      "prototype": 0,
+      "index": 345
+    }
+  ],
+  "Boxes": [
+    {
+      "prototype": 0,
+      "index": 346
+    },
+    {
+      "prototype": 83,
+      "index": 0
+    },
+    {
+      "prototype": 112,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 5
+    }
+  ],
+  "ESP_BoxType": [
+    {
+      "prototype": 0,
+      "index": 347
+    }
+  ],
+  "Corner": [
+    {
+      "prototype": 0,
+      "index": 348
+    },
+    {
+      "prototype": 129,
+      "index": 8
+    }
+  ],
+  "Box": [
+    {
+      "prototype": 0,
+      "index": 349
+    }
+  ],
+  "Type": [
+    {
+      "prototype": 0,
+      "index": 350
+    },
+    {
+      "prototype": 50,
+      "index": 12
+    },
+    {
+      "prototype": 61,
+      "index": 14
+    }
+  ],
+  "ESP_Health": [
+    {
+      "prototype": 0,
+      "index": 351
+    }
+  ],
+  "Healthbar": [
+    {
+      "prototype": 0,
+      "index": 352
+    },
+    {
+      "prototype": 85,
+      "index": 0
+    },
+    {
+      "prototype": 114,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 9
+    }
+  ],
+  "ESP_HealthPos": [
+    {
+      "prototype": 0,
+      "index": 353
+    }
+  ],
+  "Right": [
+    {
+      "prototype": 0,
+      "index": 354
+    },
+    {
+      "prototype": 129,
+      "index": 14
+    }
+  ],
+  "Top": [
+    {
+      "prototype": 0,
+      "index": 355
+    }
+  ],
+  "Bottom": [
+    {
+      "prototype": 0,
+      "index": 356
+    }
+  ],
+  "Position": [
+    {
+      "prototype": 0,
+      "index": 357
+    },
+    {
+      "prototype": 6,
+      "index": 0
+    },
+    {
+      "prototype": 16,
+      "index": 11
+    },
+    {
+      "prototype": 21,
+      "index": 6
+    },
+    {
+      "prototype": 22,
+      "index": 0
+    },
+    {
+      "prototype": 23,
+      "index": 0
+    },
+    {
+      "prototype": 28,
+      "index": 13
+    },
+    {
+      "prototype": 30,
+      "index": 16
+    },
+    {
+      "prototype": 33,
+      "index": 17
+    },
+    {
+      "prototype": 37,
+      "index": 26
+    },
+    {
+      "prototype": 38,
+      "index": 14
+    },
+    {
+      "prototype": 39,
+      "index": 15
+    },
+    {
+      "prototype": 40,
+      "index": 12
+    },
+    {
+      "prototype": 41,
+      "index": 11
+    },
+    {
+      "prototype": 43,
+      "index": 10
+    },
+    {
+      "prototype": 55,
+      "index": 9
+    },
+    {
+      "prototype": 62,
+      "index": 7
+    },
+    {
+      "prototype": 63,
+      "index": 7
+    },
+    {
+      "prototype": 64,
+      "index": 9
+    },
+    {
+      "prototype": 70,
+      "index": 7
+    },
+    {
+      "prototype": 80,
+      "index": 3
+    },
+    {
+      "prototype": 131,
+      "index": 8
+    }
+  ],
+  "ESP_HealthStart": [
+    {
+      "prototype": 0,
+      "index": 358
+    }
+  ],
+  "AddColorPicker": [
+    {
+      "prototype": 0,
+      "index": 359
+    }
+  ],
+  "ESP_HealthMid": [
+    {
+      "prototype": 0,
+      "index": 360
+    }
+  ],
+  "ESP_HealthEnd": [
+    {
+      "prototype": 0,
+      "index": 361
+    }
+  ],
+  "ESP_HealthWidth": [
+    {
+      "prototype": 0,
+      "index": 362
+    }
+  ],
+  "Healthbar Thickness": [
+    {
+      "prototype": 0,
+      "index": 363
+    }
+  ],
+  "ESP_Posture": [
+    {
+      "prototype": 0,
+      "index": 365
+    }
+  ],
+  "Posture Bar": [
+    {
+      "prototype": 0,
+      "index": 366
+    }
+  ],
+  "ESP_PosturePos": [
+    {
+      "prototype": 0,
+      "index": 367
+    }
+  ],
+  "ESP_PostureColor": [
+    {
+      "prototype": 0,
+      "index": 369
+    }
+  ],
+  "ESP_PostureWidth": [
+    {
+      "prototype": 0,
+      "index": 372
+    }
+  ],
+  "Posture Thickness": [
+    {
+      "prototype": 0,
+      "index": 373
+    }
+  ],
+  "ESP_Name": [
+    {
+      "prototype": 0,
+      "index": 374
+    }
+  ],
+  "Name": [
+    {
+      "prototype": 0,
+      "index": 375
+    },
+    {
+      "prototype": 7,
+      "index": 20
+    },
+    {
+      "prototype": 8,
+      "index": 11
+    },
+    {
+      "prototype": 14,
+      "index": 8
+    },
+    {
+      "prototype": 16,
+      "index": 4
+    },
+    {
+      "prototype": 17,
+      "index": 5
+    },
+    {
+      "prototype": 20,
+      "index": 5
+    },
+    {
+      "prototype": 21,
+      "index": 4
+    },
+    {
+      "prototype": 29,
+      "index": 11
+    },
+    {
+      "prototype": 30,
+      "index": 11
+    },
+    {
+      "prototype": 37,
+      "index": 37
+    },
+    {
+      "prototype": 38,
+      "index": 28
+    },
+    {
+      "prototype": 40,
+      "index": 5
+    },
+    {
+      "prototype": 41,
+      "index": 5
+    },
+    {
+      "prototype": 43,
+      "index": 5
+    },
+    {
+      "prototype": 44,
+      "index": 5
+    },
+    {
+      "prototype": 48,
+      "index": 21
+    },
+    {
+      "prototype": 49,
+      "index": 20
+    },
+    {
+      "prototype": 50,
+      "index": 9
+    },
+    {
+      "prototype": 54,
+      "index": 9
+    },
+    {
+      "prototype": 56,
+      "index": 24
+    },
+    {
+      "prototype": 60,
+      "index": 3
+    },
+    {
+      "prototype": 61,
+      "index": 9
+    },
+    {
+      "prototype": 62,
+      "index": 21
+    },
+    {
+      "prototype": 63,
+      "index": 21
+    },
+    {
+      "prototype": 68,
+      "index": 8
+    },
+    {
+      "prototype": 69,
+      "index": 4
+    },
+    {
+      "prototype": 130,
+      "index": 3
+    },
+    {
+      "prototype": 131,
+      "index": 17
+    },
+    {
+      "prototype": 136,
+      "index": 16
+    },
+    {
+      "prototype": 137,
+      "index": 16
+    },
+    {
+      "prototype": 138,
+      "index": 16
+    },
+    {
+      "prototype": 140,
+      "index": 14
+    }
+  ],
+  "ESP_NameColor": [
+    {
+      "prototype": 0,
+      "index": 376
+    }
+  ],
+  "ESP_NameSize": [
+    {
+      "prototype": 0,
+      "index": 379
+    }
+  ],
+  "Name Size": [
+    {
+      "prototype": 0,
+      "index": 380
+    }
+  ],
+  "ESP_Rank": [
+    {
+      "prototype": 0,
+      "index": 383
+    }
+  ],
+  "Rank": [
+    {
+      "prototype": 0,
+      "index": 384
+    }
+  ],
+  "ESP_Weapon": [
+    {
+      "prototype": 0,
+      "index": 385
+    }
+  ],
+  "Weapon": [
+    {
+      "prototype": 0,
+      "index": 386
+    },
+    {
+      "prototype": 60,
+      "index": 4
+    }
+  ],
+  "ESP_WeaponColor": [
+    {
+      "prototype": 0,
+      "index": 387
+    }
+  ],
+  "ESP_WeaponSize": [
+    {
+      "prototype": 0,
+      "index": 388
+    }
+  ],
+  "Weapon Size": [
+    {
+      "prototype": 0,
+      "index": 389
+    }
+  ],
+  "ESP_Distance": [
+    {
+      "prototype": 0,
+      "index": 390
+    }
+  ],
+  "ESP_DistanceColor": [
+    {
+      "prototype": 0,
+      "index": 391
+    }
+  ],
+  "ESP_DistanceSize": [
+    {
+      "prototype": 0,
+      "index": 392
+    }
+  ],
+  "Distance Size": [
+    {
+      "prototype": 0,
+      "index": 393
+    }
+  ],
+  "ServerSkeleton": [
+    {
+      "prototype": 0,
+      "index": 394
+    }
+  ],
+  "Skeleton": [
+    {
+      "prototype": 0,
+      "index": 395
+    },
+    {
+      "prototype": 105,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 22
+    }
+  ],
+  "ServerSkeletonColor": [
+    {
+      "prototype": 0,
+      "index": 396
+    }
+  ],
+  "ServerSkeletonWidth": [
+    {
+      "prototype": 0,
+      "index": 397
+    }
+  ],
+  "Skeleton Thickness": [
+    {
+      "prototype": 0,
+      "index": 398
+    }
+  ],
+  "ESP_Chams": [
+    {
+      "prototype": 0,
+      "index": 401
+    }
+  ],
+  "Chams": [
+    {
+      "prototype": 0,
+      "index": 402
+    },
+    {
+      "prototype": 108,
+      "index": 0
+    },
+    {
+      "prototype": 126,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 23
+    }
+  ],
+  "ESP_ChamsColor": [
+    {
+      "prototype": 0,
+      "index": 403
+    }
+  ],
+  "ESP_ChamsTransparency": [
+    {
+      "prototype": 0,
+      "index": 406
+    }
+  ],
+  "Chams Transparency": [
+    {
+      "prototype": 0,
+      "index": 407
+    }
+  ],
+  "Mob ESP Section": [
+    {
+      "prototype": 0,
+      "index": 408
+    }
+  ],
+  "Mob_Master": [
+    {
+      "prototype": 0,
+      "index": 409
+    }
+  ],
+  "Mob_Box": [
+    {
+      "prototype": 0,
+      "index": 410
+    }
+  ],
+  "Mob_BoxType": [
+    {
+      "prototype": 0,
+      "index": 411
+    }
+  ],
+  "Mob_Health": [
+    {
+      "prototype": 0,
+      "index": 412
+    }
+  ],
+  "Mob_HealthPos": [
+    {
+      "prototype": 0,
+      "index": 413
+    }
+  ],
+  "Mob_HealthStart": [
+    {
+      "prototype": 0,
+      "index": 414
+    }
+  ],
+  "Mob_HealthMid": [
+    {
+      "prototype": 0,
+      "index": 415
+    }
+  ],
+  "Mob_HealthEnd": [
+    {
+      "prototype": 0,
+      "index": 416
+    }
+  ],
+  "Mob_HealthWidth": [
+    {
+      "prototype": 0,
+      "index": 417
+    }
+  ],
+  "Mob_Name": [
+    {
+      "prototype": 0,
+      "index": 418
+    }
+  ],
+  "Mob_NameColor": [
+    {
+      "prototype": 0,
+      "index": 419
+    }
+  ],
+  "Mob_NameSize": [
+    {
+      "prototype": 0,
+      "index": 420
+    }
+  ],
+  "Name Text Size": [
+    {
+      "prototype": 0,
+      "index": 421
+    }
+  ],
+  "Mob_Distance": [
+    {
+      "prototype": 0,
+      "index": 422
+    }
+  ],
+  "Mob_DistanceColor": [
+    {
+      "prototype": 0,
+      "index": 423
+    }
+  ],
+  "Mob_DistanceSize": [
+    {
+      "prototype": 0,
+      "index": 424
+    }
+  ],
+  "Distance Text Size": [
+    {
+      "prototype": 0,
+      "index": 425
+    }
+  ],
+  "Mob_Chams": [
+    {
+      "prototype": 0,
+      "index": 426
+    }
+  ],
+  "Mob_ChamsColor": [
+    {
+      "prototype": 0,
+      "index": 427
+    }
+  ],
+  "Chams Color": [
+    {
+      "prototype": 0,
+      "index": 428
+    }
+  ],
+  "Mob_ChamsTransparency": [
+    {
+      "prototype": 0,
+      "index": 429
+    }
+  ],
+  "RemoteEvent": [
+    {
+      "prototype": 0,
+      "index": 430
+    },
+    {
+      "prototype": 7,
+      "index": 14
+    },
+    {
+      "prototype": 8,
+      "index": 5
+    },
+    {
+      "prototype": 29,
+      "index": 5
+    },
+    {
+      "prototype": 49,
+      "index": 22
+    },
+    {
+      "prototype": 50,
+      "index": 3
+    },
+    {
+      "prototype": 60,
+      "index": 9
+    },
+    {
+      "prototype": 61,
+      "index": 3
+    },
+    {
+      "prototype": 62,
+      "index": 15
+    },
+    {
+      "prototype": 63,
+      "index": 15
+    },
+    {
+      "prototype": 136,
+      "index": 10
+    },
+    {
+      "prototype": 137,
+      "index": 10
+    },
+    {
+      "prototype": 138,
+      "index": 10
+    },
+    {
+      "prototype": 140,
+      "index": 8
+    },
+    {
+      "prototype": 143,
+      "index": 7
+    }
+  ],
+  "rbxassetid://83170627744442": [
+    {
+      "prototype": 0,
+      "index": 431
+    }
+  ],
+  "rbxassetid://99785834052081": [
+    {
+      "prototype": 0,
+      "index": 433
+    }
+  ],
+  "rbxassetid://129319150158146": [
+    {
+      "prototype": 0,
+      "index": 434
+    }
+  ],
+  "rbxassetid://75114926121591": [
+    {
+      "prototype": 0,
+      "index": 435
+    }
+  ],
+  "rbxassetid://72795592997118": [
+    {
+      "prototype": 0,
+      "index": 436
+    }
+  ],
+  "rbxassetid://84882180540900": [
+    {
+      "prototype": 0,
+      "index": 437
+    }
+  ],
+  "rbxassetid://91695353081923": [
+    {
+      "prototype": 0,
+      "index": 438
+    }
+  ],
+  "rbxassetid://91841671178746": [
+    {
+      "prototype": 0,
+      "index": 439
+    }
+  ],
+  "rbxassetid://102225002431566": [
+    {
+      "prototype": 0,
+      "index": 441
+    }
+  ],
+  "rbxassetid://98961744431023": [
+    {
+      "prototype": 0,
+      "index": 442
+    }
+  ],
+  "rbxassetid://114393492422894": [
+    {
+      "prototype": 0,
+      "index": 443
+    }
+  ],
+  "rbxassetid://72716101431005": [
+    {
+      "prototype": 0,
+      "index": 444
+    }
+  ],
+  "rbxassetid://85964235716367": [
+    {
+      "prototype": 0,
+      "index": 445
+    }
+  ],
+  "rbxassetid://138301923963329": [
+    {
+      "prototype": 0,
+      "index": 447
+    }
+  ],
+  "rbxassetid://87069745086938": [
+    {
+      "prototype": 0,
+      "index": 448
+    }
+  ],
+  "rbxassetid://97144244689985": [
+    {
+      "prototype": 0,
+      "index": 449
+    }
+  ],
+  "rbxassetid://86092141229505": [
+    {
+      "prototype": 0,
+      "index": 450
+    }
+  ],
+  "rbxassetid://131943611612712": [
+    {
+      "prototype": 0,
+      "index": 451
+    }
+  ],
+  "rbxassetid://77032242569772": [
+    {
+      "prototype": 0,
+      "index": 452
+    }
+  ],
+  "rbxassetid://123304488838885": [
+    {
+      "prototype": 0,
+      "index": 453
+    }
+  ],
+  "rbxassetid://95592305575287": [
+    {
+      "prototype": 0,
+      "index": 454
+    }
+  ],
+  "rbxassetid://97504155433185": [
+    {
+      "prototype": 0,
+      "index": 456
+    }
+  ],
+  "rbxassetid://137901650114553": [
+    {
+      "prototype": 0,
+      "index": 457
+    }
+  ],
+  "rbxassetid://71420013211462": [
+    {
+      "prototype": 0,
+      "index": 458
+    }
+  ],
+  "rbxassetid://73189775256758": [
+    {
+      "prototype": 0,
+      "index": 459
+    }
+  ],
+  "rbxassetid://102790860802603": [
+    {
+      "prototype": 0,
+      "index": 460
+    }
+  ],
+  "rbxassetid://90303043747701": [
+    {
+      "prototype": 0,
+      "index": 461
+    }
+  ],
+  "rbxassetid://73033593102525": [
+    {
+      "prototype": 0,
+      "index": 463
+    }
+  ],
+  "rbxassetid://89307684071889": [
+    {
+      "prototype": 0,
+      "index": 464
+    }
+  ],
+  "rbxassetid://115670609737438": [
+    {
+      "prototype": 0,
+      "index": 465
+    }
+  ],
+  "rbxassetid://127716005072935": [
+    {
+      "prototype": 0,
+      "index": 466
+    }
+  ],
+  "rbxassetid://106719097885109": [
+    {
+      "prototype": 0,
+      "index": 467
+    }
+  ],
+  "rbxassetid://125351403307657": [
+    {
+      "prototype": 0,
+      "index": 468
+    }
+  ],
+  "rbxassetid://87673107583059": [
+    {
+      "prototype": 0,
+      "index": 469
+    }
+  ],
+  "rbxassetid://99589308896321": [
+    {
+      "prototype": 0,
+      "index": 470
+    }
+  ],
+  "rbxassetid://93712797216935": [
+    {
+      "prototype": 0,
+      "index": 471
+    }
+  ],
+  "rbxassetid://90648436096048": [
+    {
+      "prototype": 0,
+      "index": 472
+    }
+  ],
+  "rbxassetid://106187325444182": [
+    {
+      "prototype": 0,
+      "index": 473
+    }
+  ],
+  "rbxassetid://113014104453621": [
+    {
+      "prototype": 0,
+      "index": 474
+    }
+  ],
+  "rbxassetid://139174098471434": [
+    {
+      "prototype": 0,
+      "index": 475
+    }
+  ],
+  "rbxassetid://118176169991277": [
+    {
+      "prototype": 0,
+      "index": 477
+    }
+  ],
+  "rbxassetid://89332566098222": [
+    {
+      "prototype": 0,
+      "index": 478
+    }
+  ],
+  "rbxassetid://125571123165138": [
+    {
+      "prototype": 0,
+      "index": 479
+    }
+  ],
+  "rbxassetid://125936250279691": [
+    {
+      "prototype": 0,
+      "index": 480
+    }
+  ],
+  "rbxassetid://134137542280552": [
+    {
+      "prototype": 0,
+      "index": 481
+    }
+  ],
+  "rbxassetid://139513647256700": [
+    {
+      "prototype": 0,
+      "index": 482
+    }
+  ],
+  "rbxassetid://114630509263415": [
+    {
+      "prototype": 0,
+      "index": 484
+    }
+  ],
+  "rbxassetid://109871824431204": [
+    {
+      "prototype": 0,
+      "index": 485
+    }
+  ],
+  "rbxassetid://113429385792170": [
+    {
+      "prototype": 0,
+      "index": 486
+    }
+  ],
+  "rbxassetid://139374816012669": [
+    {
+      "prototype": 0,
+      "index": 487
+    }
+  ],
+  "rbxassetid://78842969890728": [
+    {
+      "prototype": 0,
+      "index": 488
+    }
+  ],
+  "rbxassetid://81424669180469": [
+    {
+      "prototype": 0,
+      "index": 489
+    }
+  ],
+  "rbxassetid://84893282137796": [
+    {
+      "prototype": 0,
+      "index": 490
+    }
+  ],
+  "rbxassetid://127656671537189": [
+    {
+      "prototype": 0,
+      "index": 491
+    }
+  ],
+  "rbxassetid://95099034924342": [
+    {
+      "prototype": 0,
+      "index": 492
+    }
+  ],
+  "rbxassetid://101953583082493": [
+    {
+      "prototype": 0,
+      "index": 493
+    }
+  ],
+  "rbxassetid://88809233843821": [
+    {
+      "prototype": 0,
+      "index": 494
+    }
+  ],
+  "rbxassetid://131731230162076": [
+    {
+      "prototype": 0,
+      "index": 495
+    }
+  ],
+  "rbxassetid://101604973817807": [
+    {
+      "prototype": 0,
+      "index": 496
+    }
+  ],
+  "rbxassetid://72880223582562": [
+    {
+      "prototype": 0,
+      "index": 497
+    }
+  ],
+  "rbxassetid://133205147259868": [
+    {
+      "prototype": 0,
+      "index": 498
+    }
+  ],
+  "rbxassetid://113268215947804": [
+    {
+      "prototype": 0,
+      "index": 499
+    }
+  ],
+  "rbxassetid://100896894192926": [
+    {
+      "prototype": 0,
+      "index": 500
+    }
+  ],
+  "rbxassetid://131376945188225": [
+    {
+      "prototype": 0,
+      "index": 501
+    }
+  ],
+  "rbxassetid://137815370488524": [
+    {
+      "prototype": 0,
+      "index": 502
+    }
+  ],
+  "rbxassetid://97177191680752": [
+    {
+      "prototype": 0,
+      "index": 503
+    }
+  ],
+  "rbxassetid://115797906268659": [
+    {
+      "prototype": 0,
+      "index": 504
+    }
+  ],
+  "rbxassetid://108574344758700": [
+    {
+      "prototype": 0,
+      "index": 505
+    }
+  ],
+  "rbxassetid://116057799213168": [
+    {
+      "prototype": 0,
+      "index": 507
+    }
+  ],
+  "rbxassetid://87415953393018": [
+    {
+      "prototype": 0,
+      "index": 508
+    }
+  ],
+  "rbxassetid://116531395203011": [
+    {
+      "prototype": 0,
+      "index": 509
+    }
+  ],
+  "rbxassetid://83821056766741": [
+    {
+      "prototype": 0,
+      "index": 510
+    }
+  ],
+  "rbxassetid://80951747681281": [
+    {
+      "prototype": 0,
+      "index": 511
+    }
+  ],
+  "rbxassetid://100288926167133": [
+    {
+      "prototype": 0,
+      "index": 512
+    }
+  ],
+  "rbxassetid://102597139088834": [
+    {
+      "prototype": 0,
+      "index": 513
+    }
+  ],
+  "rbxassetid://134181836683161": [
+    {
+      "prototype": 0,
+      "index": 514
+    }
+  ],
+  "rbxassetid://129855748333858": [
+    {
+      "prototype": 0,
+      "index": 515
+    }
+  ],
+  "rbxassetid://98392933263355": [
+    {
+      "prototype": 0,
+      "index": 516
+    }
+  ],
+  "rbxassetid://106013309621307": [
+    {
+      "prototype": 0,
+      "index": 517
+    }
+  ],
+  "rbxassetid://104268439363335": [
+    {
+      "prototype": 0,
+      "index": 518
+    }
+  ],
+  "rbxassetid://133512548611881": [
+    {
+      "prototype": 0,
+      "index": 520
+    }
+  ],
+  "rbxassetid://76827947490912": [
+    {
+      "prototype": 0,
+      "index": 521
+    }
+  ],
+  "rbxassetid://99419457549732": [
+    {
+      "prototype": 0,
+      "index": 522
+    }
+  ],
+  "rbxassetid://84627135360921": [
+    {
+      "prototype": 0,
+      "index": 523
+    }
+  ],
+  "rbxassetid://78957003094677": [
+    {
+      "prototype": 0,
+      "index": 524
+    }
+  ],
+  "rbxassetid://105542119244161": [
+    {
+      "prototype": 0,
+      "index": 525
+    }
+  ],
+  "rbxassetid://88464980239593": [
+    {
+      "prototype": 0,
+      "index": 526
+    }
+  ],
+  "rbxassetid://89332259138333": [
+    {
+      "prototype": 0,
+      "index": 527
+    }
+  ],
+  "rbxassetid://126621054776220": [
+    {
+      "prototype": 0,
+      "index": 528
+    }
+  ],
+  "rbxassetid://134212846921544": [
+    {
+      "prototype": 0,
+      "index": 529
+    }
+  ],
+  "rbxassetid://123135962827332": [
+    {
+      "prototype": 0,
+      "index": 530
+    }
+  ],
+  "rbxassetid://112091281860543": [
+    {
+      "prototype": 0,
+      "index": 532
+    }
+  ],
+  "rbxassetid://73086768097069": [
+    {
+      "prototype": 0,
+      "index": 533
+    }
+  ],
+  "rbxassetid://89859217236874": [
+    {
+      "prototype": 0,
+      "index": 534
+    }
+  ],
+  "rbxassetid://138838982277418": [
+    {
+      "prototype": 0,
+      "index": 535
+    }
+  ],
+  "rbxassetid://78555663054449": [
+    {
+      "prototype": 0,
+      "index": 536
+    }
+  ],
+  "rbxassetid://101582769423497": [
+    {
+      "prototype": 0,
+      "index": 537
+    }
+  ],
+  "rbxassetid://103523914939071": [
+    {
+      "prototype": 0,
+      "index": 538
+    }
+  ],
+  "rbxassetid://110237638234814": [
+    {
+      "prototype": 0,
+      "index": 539
+    }
+  ],
+  "rbxassetid://133973256915688": [
+    {
+      "prototype": 0,
+      "index": 540
+    }
+  ],
+  "rbxassetid://122357751973562": [
+    {
+      "prototype": 0,
+      "index": 541
+    }
+  ],
+  "rbxassetid://96430744634231": [
+    {
+      "prototype": 0,
+      "index": 542
+    }
+  ],
+  "rbxassetid://112280382670167": [
+    {
+      "prototype": 0,
+      "index": 544
+    }
+  ],
+  "rbxassetid://126257103110325": [
+    {
+      "prototype": 0,
+      "index": 545
+    }
+  ],
+  "rbxassetid://70550631174539": [
+    {
+      "prototype": 0,
+      "index": 546
+    }
+  ],
+  "rbxassetid://71244457428229": [
+    {
+      "prototype": 0,
+      "index": 547
+    }
+  ],
+  "rbxassetid://113834682033104": [
+    {
+      "prototype": 0,
+      "index": 548
+    }
+  ],
+  "rbxassetid://93431132327822": [
+    {
+      "prototype": 0,
+      "index": 549
+    }
+  ],
+  "rbxassetid://133853808650941": [
+    {
+      "prototype": 0,
+      "index": 551
+    }
+  ],
+  "rbxassetid://116937962567393": [
+    {
+      "prototype": 0,
+      "index": 552
+    }
+  ],
+  "rbxassetid://121073263747297": [
+    {
+      "prototype": 0,
+      "index": 553
+    }
+  ],
+  "rbxassetid://76781925254248": [
+    {
+      "prototype": 0,
+      "index": 554
+    }
+  ],
+  "rbxassetid://98375305489054": [
+    {
+      "prototype": 0,
+      "index": 555
+    }
+  ],
+  "rbxassetid://78653732575949": [
+    {
+      "prototype": 0,
+      "index": 556
+    }
+  ],
+  "rbxassetid://120048428697484": [
+    {
+      "prototype": 0,
+      "index": 557
+    }
+  ],
+  "rbxassetid://93357544618400": [
+    {
+      "prototype": 0,
+      "index": 559
+    }
+  ],
+  "rbxassetid://99361142840295": [
+    {
+      "prototype": 0,
+      "index": 560
+    }
+  ],
+  "rbxassetid://78520899606944": [
+    {
+      "prototype": 0,
+      "index": 561
+    }
+  ],
+  "rbxassetid://116907204347021": [
+    {
+      "prototype": 0,
+      "index": 562
+    }
+  ],
+  "rbxassetid://81298915826190": [
+    {
+      "prototype": 0,
+      "index": 563
+    }
+  ],
+  "rbxassetid://118375375261508": [
+    {
+      "prototype": 0,
+      "index": 564
+    }
+  ],
+  "rbxassetid://94912992248206": [
+    {
+      "prototype": 0,
+      "index": 565
+    }
+  ],
+  "rbxassetid://84360547187663": [
+    {
+      "prototype": 0,
+      "index": 566
+    }
+  ],
+  "rbxassetid://117614545746430": [
+    {
+      "prototype": 0,
+      "index": 567
+    }
+  ],
+  "rbxassetid://101362557536797": [
+    {
+      "prototype": 0,
+      "index": 568
+    }
+  ],
+  "rbxassetid://110275308607388": [
+    {
+      "prototype": 0,
+      "index": 569
+    }
+  ],
+  "rbxassetid://105124819044081": [
+    {
+      "prototype": 0,
+      "index": 570
+    }
+  ],
+  "rbxassetid://73600840318198": [
+    {
+      "prototype": 0,
+      "index": 571
+    }
+  ],
+  "rbxassetid://99728779063625": [
+    {
+      "prototype": 0,
+      "index": 572
+    }
+  ],
+  "rbxassetid://82791907545703": [
+    {
+      "prototype": 0,
+      "index": 573
+    }
+  ],
+  "rbxassetid://86706569396350": [
+    {
+      "prototype": 0,
+      "index": 574
+    }
+  ],
+  "rbxassetid://119071326400759": [
+    {
+      "prototype": 0,
+      "index": 575
+    }
+  ],
+  "rbxassetid://95187086967174": [
+    {
+      "prototype": 0,
+      "index": 577
+    }
+  ],
+  "rbxassetid://127265672754416": [
+    {
+      "prototype": 0,
+      "index": 578
+    }
+  ],
+  "rbxassetid://81093093791947": [
+    {
+      "prototype": 0,
+      "index": 579
+    }
+  ],
+  "rbxassetid://115096781003171": [
+    {
+      "prototype": 0,
+      "index": 580
+    }
+  ],
+  "rbxassetid://93891386436024": [
+    {
+      "prototype": 0,
+      "index": 581
+    }
+  ],
+  "rbxassetid://118258669929146": [
+    {
+      "prototype": 0,
+      "index": 582
+    }
+  ],
+  "rbxassetid://89475662129258": [
+    {
+      "prototype": 0,
+      "index": 583
+    }
+  ],
+  "rbxassetid://117416560814575": [
+    {
+      "prototype": 0,
+      "index": 584
+    }
+  ],
+  "rbxassetid://82402970804238": [
+    {
+      "prototype": 0,
+      "index": 585
+    }
+  ],
+  "rbxassetid://115840883662190": [
+    {
+      "prototype": 0,
+      "index": 586
+    }
+  ],
+  "rbxassetid://101268939874208": [
+    {
+      "prototype": 0,
+      "index": 587
+    }
+  ],
+  "rbxassetid://118339406620980": [
+    {
+      "prototype": 0,
+      "index": 589
+    }
+  ],
+  "rbxassetid://135802138221890": [
+    {
+      "prototype": 0,
+      "index": 590
+    }
+  ],
+  "rbxassetid://119537814529732": [
+    {
+      "prototype": 0,
+      "index": 591
+    }
+  ],
+  "rbxassetid://126943584876522": [
+    {
+      "prototype": 0,
+      "index": 592
+    }
+  ],
+  "rbxassetid://132423234621948": [
+    {
+      "prototype": 0,
+      "index": 593
+    }
+  ],
+  "rbxassetid://130627039807199": [
+    {
+      "prototype": 0,
+      "index": 594
+    }
+  ],
+  "rbxassetid://95241696138937": [
+    {
+      "prototype": 0,
+      "index": 595
+    }
+  ],
+  "rbxassetid://84546143799899": [
+    {
+      "prototype": 0,
+      "index": 596
+    }
+  ],
+  "rbxassetid://111678403609788": [
+    {
+      "prototype": 0,
+      "index": 597
+    }
+  ],
+  "rbxassetid://76907916800109": [
+    {
+      "prototype": 0,
+      "index": 598
+    }
+  ],
+  "rbxassetid://88529291334531": [
+    {
+      "prototype": 0,
+      "index": 599
+    }
+  ],
+  "rbxassetid://88515182783630": [
+    {
+      "prototype": 0,
+      "index": 600
+    }
+  ],
+  "rbxassetid://78940054179950": [
+    {
+      "prototype": 0,
+      "index": 601
+    }
+  ],
+  "rbxassetid://83707871739410": [
+    {
+      "prototype": 0,
+      "index": 602
+    }
+  ],
+  "rbxassetid://89947536068263": [
+    {
+      "prototype": 0,
+      "index": 603
+    }
+  ],
+  "rbxassetid://91342131793707": [
+    {
+      "prototype": 0,
+      "index": 604
+    }
+  ],
+  "rbxassetid://87276698608760": [
+    {
+      "prototype": 0,
+      "index": 605
+    }
+  ],
+  "rbxassetid://112832095441188": [
+    {
+      "prototype": 0,
+      "index": 607
+    }
+  ],
+  "rbxassetid://92559491465927": [
+    {
+      "prototype": 0,
+      "index": 608
+    }
+  ],
+  "rbxassetid://102596372833810": [
+    {
+      "prototype": 0,
+      "index": 609
+    }
+  ],
+  "rbxassetid://135219429513260": [
+    {
+      "prototype": 0,
+      "index": 610
+    }
+  ],
+  "rbxassetid://111619494197919": [
+    {
+      "prototype": 0,
+      "index": 611
+    }
+  ],
+  "rbxassetid://84790818560573": [
+    {
+      "prototype": 0,
+      "index": 612
+    }
+  ],
+  "rbxassetid://88055010695849": [
+    {
+      "prototype": 0,
+      "index": 613
+    }
+  ],
+  "rbxassetid://116948609204236": [
+    {
+      "prototype": 0,
+      "index": 614
+    }
+  ],
+  "rbxassetid://117416838233330": [
+    {
+      "prototype": 0,
+      "index": 615
+    }
+  ],
+  "rbxassetid://130187498552231": [
+    {
+      "prototype": 0,
+      "index": 616
+    }
+  ],
+  "rbxassetid://99528925126794": [
+    {
+      "prototype": 0,
+      "index": 617
+    }
+  ],
+  "rbxassetid://72371046889893": [
+    {
+      "prototype": 0,
+      "index": 618
+    }
+  ],
+  "rbxassetid://80639118737924": [
+    {
+      "prototype": 0,
+      "index": 619
+    }
+  ],
+  "rbxassetid://110406562971902": [
+    {
+      "prototype": 0,
+      "index": 620
+    }
+  ],
+  "rbxassetid://108494510731610": [
+    {
+      "prototype": 0,
+      "index": 621
+    }
+  ],
+  "rbxassetid://123499498138784": [
+    {
+      "prototype": 0,
+      "index": 622
+    }
+  ],
+  "rbxassetid://83003081767769": [
+    {
+      "prototype": 0,
+      "index": 623
+    }
+  ],
+  "rbxassetid://134695284376391": [
+    {
+      "prototype": 0,
+      "index": 624
+    }
+  ],
+  "rbxassetid://94495302830576": [
+    {
+      "prototype": 0,
+      "index": 625
+    }
+  ],
+  "rbxassetid://72652968192920": [
+    {
+      "prototype": 0,
+      "index": 626
+    }
+  ],
+  "rbxassetid://126452972160118": [
+    {
+      "prototype": 0,
+      "index": 627
+    }
+  ],
+  "rbxassetid://79103146300355": [
+    {
+      "prototype": 0,
+      "index": 628
+    }
+  ],
+  "rbxassetid://108437140304259": [
+    {
+      "prototype": 0,
+      "index": 629
+    }
+  ],
+  "rbxassetid://92347535171309": [
+    {
+      "prototype": 0,
+      "index": 630
+    }
+  ],
+  "rbxassetid://103478794733427": [
+    {
+      "prototype": 0,
+      "index": 632
+    }
+  ],
+  "rbxassetid://77311081382802": [
+    {
+      "prototype": 0,
+      "index": 633
+    }
+  ],
+  "rbxassetid://119794946808722": [
+    {
+      "prototype": 0,
+      "index": 634
+    }
+  ],
+  "rbxassetid://118374669758371": [
+    {
+      "prototype": 0,
+      "index": 635
+    }
+  ],
+  "rbxassetid://108797839748822": [
+    {
+      "prototype": 0,
+      "index": 636
+    }
+  ],
+  "rbxassetid://117196948797125": [
+    {
+      "prototype": 0,
+      "index": 637
+    }
+  ],
+  "rbxassetid://96430107593955": [
+    {
+      "prototype": 0,
+      "index": 638
+    }
+  ],
+  "rbxassetid://79294213380648": [
+    {
+      "prototype": 0,
+      "index": 639
+    }
+  ],
+  "rbxassetid://128641773780380": [
+    {
+      "prototype": 0,
+      "index": 640
+    }
+  ],
+  "rbxassetid://124983172519493": [
+    {
+      "prototype": 0,
+      "index": 641
+    }
+  ],
+  "rbxassetid://119366440833103": [
+    {
+      "prototype": 0,
+      "index": 642
+    }
+  ],
+  "rbxassetid://116781362921741": [
+    {
+      "prototype": 0,
+      "index": 643
+    }
+  ],
+  "rbxassetid://124298892076543": [
+    {
+      "prototype": 0,
+      "index": 644
+    }
+  ],
+  "rbxassetid://126406892829032": [
+    {
+      "prototype": 0,
+      "index": 645
+    }
+  ],
+  "rbxassetid://107049572669140": [
+    {
+      "prototype": 0,
+      "index": 646
+    }
+  ],
+  "rbxassetid://89263693539259": [
+    {
+      "prototype": 0,
+      "index": 647
+    }
+  ],
+  "rbxassetid://72929563687421": [
+    {
+      "prototype": 0,
+      "index": 648
+    }
+  ],
+  "FistSwing1": [
+    {
+      "prototype": 0,
+      "index": 649
+    }
+  ],
+  "FistSwing2": [
+    {
+      "prototype": 0,
+      "index": 650
+    }
+  ],
+  "FistSwing3": [
+    {
+      "prototype": 0,
+      "index": 651
+    }
+  ],
+  "FistSwing4": [
+    {
+      "prototype": 0,
+      "index": 652
+    }
+  ],
+  "FistRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 653
+    }
+  ],
+  "FistCritical": [
+    {
+      "prototype": 0,
+      "index": 654
+    }
+  ],
+  "FistAerial": [
+    {
+      "prototype": 0,
+      "index": 655
+    }
+  ],
+  "DevilCrusherCritical": [
+    {
+      "prototype": 0,
+      "index": 656
+    }
+  ],
+  "DevilCrusherSwing4": [
+    {
+      "prototype": 0,
+      "index": 657
+    }
+  ],
+  "DevilCrusherSwing3": [
+    {
+      "prototype": 0,
+      "index": 658
+    }
+  ],
+  "DevilCrusherSwing2": [
+    {
+      "prototype": 0,
+      "index": 659
+    }
+  ],
+  "DevilCrusherSwing1": [
+    {
+      "prototype": 0,
+      "index": 660
+    }
+  ],
+  "FleshbreakerSwing1": [
+    {
+      "prototype": 0,
+      "index": 661
+    }
+  ],
+  "FleshbreakerSwing2": [
+    {
+      "prototype": 0,
+      "index": 662
+    }
+  ],
+  "FleshbreakerSwing3": [
+    {
+      "prototype": 0,
+      "index": 663
+    }
+  ],
+  "FleshbreakerSwing4": [
+    {
+      "prototype": 0,
+      "index": 664
+    }
+  ],
+  "AtlasSwing4": [
+    {
+      "prototype": 0,
+      "index": 665
+    }
+  ],
+  "AtlasSwing3": [
+    {
+      "prototype": 0,
+      "index": 666
+    }
+  ],
+  "AtlasSwing2": [
+    {
+      "prototype": 0,
+      "index": 667
+    }
+  ],
+  "AtlasSwing1": [
+    {
+      "prototype": 0,
+      "index": 668
+    }
+  ],
+  "DaggerSwing1": [
+    {
+      "prototype": 0,
+      "index": 669
+    }
+  ],
+  "DaggerSwing2": [
+    {
+      "prototype": 0,
+      "index": 670
+    }
+  ],
+  "DaggerSwing3": [
+    {
+      "prototype": 0,
+      "index": 671
+    }
+  ],
+  "DaggerSwing4": [
+    {
+      "prototype": 0,
+      "index": 672
+    }
+  ],
+  "DaggerRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 673
+    }
+  ],
+  "DaggerCritical": [
+    {
+      "prototype": 0,
+      "index": 674
+    }
+  ],
+  "BloodFiendSwing1": [
+    {
+      "prototype": 0,
+      "index": 675
+    }
+  ],
+  "BloodFiendSwing2": [
+    {
+      "prototype": 0,
+      "index": 676
+    }
+  ],
+  "BloodFiendSwing3": [
+    {
+      "prototype": 0,
+      "index": 677
+    }
+  ],
+  "BloodFiendSwing4": [
+    {
+      "prototype": 0,
+      "index": 678
+    }
+  ],
+  "DualDaggerRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 679
+    }
+  ],
+  "DualDaggerCritical": [
+    {
+      "prototype": 0,
+      "index": 680
+    }
+  ],
+  "UndeadSickleSwing1": [
+    {
+      "prototype": 0,
+      "index": 681
+    }
+  ],
+  "UndeadSickleSwing2": [
+    {
+      "prototype": 0,
+      "index": 682
+    }
+  ],
+  "UndeadSickleSwing3": [
+    {
+      "prototype": 0,
+      "index": 683
+    }
+  ],
+  "UndeadSickleSwing4": [
+    {
+      "prototype": 0,
+      "index": 684
+    }
+  ],
+  "UndeadSickleRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 685
+    }
+  ],
+  "UndeadSickleCritical": [
+    {
+      "prototype": 0,
+      "index": 686
+    }
+  ],
+  "LocustCritical": [
+    {
+      "prototype": 0,
+      "index": 687
+    }
+  ],
+  "SwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 688
+    }
+  ],
+  "SwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 689
+    }
+  ],
+  "SwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 690
+    }
+  ],
+  "SwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 691
+    }
+  ],
+  "SwordRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 692
+    }
+  ],
+  "SwordCritical": [
+    {
+      "prototype": 0,
+      "index": 693
+    }
+  ],
+  "YamadaSwing4": [
+    {
+      "prototype": 0,
+      "index": 694
+    }
+  ],
+  "YamadaSwing3": [
+    {
+      "prototype": 0,
+      "index": 695
+    }
+  ],
+  "YamadaSwing2": [
+    {
+      "prototype": 0,
+      "index": 696
+    }
+  ],
+  "YamadaSwing1": [
+    {
+      "prototype": 0,
+      "index": 697
+    }
+  ],
+  "YamadaRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 698
+    }
+  ],
+  "YukimuraCritical": [
+    {
+      "prototype": 0,
+      "index": 699
+    }
+  ],
+  "NailSwordCritical": [
+    {
+      "prototype": 0,
+      "index": 700
+    }
+  ],
+  "NailSwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 701
+    }
+  ],
+  "NailSwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 702
+    }
+  ],
+  "NailSwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 703
+    }
+  ],
+  "NailSwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 704
+    }
+  ],
+  "NailSwordRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 705
+    }
+  ],
+  "ScarletQueenSwing4": [
+    {
+      "prototype": 0,
+      "index": 706
+    }
+  ],
+  "ScarletQueenSwing3": [
+    {
+      "prototype": 0,
+      "index": 707
+    }
+  ],
+  "ScarletQueenSwing2": [
+    {
+      "prototype": 0,
+      "index": 708
+    }
+  ],
+  "ScarletQueenSwing1": [
+    {
+      "prototype": 0,
+      "index": 709
+    }
+  ],
+  "ScarletQueenCritical": [
+    {
+      "prototype": 0,
+      "index": 710
+    }
+  ],
+  "DualSwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 711
+    }
+  ],
+  "DualSwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 712
+    }
+  ],
+  "DualSwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 713
+    }
+  ],
+  "DualSwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 714
+    }
+  ],
+  "MurasamaSwing4": [
+    {
+      "prototype": 0,
+      "index": 715
+    }
+  ],
+  "MurasamaSwing3": [
+    {
+      "prototype": 0,
+      "index": 716
+    }
+  ],
+  "MurasamaSwing2": [
+    {
+      "prototype": 0,
+      "index": 717
+    }
+  ],
+  "MurasamaSwing1": [
+    {
+      "prototype": 0,
+      "index": 718
+    }
+  ],
+  "MurasamaRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 719
+    }
+  ],
+  "MurasamaUnsheatheCritical": [
+    {
+      "prototype": 0,
+      "index": 720
+    }
+  ],
+  "RotbladeSwing4": [
+    {
+      "prototype": 0,
+      "index": 721
+    }
+  ],
+  "RotbladeSwing3": [
+    {
+      "prototype": 0,
+      "index": 722
+    }
+  ],
+  "RotbladeSwing2": [
+    {
+      "prototype": 0,
+      "index": 723
+    }
+  ],
+  "RotbladeSwing1": [
+    {
+      "prototype": 0,
+      "index": 724
+    }
+  ],
+  "RotbladeRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 725
+    }
+  ],
+  "RotbladeCritical": [
+    {
+      "prototype": 0,
+      "index": 726
+    }
+  ],
+  "5YearSwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 727
+    }
+  ],
+  "5YearSwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 728
+    }
+  ],
+  "5YearSwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 729
+    }
+  ],
+  "5YearSwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 730
+    }
+  ],
+  "5YearSwordCriticalAttack": [
+    {
+      "prototype": 0,
+      "index": 731
+    }
+  ],
+  "5YearSwordRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 732
+    }
+  ],
+  "10YearSwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 733
+    }
+  ],
+  "10YearSwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 734
+    }
+  ],
+  "10YearSwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 735
+    }
+  ],
+  "10YearSwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 736
+    }
+  ],
+  "10YearSwordCriticalAttack": [
+    {
+      "prototype": 0,
+      "index": 737
+    }
+  ],
+  "100YearSwordSwing4": [
+    {
+      "prototype": 0,
+      "index": 738
+    }
+  ],
+  "100YearSwordSwing3": [
+    {
+      "prototype": 0,
+      "index": 739
+    }
+  ],
+  "100YearSwordSwing2": [
+    {
+      "prototype": 0,
+      "index": 740
+    }
+  ],
+  "100YearSwordSwing1": [
+    {
+      "prototype": 0,
+      "index": 741
+    }
+  ],
+  "100YearSwordRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 742
+    }
+  ],
+  "100YearSwordCriticalAttack": [
+    {
+      "prototype": 0,
+      "index": 743
+    }
+  ],
+  "SealedWorldSwing4": [
+    {
+      "prototype": 0,
+      "index": 744
+    }
+  ],
+  "SealedWorldSwing3": [
+    {
+      "prototype": 0,
+      "index": 745
+    }
+  ],
+  "SealedWorldSwing2": [
+    {
+      "prototype": 0,
+      "index": 746
+    }
+  ],
+  "SealedWorldSwing1": [
+    {
+      "prototype": 0,
+      "index": 747
+    }
+  ],
+  "SealedWorldCritical": [
+    {
+      "prototype": 0,
+      "index": 748
+    }
+  ],
+  "AxeSwing1": [
+    {
+      "prototype": 0,
+      "index": 749
+    }
+  ],
+  "AxeSwing2": [
+    {
+      "prototype": 0,
+      "index": 750
+    }
+  ],
+  "AxeSwing3": [
+    {
+      "prototype": 0,
+      "index": 751
+    }
+  ],
+  "AxeSwing4": [
+    {
+      "prototype": 0,
+      "index": 752
+    }
+  ],
+  "AxeRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 753
+    }
+  ],
+  "AxeCritical": [
+    {
+      "prototype": 0,
+      "index": 754
+    }
+  ],
+  "FirearmSwing4": [
+    {
+      "prototype": 0,
+      "index": 755
+    }
+  ],
+  "FirearmSwing2": [
+    {
+      "prototype": 0,
+      "index": 756
+    }
+  ],
+  "FirearmSwing1": [
+    {
+      "prototype": 0,
+      "index": 757
+    }
+  ],
+  "FirearmSwing3": [
+    {
+      "prototype": 0,
+      "index": 758
+    }
+  ],
+  "FirearmRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 759
+    }
+  ],
+  "FirearmCritical": [
+    {
+      "prototype": 0,
+      "index": 760
+    }
+  ],
+  "GreenshotCritical": [
+    {
+      "prototype": 0,
+      "index": 761
+    }
+  ],
+  "UziCritical": [
+    {
+      "prototype": 0,
+      "index": 762
+    }
+  ],
+  "UziSwing4": [
+    {
+      "prototype": 0,
+      "index": 763
+    }
+  ],
+  "UziSwing3": [
+    {
+      "prototype": 0,
+      "index": 764
+    }
+  ],
+  "UziSwing2": [
+    {
+      "prototype": 0,
+      "index": 765
+    }
+  ],
+  "UziSwing1": [
+    {
+      "prototype": 0,
+      "index": 766
+    }
+  ],
+  "Cross PunisherSwing4": [
+    {
+      "prototype": 0,
+      "index": 767
+    }
+  ],
+  "Cross PunisherSwing3": [
+    {
+      "prototype": 0,
+      "index": 768
+    }
+  ],
+  "Cross PunisherSwing2": [
+    {
+      "prototype": 0,
+      "index": 769
+    }
+  ],
+  "Cross PunisherSwing1": [
+    {
+      "prototype": 0,
+      "index": 770
+    }
+  ],
+  "Cross PunisherRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 771
+    }
+  ],
+  "Cross PunisherWeaponSwing1": [
+    {
+      "prototype": 0,
+      "index": 772
+    }
+  ],
+  "Cross PunisherWeaponSwing2": [
+    {
+      "prototype": 0,
+      "index": 773
+    }
+  ],
+  "Cross PunisherWeaponSwing3": [
+    {
+      "prototype": 0,
+      "index": 774
+    }
+  ],
+  "Cross PunisherWeaponSwing4": [
+    {
+      "prototype": 0,
+      "index": 775
+    }
+  ],
+  "Cross PunisherWeaponRunAttack": [
+    {
+      "prototype": 0,
+      "index": 776
+    }
+  ],
+  "Cross PunisherCritical": [
+    {
+      "prototype": 0,
+      "index": 777
+    }
+  ],
+  "Cross PunisherWeaponCritical": [
+    {
+      "prototype": 0,
+      "index": 778
+    }
+  ],
+  "AK47Swing4": [
+    {
+      "prototype": 0,
+      "index": 779
+    }
+  ],
+  "AK47Swing3": [
+    {
+      "prototype": 0,
+      "index": 780
+    }
+  ],
+  "AK47Swing2": [
+    {
+      "prototype": 0,
+      "index": 781
+    }
+  ],
+  "AK47Swing1": [
+    {
+      "prototype": 0,
+      "index": 782
+    }
+  ],
+  "BrainsplasherSwing4": [
+    {
+      "prototype": 0,
+      "index": 783
+    }
+  ],
+  "BrainsplasherSwing3": [
+    {
+      "prototype": 0,
+      "index": 784
+    }
+  ],
+  "BrainsplasherSwing2": [
+    {
+      "prototype": 0,
+      "index": 785
+    }
+  ],
+  "BrainsplasherSwing1": [
+    {
+      "prototype": 0,
+      "index": 786
+    }
+  ],
+  "BrainsplasherCritical": [
+    {
+      "prototype": 0,
+      "index": 787
+    }
+  ],
+  "Uppercut": [
+    {
+      "prototype": 0,
+      "index": 788
+    }
+  ],
+  "KickOffUppercut": [
+    {
+      "prototype": 0,
+      "index": 789
+    }
+  ],
+  "GreatweaponSwing4": [
+    {
+      "prototype": 0,
+      "index": 790
+    }
+  ],
+  "GreatweaponSwing2": [
+    {
+      "prototype": 0,
+      "index": 791
+    }
+  ],
+  "GreatweaponSwing1": [
+    {
+      "prototype": 0,
+      "index": 792
+    }
+  ],
+  "GreatweaponSwing3": [
+    {
+      "prototype": 0,
+      "index": 793
+    }
+  ],
+  "GreatweaponRunningAttack": [
+    {
+      "prototype": 0,
+      "index": 794
+    }
+  ],
+  "GreatweaponCritical": [
+    {
+      "prototype": 0,
+      "index": 795
+    }
+  ],
+  "Cursed LanceSwing4": [
+    {
+      "prototype": 0,
+      "index": 796
+    }
+  ],
+  "Cursed LanceSwing3": [
+    {
+      "prototype": 0,
+      "index": 797
+    }
+  ],
+  "Cursed LanceSwing2": [
+    {
+      "prototype": 0,
+      "index": 798
+    }
+  ],
+  "Cursed LanceSwing1": [
+    {
+      "prototype": 0,
+      "index": 799
+    }
+  ],
+  "CursedLanceCriticalAttack": [
+    {
+      "prototype": 0,
+      "index": 800
+    }
+  ],
+  "RotandRuinSwing4": [
+    {
+      "prototype": 0,
+      "index": 801
+    }
+  ],
+  "RotandRuinSwing3": [
+    {
+      "prototype": 0,
+      "index": 802
+    }
+  ],
+  "RotandRuinSwing1": [
+    {
+      "prototype": 0,
+      "index": 803
+    }
+  ],
+  "RotandRuinSwing2": [
+    {
+      "prototype": 0,
+      "index": 804
+    }
+  ],
+  "RotandRuinCritical": [
+    {
+      "prototype": 0,
+      "index": 805
+    }
+  ],
+  "ScissorBladeSwing4": [
+    {
+      "prototype": 0,
+      "index": 806
+    }
+  ],
+  "ScissorBladeSwing3": [
+    {
+      "prototype": 0,
+      "index": 807
+    }
+  ],
+  "ScissorBladeSwing2": [
+    {
+      "prototype": 0,
+      "index": 808
+    }
+  ],
+  "ScissorBladeSwing1": [
+    {
+      "prototype": 0,
+      "index": 809
+    }
+  ],
+  "ScissorBladeCritical": [
+    {
+      "prototype": 0,
+      "index": 810
+    }
+  ],
+  "RazorHalberdSwing4": [
+    {
+      "prototype": 0,
+      "index": 811
+    }
+  ],
+  "RazorHalberdSwing2": [
+    {
+      "prototype": 0,
+      "index": 812
+    }
+  ],
+  "RazorHalberdSwing1": [
+    {
+      "prototype": 0,
+      "index": 813
+    }
+  ],
+  "RazorHalberdSwing3": [
+    {
+      "prototype": 0,
+      "index": 814
+    }
+  ],
+  "RazorHalberdCritical": [
+    {
+      "prototype": 0,
+      "index": 815
+    }
+  ],
+  "HammerSwing4": [
+    {
+      "prototype": 0,
+      "index": 816
+    }
+  ],
+  "HammerSwing3": [
+    {
+      "prototype": 0,
+      "index": 817
+    }
+  ],
+  "HammerSwing2": [
+    {
+      "prototype": 0,
+      "index": 818
+    }
+  ],
+  "HammerSwing1": [
+    {
+      "prototype": 0,
+      "index": 819
+    }
+  ],
+  "PunkHazardCritical": [
+    {
+      "prototype": 0,
+      "index": 820
+    }
+  ],
+  "SealedFangSwing4": [
+    {
+      "prototype": 0,
+      "index": 821
+    }
+  ],
+  "SealedFangSwing3": [
+    {
+      "prototype": 0,
+      "index": 822
+    }
+  ],
+  "SealedFangSwing2": [
+    {
+      "prototype": 0,
+      "index": 823
+    }
+  ],
+  "SealedFangSwing1": [
+    {
+      "prototype": 0,
+      "index": 824
+    }
+  ],
+  "SealedFangCritical": [
+    {
+      "prototype": 0,
+      "index": 825
+    }
+  ],
+  "RushKick": [
+    {
+      "prototype": 0,
+      "index": 826
+    }
+  ],
+  "KatanaHybridSwing1": [
+    {
+      "prototype": 0,
+      "index": 827
+    }
+  ],
+  "KatanaHybridSwing2": [
+    {
+      "prototype": 0,
+      "index": 828
+    }
+  ],
+  "KatanaHybridSwing3": [
+    {
+      "prototype": 0,
+      "index": 829
+    }
+  ],
+  "KatanaHybridSwing4": [
+    {
+      "prototype": 0,
+      "index": 830
+    }
+  ],
+  "KatanaHybridCritical": [
+    {
+      "prototype": 0,
+      "index": 831
+    }
+  ],
+  "NailFiendSwing1": [
+    {
+      "prototype": 0,
+      "index": 832
+    }
+  ],
+  "NailFiendSwing2": [
+    {
+      "prototype": 0,
+      "index": 833
+    }
+  ],
+  "NailFiendSwing3": [
+    {
+      "prototype": 0,
+      "index": 834
+    }
+  ],
+  "NailFiendSwing4": [
+    {
+      "prototype": 0,
+      "index": 835
+    }
+  ],
+  "NailFiendCritical": [
+    {
+      "prototype": 0,
+      "index": 836
+    }
+  ],
+  "SharkFiendSwing2": [
+    {
+      "prototype": 0,
+      "index": 837
+    }
+  ],
+  "SharkFiendSwing3": [
+    {
+      "prototype": 0,
+      "index": 838
+    }
+  ],
+  "SharkFiendSwing4": [
+    {
+      "prototype": 0,
+      "index": 839
+    }
+  ],
+  "SharkFiendSwing1": [
+    {
+      "prototype": 0,
+      "index": 840
+    }
+  ],
+  "GetPlayers": [
+    {
+      "prototype": 0,
+      "index": 841
+    },
+    {
+      "prototype": 30,
+      "index": 8
+    },
+    {
+      "prototype": 69,
+      "index": 1
+    }
+  ],
+  "PlayerAdded": [
+    {
+      "prototype": 0,
+      "index": 842
+    }
+  ],
+  "Devil Spam": [
+    {
+      "prototype": 0,
+      "index": 843
+    }
+  ],
+  "Yurei Devil": [
+    {
+      "prototype": 0,
+      "index": 844
+    }
+  ],
+  "Fortune Devil": [
+    {
+      "prototype": 0,
+      "index": 845
+    }
+  ],
+  "Eternity Devil": [
+    {
+      "prototype": 0,
+      "index": 846
+    },
+    {
+      "prototype": 8,
+      "index": 14
+    }
+  ],
+  "Gun Devil": [
+    {
+      "prototype": 0,
+      "index": 847
+    }
+  ],
+  "Tomato Devil": [
+    {
+      "prototype": 0,
+      "index": 848
+    }
+  ],
+  "Snake Devil": [
+    {
+      "prototype": 0,
+      "index": 849
+    },
+    {
+      "prototype": 7,
+      "index": 23
+    }
+  ],
+  "Bat Devil": [
+    {
+      "prototype": 0,
+      "index": 850
+    }
+  ],
+  "Fish Devil": [
+    {
+      "prototype": 0,
+      "index": 851
+    }
+  ],
+  "Curse Devil": [
+    {
+      "prototype": 0,
+      "index": 852
+    }
+  ],
+  "Future Devil": [
+    {
+      "prototype": 0,
+      "index": 853
+    }
+  ],
+  "Leech Devil": [
+    {
+      "prototype": 0,
+      "index": 854
+    }
+  ],
+  "Octopus Devil": [
+    {
+      "prototype": 0,
+      "index": 855
+    }
+  ],
+  "Shark Devil": [
+    {
+      "prototype": 0,
+      "index": 856
+    }
+  ],
+  "Sea Cucumber Devil": [
+    {
+      "prototype": 0,
+      "index": 857
+    }
+  ],
+  "Mantis Devil": [
+    {
+      "prototype": 0,
+      "index": 858
+    }
+  ],
+  "Mold Devil": [
+    {
+      "prototype": 0,
+      "index": 859
+    }
+  ],
+  "Stone Devil": [
+    {
+      "prototype": 0,
+      "index": 860
+    }
+  ],
+  "Ghost Devil": [
+    {
+      "prototype": 0,
+      "index": 861
+    }
+  ],
+  "Fox Devil": [
+    {
+      "prototype": 0,
+      "index": 862
+    }
+  ],
+  "Assassin's Step": [
+    {
+      "prototype": 0,
+      "index": 863
+    }
+  ],
+  "Assault Rifle": [
+    {
+      "prototype": 0,
+      "index": 864
+    }
+  ],
+  "Beast's Stride": [
+    {
+      "prototype": 0,
+      "index": 865
+    }
+  ],
+  "Beatdown": [
+    {
+      "prototype": 0,
+      "index": 866
+    }
+  ],
+  "Beheader": [
+    {
+      "prototype": 0,
+      "index": 867
+    }
+  ],
+  "Bisection": [
+    {
+      "prototype": 0,
+      "index": 868
+    }
+  ],
+  "Bite": [
+    {
+      "prototype": 0,
+      "index": 869
+    }
+  ],
+  "Blightshot": [
+    {
+      "prototype": 0,
+      "index": 870
+    }
+  ],
+  "Blinkfire": [
+    {
+      "prototype": 0,
+      "index": 871
+    }
+  ],
+  "Blitzcut": [
+    {
+      "prototype": 0,
+      "index": 872
+    }
+  ],
+  "Blood Hammer": [
+    {
+      "prototype": 0,
+      "index": 873
+    }
+  ],
+  "Blood Scythe": [
+    {
+      "prototype": 0,
+      "index": 874
+    }
+  ],
+  "Blood Spill": [
+    {
+      "prototype": 0,
+      "index": 875
+    }
+  ],
+  "Brass Stamp": [
+    {
+      "prototype": 0,
+      "index": 876
+    }
+  ],
+  "Brutalize": [
+    {
+      "prototype": 0,
+      "index": 877
+    }
+  ],
+  "Bullet Hell": [
+    {
+      "prototype": 0,
+      "index": 878
+    }
+  ],
+  "Bullet Storm": [
+    {
+      "prototype": 0,
+      "index": 879
+    }
+  ],
+  "Bullrush Blitz": [
+    {
+      "prototype": 0,
+      "index": 880
+    }
+  ],
+  "Crimson Coil": [
+    {
+      "prototype": 0,
+      "index": 881
+    }
+  ],
+  "Crusher": [
+    {
+      "prototype": 0,
+      "index": 882
+    }
+  ],
+  "Dance Macabre": [
+    {
+      "prototype": 0,
+      "index": 883
+    }
+  ],
+  "Deadly Impale": [
+    {
+      "prototype": 0,
+      "index": 884
+    }
+  ],
+  "Defensive Rush": [
+    {
+      "prototype": 0,
+      "index": 885
+    }
+  ],
+  "Delayed Scare": [
+    {
+      "prototype": 0,
+      "index": 886
+    }
+  ],
+  "Dive": [
+    {
+      "prototype": 0,
+      "index": 887
+    }
+  ],
+  "Double Punch": [
+    {
+      "prototype": 0,
+      "index": 888
+    }
+  ],
+  "Dropkick": [
+    {
+      "prototype": 0,
+      "index": 889
+    }
+  ],
+  "Edge Rider": [
+    {
+      "prototype": 0,
+      "index": 890
+    }
+  ],
+  "Eviscerate": [
+    {
+      "prototype": 0,
+      "index": 891
+    }
+  ],
+  "Executioner's Swing": [
+    {
+      "prototype": 0,
+      "index": 892
+    }
+  ],
+  "Fang Rondo": [
+    {
+      "prototype": 0,
+      "index": 893
+    }
+  ],
+  "Feral Whirlwind": [
+    {
+      "prototype": 0,
+      "index": 894
+    }
+  ],
+  "Flash Draw": [
+    {
+      "prototype": 0,
+      "index": 895
+    }
+  ],
+  "Flying Headbutt": [
+    {
+      "prototype": 0,
+      "index": 896
+    }
+  ],
+  "Gazelle Punch": [
+    {
+      "prototype": 0,
+      "index": 897
+    }
+  ],
+  "Greatsword Bisection": [
+    {
+      "prototype": 0,
+      "index": 898
+    }
+  ],
+  "Greatsword Rampage": [
+    {
+      "prototype": 0,
+      "index": 899
+    }
+  ],
+  "HALLOWEEEEEN!": [
+    {
+      "prototype": 0,
+      "index": 900
+    }
+  ],
+  "Halloooween?": [
+    {
+      "prototype": 0,
+      "index": 901
+    }
+  ],
+  "Hardscope": [
+    {
+      "prototype": 0,
+      "index": 902
+    }
+  ],
+  "Headlock Volley": [
+    {
+      "prototype": 0,
+      "index": 903
+    }
+  ],
+  "High Rise": [
+    {
+      "prototype": 0,
+      "index": 904
+    }
+  ],
+  "Honeycomb Fire": [
+    {
+      "prototype": 0,
+      "index": 905
+    }
+  ],
+  "Impenetrable Stance": [
+    {
+      "prototype": 0,
+      "index": 906
+    }
+  ],
+  "Iron Drift": [
+    {
+      "prototype": 0,
+      "index": 907
+    }
+  ],
+  "Iron Heel": [
+    {
+      "prototype": 0,
+      "index": 908
+    }
+  ],
+  "Ironclad Thrust": [
+    {
+      "prototype": 0,
+      "index": 909
+    }
+  ],
+  "Jackpot": [
+    {
+      "prototype": 0,
+      "index": 910
+    }
+  ],
+  "Jaws": [
+    {
+      "prototype": 0,
+      "index": 911
+    }
+  ],
+  "Kickshot": [
+    {
+      "prototype": 0,
+      "index": 912
+    }
+  ],
+  "Landsplitter": [
+    {
+      "prototype": 0,
+      "index": 913
+    }
+  ],
+  "Leaping Kicks": [
+    {
+      "prototype": 0,
+      "index": 914
+    }
+  ],
+  "Lotus": [
+    {
+      "prototype": 0,
+      "index": 915
+    }
+  ],
+  "Materialize": [
+    {
+      "prototype": 0,
+      "index": 916
+    }
+  ],
+  "Materialize: Spear": [
+    {
+      "prototype": 0,
+      "index": 917
+    }
+  ],
+  "Maul": [
+    {
+      "prototype": 0,
+      "index": 918
+    }
+  ],
+  "Mirror": [
+    {
+      "prototype": 0,
+      "index": 919
+    }
+  ],
+  "Nail Bounce": [
+    {
+      "prototype": 0,
+      "index": 920
+    }
+  ],
+  "Nail Impalement": [
+    {
+      "prototype": 0,
+      "index": 921
+    }
+  ],
+  "Out of Nowhere": [
+    {
+      "prototype": 0,
+      "index": 922
+    }
+  ],
+  "Overhead Reprisal": [
+    {
+      "prototype": 0,
+      "index": 923
+    }
+  ],
+  "Overhead Stance": [
+    {
+      "prototype": 0,
+      "index": 924
+    }
+  ],
+  "Perfect Kill": [
+    {
+      "prototype": 0,
+      "index": 925
+    }
+  ],
+  "Piledriver": [
+    {
+      "prototype": 0,
+      "index": 926
+    }
+  ],
+  "Pistol Whip": [
+    {
+      "prototype": 0,
+      "index": 927
+    }
+  ],
+  "Pummel and Fire": [
+    {
+      "prototype": 0,
+      "index": 928
+    }
+  ],
+  "Rampage": [
+    {
+      "prototype": 0,
+      "index": 929
+    }
+  ],
+  "Reckless Whirlwind": [
+    {
+      "prototype": 0,
+      "index": 930
+    }
+  ],
+  "Reoccurring Strikes": [
+    {
+      "prototype": 0,
+      "index": 931
+    }
+  ],
+  "Rising Kick": [
+    {
+      "prototype": 0,
+      "index": 932
+    }
+  ],
+  "Rose Burst": [
+    {
+      "prototype": 0,
+      "index": 933
+    }
+  ],
+  "Rubble Raiser": [
+    {
+      "prototype": 0,
+      "index": 934
+    }
+  ],
+  "Running Downslam": [
+    {
+      "prototype": 0,
+      "index": 935
+    }
+  ],
+  "Shoulder Charge": [
+    {
+      "prototype": 0,
+      "index": 936
+    }
+  ],
+  "Shredder": [
+    {
+      "prototype": 0,
+      "index": 937
+    }
+  ],
+  "Skullcrusher": [
+    {
+      "prototype": 0,
+      "index": 938
+    }
+  ],
+  "Skybreaker": [
+    {
+      "prototype": 0,
+      "index": 939
+    }
+  ],
+  "Skycrusher": [
+    {
+      "prototype": 0,
+      "index": 940
+    }
+  ],
+  "Skyscraper": [
+    {
+      "prototype": 0,
+      "index": 941
+    }
+  ],
+  "Smell": [
+    {
+      "prototype": 0,
+      "index": 942
+    }
+  ],
+  "Spinning Kick": [
+    {
+      "prototype": 0,
+      "index": 943
+    }
+  ],
+  "Strike!": [
+    {
+      "prototype": 0,
+      "index": 944
+    }
+  ],
+  "Suplex": [
+    {
+      "prototype": 0,
+      "index": 945
+    }
+  ],
+  "Swiftfang": [
+    {
+      "prototype": 0,
+      "index": 946
+    }
+  ],
+  "Sword-Draw Counter": [
+    {
+      "prototype": 0,
+      "index": 947
+    }
+  ],
+  "Sword-Draw Dash": [
+    {
+      "prototype": 0,
+      "index": 948
+    }
+  ],
+  "Template": [
+    {
+      "prototype": 0,
+      "index": 949
+    }
+  ],
+  "Thousand Stab": [
+    {
+      "prototype": 0,
+      "index": 950
+    }
+  ],
+  "Titan's Reprisal": [
+    {
+      "prototype": 0,
+      "index": 951
+    }
+  ],
+  "Triple Kick": [
+    {
+      "prototype": 0,
+      "index": 952
+    }
+  ],
+  "Triple Stab": [
+    {
+      "prototype": 0,
+      "index": 953
+    }
+  ],
+  "Viper's Dash": [
+    {
+      "prototype": 0,
+      "index": 954
+    }
+  ],
+  "Viper's Fury": [
+    {
+      "prototype": 0,
+      "index": 955
+    }
+  ],
+  "Viper's Hold": [
+    {
+      "prototype": 0,
+      "index": 956
+    }
+  ],
+  "Viper's Trick": [
+    {
+      "prototype": 0,
+      "index": 957
+    }
+  ],
+  "Waterfell Waltz": [
+    {
+      "prototype": 0,
+      "index": 958
+    }
+  ],
+  "Whirlwind Cleaver": [
+    {
+      "prototype": 0,
+      "index": 959
+    }
+  ],
+  "Whirlwind Slash": [
+    {
+      "prototype": 0,
+      "index": 960
+    }
+  ],
+  "Windbreaker Slash": [
+    {
+      "prototype": 0,
+      "index": 961
+    }
+  ],
+  "Year Drain": [
+    {
+      "prototype": 0,
+      "index": 962
+    }
+  ],
+  "noCd": [
+    {
+      "prototype": 0,
+      "index": 963
+    },
+    {
+      "prototype": 136,
+      "index": 5
+    },
+    {
+      "prototype": 137,
+      "index": 5
+    },
+    {
+      "prototype": 138,
+      "index": 5
+    }
+  ],
+  "No Cd": [
+    {
+      "prototype": 0,
+      "index": 964
+    }
+  ],
+  "Master Toggle for No Cooldown": [
+    {
+      "prototype": 0,
+      "index": 965
+    }
+  ],
+  "noCDX": [
+    {
+      "prototype": 0,
+      "index": 966
+    },
+    {
+      "prototype": 136,
+      "index": 1
+    }
+  ],
+  "Skill X": [
+    {
+      "prototype": 0,
+      "index": 967
+    }
+  ],
+  "Will Spam Selected Devil X Skill": [
+    {
+      "prototype": 0,
+      "index": 968
+    }
+  ],
+  "DevilX": [
+    {
+      "prototype": 0,
+      "index": 969
+    },
+    {
+      "prototype": 136,
+      "index": 6
+    }
+  ],
+  "Select": [
+    {
+      "prototype": 0,
+      "index": 970
+    }
+  ],
+  "Select Devil X": [
+    {
+      "prototype": 0,
+      "index": 971
+    }
+  ],
+  "CDX": [
+    {
+      "prototype": 0,
+      "index": 972
+    }
+  ],
+  "X": [
+    {
+      "prototype": 0,
+      "index": 973
+    },
+    {
+      "prototype": 3,
+      "index": 4
+    },
+    {
+      "prototype": 7,
+      "index": 25
+    },
+    {
+      "prototype": 8,
+      "index": 16
+    },
+    {
+      "prototype": 136,
+      "index": 21
+    }
+  ],
+  "Hold": [
+    {
+      "prototype": 0,
+      "index": 974
+    }
+  ],
+  "Spam X": [
+    {
+      "prototype": 0,
+      "index": 975
+    }
+  ],
+  "noCDXSpeed": [
+    {
+      "prototype": 0,
+      "index": 976
+    },
+    {
+      "prototype": 136,
+      "index": 4
+    }
+  ],
+  "Delay X Skill": [
+    {
+      "prototype": 0,
+      "index": 977
+    }
+  ],
+  "noCDZ": [
+    {
+      "prototype": 0,
+      "index": 978
+    },
+    {
+      "prototype": 137,
+      "index": 1
+    }
+  ],
+  "Skill Z": [
+    {
+      "prototype": 0,
+      "index": 979
+    }
+  ],
+  "Will Spam Selected Devil Z Skill": [
+    {
+      "prototype": 0,
+      "index": 980
+    }
+  ],
+  "DevilZ": [
+    {
+      "prototype": 0,
+      "index": 981
+    },
+    {
+      "prototype": 137,
+      "index": 6
+    }
+  ],
+  "Select Devil Z": [
+    {
+      "prototype": 0,
+      "index": 982
+    }
+  ],
+  "CDZ": [
+    {
+      "prototype": 0,
+      "index": 983
+    }
+  ],
+  "Z": [
+    {
+      "prototype": 0,
+      "index": 984
+    },
+    {
+      "prototype": 137,
+      "index": 21
+    }
+  ],
+  "Spam Z": [
+    {
+      "prototype": 0,
+      "index": 985
+    }
+  ],
+  "noCDZSpeed": [
+    {
+      "prototype": 0,
+      "index": 986
+    },
+    {
+      "prototype": 137,
+      "index": 4
+    }
+  ],
+  "Delay Z Skill": [
+    {
+      "prototype": 0,
+      "index": 987
+    }
+  ],
+  "noCDC": [
+    {
+      "prototype": 0,
+      "index": 988
+    }
+  ],
+  "Skill C": [
+    {
+      "prototype": 0,
+      "index": 989
+    }
+  ],
+  "Will Spam Selected Devil C Skill": [
+    {
+      "prototype": 0,
+      "index": 990
+    }
+  ],
+  "DevilC": [
+    {
+      "prototype": 0,
+      "index": 991
+    },
+    {
+      "prototype": 138,
+      "index": 6
+    }
+  ],
+  "Select Devil C": [
+    {
+      "prototype": 0,
+      "index": 992
+    }
+  ],
+  "CDC": [
+    {
+      "prototype": 0,
+      "index": 993
+    }
+  ],
+  "C": [
+    {
+      "prototype": 0,
+      "index": 994
+    },
+    {
+      "prototype": 138,
+      "index": 21
+    }
+  ],
+  "Spam C": [
+    {
+      "prototype": 0,
+      "index": 995
+    }
+  ],
+  "noCDCSpeed": [
+    {
+      "prototype": 0,
+      "index": 996
+    },
+    {
+      "prototype": 138,
+      "index": 4
+    }
+  ],
+  "Delay C Skill": [
+    {
+      "prototype": 0,
+      "index": 997
+    }
+  ],
+  "Normal Skills Spam (1–9)": [
+    {
+      "prototype": 0,
+      "index": 998
+    }
+  ],
+  "noCdSkillsMaster": [
+    {
+      "prototype": 0,
+      "index": 999
+    },
+    {
+      "prototype": 140,
+      "index": 1
+    }
+  ],
+  "Master Enable": [
+    {
+      "prototype": 0,
+      "index": 1000
+    }
+  ],
+  "Must be ON for any 1–9 skill spam to work": [
+    {
+      "prototype": 0,
+      "index": 1001
+    }
+  ],
+  "One": [
+    {
+      "prototype": 0,
+      "index": 1002
+    }
+  ],
+  "Two": [
+    {
+      "prototype": 0,
+      "index": 1003
+    }
+  ],
+  "Three": [
+    {
+      "prototype": 0,
+      "index": 1004
+    }
+  ],
+  "Four": [
+    {
+      "prototype": 0,
+      "index": 1005
+    }
+  ],
+  "Five": [
+    {
+      "prototype": 0,
+      "index": 1006
+    }
+  ],
+  "Six": [
+    {
+      "prototype": 0,
+      "index": 1007
+    }
+  ],
+  "Seven": [
+    {
+      "prototype": 0,
+      "index": 1008
+    }
+  ],
+  "Eight": [
+    {
+      "prototype": 0,
+      "index": 1009
+    }
+  ],
+  "Nine": [
+    {
+      "prototype": 0,
+      "index": 1010
+    }
+  ],
+  "skillSpam": [
+    {
+      "prototype": 0,
+      "index": 1011
+    }
+  ],
+  "skillChoice": [
+    {
+      "prototype": 0,
+      "index": 1012
+    }
+  ],
+  "spamKey": [
+    {
+      "prototype": 0,
+      "index": 1013
+    }
+  ],
+  "skillDelay": [
+    {
+      "prototype": 0,
+      "index": 1014
+    }
+  ],
+  "Slot ": [
+    {
+      "prototype": 0,
+      "index": 1015
+    }
+  ],
+  "Spam selected skill when holding key ": [
+    {
+      "prototype": 0,
+      "index": 1016
+    }
+  ],
+  "math": [
+    {
+      "prototype": 0,
+      "index": 1017
+    },
+    {
+      "prototype": 5,
+      "index": 8
+    },
+    {
+      "prototype": 16,
+      "index": 8
+    },
+    {
+      "prototype": 37,
+      "index": 33
+    },
+    {
+      "prototype": 131,
+      "index": 18
+    }
+  ],
+  "min": [
+    {
+      "prototype": 0,
+      "index": 1018
+    }
+  ],
+  "Skill #": [
+    {
+      "prototype": 0,
+      "index": 1019
+    }
+  ],
+  "Skill that will be spammed on key ": [
+    {
+      "prototype": 0,
+      "index": 1020
+    }
+  ],
+  "Hold → Spam ": [
+    {
+      "prototype": 0,
+      "index": 1021
+    }
+  ],
+  "Hold this key to activate spam (master + slot toggle must be on)": [
+    {
+      "prototype": 0,
+      "index": 1022
+    }
+  ],
+  "Delay slot ": [
+    {
+      "prototype": 0,
+      "index": 1023
+    }
+  ],
+  "Suffix": [
+    {
+      "prototype": 0,
+      "index": 1026
+    }
+  ],
+  "s": [
+    {
+      "prototype": 0,
+      "index": 1027
+    }
+  ],
+  "AutoParry": [
+    {
+      "prototype": 0,
+      "index": 1028
+    },
+    {
+      "prototype": 131,
+      "index": 1
+    }
+  ],
+  "notificationParry": [
+    {
+      "prototype": 0,
+      "index": 1029
+    },
+    {
+      "prototype": 131,
+      "index": 12
+    }
+  ],
+  "Debug": [
+    {
+      "prototype": 0,
+      "index": 1030
+    }
+  ],
+  "Prints when parry is about to happen": [
+    {
+      "prototype": 0,
+      "index": 1031
+    }
+  ],
+  "AnimationPercent": [
+    {
+      "prototype": 0,
+      "index": 1032
+    },
+    {
+      "prototype": 131,
+      "index": 11
+    }
+  ],
+  "Animation Percent": [
+    {
+      "prototype": 0,
+      "index": 1033
+    }
+  ],
+  "DistanceParry": [
+    {
+      "prototype": 0,
+      "index": 1034
+    },
+    {
+      "prototype": 131,
+      "index": 10
+    }
+  ],
+  "Max Distance (studs)": [
+    {
+      "prototype": 0,
+      "index": 1035
+    }
+  ],
+  "HoldParry": [
+    {
+      "prototype": 0,
+      "index": 1038
+    },
+    {
+      "prototype": 130,
+      "index": 8
+    }
+  ],
+  "Hold Block Duration": [
+    {
+      "prototype": 0,
+      "index": 1039
+    }
+  ],
+  "DelayDebounce": [
+    {
+      "prototype": 0,
+      "index": 1042
+    },
+    {
+      "prototype": 130,
+      "index": 10
+    }
+  ],
+  "Parry Cooldown": [
+    {
+      "prototype": 0,
+      "index": 1043
+    }
+  ],
+  "Auto-Parry": [
+    {
+      "prototype": 0,
+      "index": 1044
+    }
+  ],
+  "Automatically block matching attacks": [
+    {
+      "prototype": 0,
+      "index": 1045
+    }
+  ],
+  "Menu": [
+    {
+      "prototype": 0,
+      "index": 1046
+    }
+  ],
+  "KeybindMenuOpen": [
+    {
+      "prototype": 0,
+      "index": 1047
+    }
+  ],
+  "KeybindFrame": [
+    {
+      "prototype": 0,
+      "index": 1048
+    },
+    {
+      "prototype": 147,
+      "index": 1
+    }
+  ],
+  "Open Keybind Menu": [
+    {
+      "prototype": 0,
+      "index": 1049
+    }
+  ],
+  "Custom Cursor": [
+    {
+      "prototype": 0,
+      "index": 1050
+    }
+  ],
+  "Menu bind": [
+    {
+      "prototype": 0,
+      "index": 1051
+    }
+  ],
+  "MenuKeybind": [
+    {
+      "prototype": 0,
+      "index": 1052
+    }
+  ],
+  "RightShift": [
+    {
+      "prototype": 0,
+      "index": 1053
+    }
+  ],
+  "NoUI": [
+    {
+      "prototype": 0,
+      "index": 1054
+    }
+  ],
+  "Menu keybind": [
+    {
+      "prototype": 0,
+      "index": 1055
+    }
+  ],
+  "Unload": [
+    {
+      "prototype": 0,
+      "index": 1056
+    },
+    {
+      "prototype": 149,
+      "index": 0
+    }
+  ],
+  "ToggleKeybind": [
+    {
+      "prototype": 0,
+      "index": 1057
+    }
+  ],
+  "SetLibrary": [
+    {
+      "prototype": 0,
+      "index": 1058
+    }
+  ],
+  "IgnoreThemeSettings": [
+    {
+      "prototype": 0,
+      "index": 1059
+    }
+  ],
+  "SetIgnoreIndexes": [
+    {
+      "prototype": 0,
+      "index": 1060
+    }
+  ],
+  "SetFolder": [
+    {
+      "prototype": 0,
+      "index": 1061
+    }
+  ],
+  "Avoura": [
+    {
+      "prototype": 0,
+      "index": 1062
+    }
+  ],
+  "Avoura/DevilHunter": [
+    {
+      "prototype": 0,
+      "index": 1063
+    }
+  ],
+  "BuildConfigSection": [
+    {
+      "prototype": 0,
+      "index": 1064
+    }
+  ],
+  "ApplyToTab": [
+    {
+      "prototype": 0,
+      "index": 1065
+    }
+  ],
+  "LoadAutoloadConfig": [
+    {
+      "prototype": 0,
+      "index": 1066
+    }
+  ],
+  "next": [
+    {
+      "prototype": 0,
+      "index": 1067
+    },
+    {
+      "prototype": 150,
+      "index": 1
+    }
+  ],
+  "Value": [
+    {
+      "prototype": 0,
+      "index": 1068
+    },
+    {
+      "prototype": 8,
+      "index": 0
+    },
+    {
+      "prototype": 11,
+      "index": 0
+    },
+    {
+      "prototype": 12,
+      "index": 0
+    },
+    {
+      "prototype": 13,
+      "index": 0
+    },
+    {
+      "prototype": 14,
+      "index": 16
+    },
+    {
+      "prototype": 15,
+      "index": 0
+    },
+    {
+      "prototype": 17,
+      "index": 7
+    },
+    {
+      "prototype": 27,
+      "index": 0
+    },
+    {
+      "prototype": 28,
+      "index": 3
+    },
+    {
+      "prototype": 29,
+      "index": 0
+    },
+    {
+      "prototype": 30,
+      "index": 0
+    },
+    {
+      "prototype": 32,
+      "index": 0
+    },
+    {
+      "prototype": 37,
+      "index": 0
+    },
+    {
+      "prototype": 38,
+      "index": 0
+    },
+    {
+      "prototype": 39,
+      "index": 0
+    },
+    {
+      "prototype": 40,
+      "index": 15
+    },
+    {
+      "prototype": 41,
+      "index": 14
+    },
+    {
+      "prototype": 43,
+      "index": 13
+    },
+    {
+      "prototype": 44,
+      "index": 13
+    },
+    {
+      "prototype": 48,
+      "index": 0
+    },
+    {
+      "prototype": 49,
+      "index": 0
+    },
+    {
+      "prototype": 52,
+      "index": 0
+    },
+    {
+      "prototype": 55,
+      "index": 0
+    },
+    {
+      "prototype": 61,
+      "index": 12
+    },
+    {
+      "prototype": 64,
+      "index": 0
+    },
+    {
+      "prototype": 68,
+      "index": 1
+    },
+    {
+      "prototype": 70,
+      "index": 1
+    },
+    {
+      "prototype": 73,
+      "index": 0
+    },
+    {
+      "prototype": 78,
+      "index": 2
+    },
+    {
+      "prototype": 80,
+      "index": 1
+    },
+    {
+      "prototype": 130,
+      "index": 7
+    },
+    {
+      "prototype": 131,
+      "index": 0
+    },
+    {
+      "prototype": 136,
+      "index": 0
+    },
+    {
+      "prototype": 137,
+      "index": 0
+    },
+    {
+      "prototype": 138,
+      "index": 0
+    },
+    {
+      "prototype": 140,
+      "index": 0
+    },
+    {
+      "prototype": 150,
+      "index": 2
+    },
+    {
+      "prototype": 154,
+      "index": 1
+    }
+  ],
+  "SetWatermarkVisibility": [
+    {
+      "prototype": 0,
+      "index": 1069
+    }
+  ],
+  "SetWatermark": [
+    {
+      "prototype": 0,
+      "index": 1070
+    }
+  ],
+  "Hb20bsk | [AI SKIDDER] 7PX$ [https://discord.gg/VC4suEyqJU]": [
+    {
+      "prototype": 0,
+      "index": 1071
+    }
+  ],
+  "OnUnload": [
+    {
+      "prototype": 0,
+      "index": 1072
+    }
+  ],
+  "loadstring": [
+    {
+      "prototype": 1,
+      "index": 0
+    }
+  ],
+  "https://skider.netlify.app/EspLibrarys/DevilHunters/EspLibrary.lua": [
+    {
+      "prototype": 1,
+      "index": 2
+    }
+  ],
+  "HttpGet": [
+    {
+      "prototype": 1,
+      "index": 3
+    }
+  ],
+  "https://raw.githubusercontent.com/ShowerMan/LinoriaLibFork/main/": [
+    {
+      "prototype": 1,
+      "index": 4
+    }
+  ],
+  "Library.lua": [
+    {
+      "prototype": 1,
+      "index": 5
+    }
+  ],
+  "addons/ThemeManager.lua": [
+    {
+      "prototype": 1,
+      "index": 6
+    }
+  ],
+  "addons/SaveManager.lua": [
+    {
+      "prototype": 1,
+      "index": 7
+    }
+  ],
+  "typeof": [
+    {
+      "prototype": 3,
+      "index": 0
+    }
+  ],
+  "Instance": [
+    {
+      "prototype": 3,
+      "index": 1
+    },
+    {
+      "prototype": 18,
+      "index": 0
+    },
+    {
+      "prototype": 33,
+      "index": 14
+    },
+    {
+      "prototype": 75,
+      "index": 1
+    },
+    {
+      "prototype": 143,
+      "index": 5
+    }
+  ],
+  "AbsolutePosition": [
+    {
+      "prototype": 3,
+      "index": 2
+    }
+  ],
+  "AbsoluteSize": [
+    {
+      "prototype": 3,
+      "index": 3
+    }
+  ],
+  "Y": [
+    {
+      "prototype": 3,
+      "index": 6
+    },
+    {
+      "prototype": 16,
+      "index": 10
+    },
+    {
+      "prototype": 80,
+      "index": 2
+    }
+  ],
+  "SendMouseButtonEvent": [
+    {
+      "prototype": 3,
+      "index": 7
+    }
+  ],
+  "GuiService": [
+    {
+      "prototype": 4,
+      "index": 1
+    }
+  ],
+  "SelectedObject": [
+    {
+      "prototype": 4,
+      "index": 3
+    }
+  ],
+  "wait": [
+    {
+      "prototype": 4,
+      "index": 5
+    },
+    {
+      "prototype": 7,
+      "index": 5
+    },
+    {
+      "prototype": 8,
+      "index": 18
+    },
+    {
+      "prototype": 11,
+      "index": 5
+    },
+    {
+      "prototype": 12,
+      "index": 15
+    },
+    {
+      "prototype": 13,
+      "index": 11
+    },
+    {
+      "prototype": 14,
+      "index": 21
+    },
+    {
+      "prototype": 15,
+      "index": 10
+    },
+    {
+      "prototype": 16,
+      "index": 21
+    },
+    {
+      "prototype": 17,
+      "index": 10
+    },
+    {
+      "prototype": 28,
+      "index": 1
+    },
+    {
+      "prototype": 29,
+      "index": 14
+    },
+    {
+      "prototype": 30,
+      "index": 24
+    },
+    {
+      "prototype": 32,
+      "index": 21
+    },
+    {
+      "prototype": 37,
+      "index": 3
+    },
+    {
+      "prototype": 38,
+      "index": 19
+    },
+    {
+      "prototype": 39,
+      "index": 24
+    },
+    {
+      "prototype": 40,
+      "index": 20
+    },
+    {
+      "prototype": 41,
+      "index": 20
+    },
+    {
+      "prototype": 43,
+      "index": 22
+    },
+    {
+      "prototype": 49,
+      "index": 32
+    },
+    {
+      "prototype": 52,
+      "index": 8
+    },
+    {
+      "prototype": 56,
+      "index": 30
+    },
+    {
+      "prototype": 58,
+      "index": 10
+    },
+    {
+      "prototype": 59,
+      "index": 10
+    },
+    {
+      "prototype": 60,
+      "index": 17
+    },
+    {
+      "prototype": 61,
+      "index": 19
+    },
+    {
+      "prototype": 62,
+      "index": 24
+    },
+    {
+      "prototype": 63,
+      "index": 24
+    },
+    {
+      "prototype": 64,
+      "index": 21
+    },
+    {
+      "prototype": 70,
+      "index": 13
+    },
+    {
+      "prototype": 73,
+      "index": 3
+    },
+    {
+      "prototype": 130,
+      "index": 6
+    },
+    {
+      "prototype": 136,
+      "index": 3
+    },
+    {
+      "prototype": 137,
+      "index": 3
+    },
+    {
+      "prototype": 138,
+      "index": 3
+    },
+    {
+      "prototype": 140,
+      "index": 3
+    },
+    {
+      "prototype": 142,
+      "index": 2
+    },
+    {
+      "prototype": 154,
+      "index": 19
+    }
+  ],
+  "SendKeyEvent": [
+    {
+      "prototype": 4,
+      "index": 7
+    }
+  ],
+  "Enum": [
+    {
+      "prototype": 4,
+      "index": 9
+    },
+    {
+      "prototype": 74,
+      "index": 4
+    },
+    {
+      "prototype": 75,
+      "index": 13
+    },
+    {
+      "prototype": 76,
+      "index": 7
+    }
+  ],
+  "Return": [
+    {
+      "prototype": 4,
+      "index": 10
+    }
+  ],
+  "KeyCode": [
+    {
+      "prototype": 4,
+      "index": 11
+    },
+    {
+      "prototype": 76,
+      "index": 9
+    }
+  ],
+  "Lerp": [
+    {
+      "prototype": 5,
+      "index": 2
+    }
+  ],
+  "table": [
+    {
+      "prototype": 5,
+      "index": 3
+    },
+    {
+      "prototype": 33,
+      "index": 12
+    },
+    {
+      "prototype": 45,
+      "index": 4
+    },
+    {
+      "prototype": 46,
+      "index": 6
+    },
+    {
+      "prototype": 48,
+      "index": 14
+    },
+    {
+      "prototype": 49,
+      "index": 14
+    },
+    {
+      "prototype": 54,
+      "index": 7
+    },
+    {
+      "prototype": 68,
+      "index": 6
+    },
+    {
+      "prototype": 69,
+      "index": 2
+    },
+    {
+      "prototype": 152,
+      "index": 4
+    },
+    {
+      "prototype": 154,
+      "index": 9
+    }
+  ],
+  "insert": [
+    {
+      "prototype": 5,
+      "index": 4
+    },
+    {
+      "prototype": 33,
+      "index": 13
+    },
+    {
+      "prototype": 54,
+      "index": 8
+    },
+    {
+      "prototype": 68,
+      "index": 7
+    },
+    {
+      "prototype": 69,
+      "index": 3
+    },
+    {
+      "prototype": 152,
+      "index": 5
+    },
+    {
+      "prototype": 154,
+      "index": 10
+    }
+  ],
+  "string": [
+    {
+      "prototype": 5,
+      "index": 5
+    },
+    {
+      "prototype": 48,
+      "index": 23
+    },
+    {
+      "prototype": 131,
+      "index": 14
+    },
+    {
+      "prototype": 143,
+      "index": 13
+    },
+    {
+      "prototype": 152,
+      "index": 3
+    }
+  ],
+  "format": [
+    {
+      "prototype": 5,
+      "index": 6
+    },
+    {
+      "prototype": 48,
+      "index": 24
+    },
+    {
+      "prototype": 131,
+      "index": 15
+    }
+  ],
+  "<font color=\"rgb(%d,%d,%d)\">%s</font>": [
+    {
+      "prototype": 5,
+      "index": 7
+    }
+  ],
+  "floor": [
+    {
+      "prototype": 5,
+      "index": 9
+    },
+    {
+      "prototype": 131,
+      "index": 19
+    }
+  ],
+  "R": [
+    {
+      "prototype": 5,
+      "index": 10
+    }
+  ],
+  "G": [
+    {
+      "prototype": 5,
+      "index": 12
+    }
+  ],
+  "B": [
+    {
+      "prototype": 5,
+      "index": 13
+    }
+  ],
+  "sub": [
+    {
+      "prototype": 5,
+      "index": 14
+    },
+    {
+      "prototype": 143,
+      "index": 22
+    }
+  ],
+  "concat": [
+    {
+      "prototype": 5,
+      "index": 15
+    }
+  ],
+  "SetText": [
+    {
+      "prototype": 6,
+      "index": 1
+    },
+    {
+      "prototype": 14,
+      "index": 6
+    }
+  ],
+  "Current Pos: ": [
+    {
+      "prototype": 6,
+      "index": 2
+    }
+  ],
+  "tostring": [
+    {
+      "prototype": 6,
+      "index": 3
+    },
+    {
+      "prototype": 32,
+      "index": 17
+    },
+    {
+      "prototype": 56,
+      "index": 28
+    },
+    {
+      "prototype": 136,
+      "index": 19
+    },
+    {
+      "prototype": 137,
+      "index": 19
+    },
+    {
+      "prototype": 138,
+      "index": 19
+    },
+    {
+      "prototype": 140,
+      "index": 17
+    },
+    {
+      "prototype": 152,
+      "index": 14
+    }
+  ],
+  "Health": [
+    {
+      "prototype": 7,
+      "index": 0
+    },
+    {
+      "prototype": 13,
+      "index": 2
+    },
+    {
+      "prototype": 33,
+      "index": 8
+    },
+    {
+      "prototype": 40,
+      "index": 10
+    },
+    {
+      "prototype": 41,
+      "index": 8
+    },
+    {
+      "prototype": 43,
+      "index": 8
+    }
+  ],
+  "Wait": [
+    {
+      "prototype": 7,
+      "index": 3
+    }
+  ],
+  "FireServer": [
+    {
+      "prototype": 7,
+      "index": 18
+    },
+    {
+      "prototype": 8,
+      "index": 9
+    },
+    {
+      "prototype": 29,
+      "index": 9
+    },
+    {
+      "prototype": 49,
+      "index": 26
+    },
+    {
+      "prototype": 50,
+      "index": 7
+    },
+    {
+      "prototype": 56,
+      "index": 26
+    },
+    {
+      "prototype": 58,
+      "index": 7
+    },
+    {
+      "prototype": 59,
+      "index": 7
+    },
+    {
+      "prototype": 60,
+      "index": 13
+    },
+    {
+      "prototype": 61,
+      "index": 7
+    },
+    {
+      "prototype": 62,
+      "index": 19
+    },
+    {
+      "prototype": 63,
+      "index": 19
+    },
+    {
+      "prototype": 130,
+      "index": 1
+    },
+    {
+      "prototype": 136,
+      "index": 14
+    },
+    {
+      "prototype": 137,
+      "index": 14
+    },
+    {
+      "prototype": 138,
+      "index": 14
+    },
+    {
+      "prototype": 140,
+      "index": 12
+    },
+    {
+      "prototype": 143,
+      "index": 8
+    }
+  ],
+  "Event": [
+    {
+      "prototype": 7,
+      "index": 19
+    },
+    {
+      "prototype": 8,
+      "index": 10
+    },
+    {
+      "prototype": 29,
+      "index": 10
+    },
+    {
+      "prototype": 49,
+      "index": 27
+    },
+    {
+      "prototype": 50,
+      "index": 8
+    },
+    {
+      "prototype": 60,
+      "index": 14
+    },
+    {
+      "prototype": 61,
+      "index": 8
+    },
+    {
+      "prototype": 62,
+      "index": 20
+    },
+    {
+      "prototype": 63,
+      "index": 20
+    },
+    {
+      "prototype": 130,
+      "index": 2
+    },
+    {
+      "prototype": 136,
+      "index": 15
+    },
+    {
+      "prototype": 137,
+      "index": 15
+    },
+    {
+      "prototype": 138,
+      "index": 15
+    },
+    {
+      "prototype": 140,
+      "index": 13
+    }
+  ],
+  "SkillController": [
+    {
+      "prototype": 7,
+      "index": 21
+    },
+    {
+      "prototype": 8,
+      "index": 12
+    },
+    {
+      "prototype": 136,
+      "index": 17
+    },
+    {
+      "prototype": 137,
+      "index": 17
+    },
+    {
+      "prototype": 138,
+      "index": 17
+    },
+    {
+      "prototype": 140,
+      "index": 15
+    }
+  ],
+  "Args": [
+    {
+      "prototype": 7,
+      "index": 22
+    },
+    {
+      "prototype": 8,
+      "index": 13
+    },
+    {
+      "prototype": 49,
+      "index": 29
+    },
+    {
+      "prototype": 50,
+      "index": 11
+    },
+    {
+      "prototype": 61,
+      "index": 11
+    },
+    {
+      "prototype": 136,
+      "index": 18
+    },
+    {
+      "prototype": 137,
+      "index": 18
+    },
+    {
+      "prototype": 138,
+      "index": 18
+    },
+    {
+      "prototype": 140,
+      "index": 16
+    }
+  ],
+  "End": [
+    {
+      "prototype": 7,
+      "index": 24
+    },
+    {
+      "prototype": 8,
+      "index": 15
+    },
+    {
+      "prototype": 136,
+      "index": 20
+    },
+    {
+      "prototype": 137,
+      "index": 20
+    },
+    {
+      "prototype": 138,
+      "index": 20
+    },
+    {
+      "prototype": 140,
+      "index": 18
+    }
+  ],
+  "InvokeServer": [
+    {
+      "prototype": 11,
+      "index": 14
+    },
+    {
+      "prototype": 12,
+      "index": 12
+    },
+    {
+      "prototype": 32,
+      "index": 14
+    },
+    {
+      "prototype": 57,
+      "index": 0
+    },
+    {
+      "prototype": 153,
+      "index": 0
+    },
+    {
+      "prototype": 155,
+      "index": 0
+    }
+  ],
+  "RequestCreateParty": [
+    {
+      "prototype": 11,
+      "index": 15
+    }
+  ],
+  "InviteParty": [
+    {
+      "prototype": 11,
+      "index": 20
+    }
+  ],
+  "workspace": [
+    {
+      "prototype": 11,
+      "index": 21
+    },
+    {
+      "prototype": 14,
+      "index": 0
+    },
+    {
+      "prototype": 16,
+      "index": 1
+    },
+    {
+      "prototype": 17,
+      "index": 1
+    },
+    {
+      "prototype": 20,
+      "index": 1
+    },
+    {
+      "prototype": 21,
+      "index": 1
+    },
+    {
+      "prototype": 28,
+      "index": 5
+    },
+    {
+      "prototype": 40,
+      "index": 1
+    },
+    {
+      "prototype": 41,
+      "index": 1
+    },
+    {
+      "prototype": 43,
+      "index": 1
+    },
+    {
+      "prototype": 54,
+      "index": 1
+    },
+    {
+      "prototype": 55,
+      "index": 2
+    },
+    {
+      "prototype": 62,
+      "index": 1
+    },
+    {
+      "prototype": 63,
+      "index": 1
+    },
+    {
+      "prototype": 64,
+      "index": 3
+    },
+    {
+      "prototype": 76,
+      "index": 0
+    }
+  ],
+  "Dialog": [
+    {
+      "prototype": 11,
+      "index": 22
+    },
+    {
+      "prototype": 16,
+      "index": 6
+    },
+    {
+      "prototype": 54,
+      "index": 2
+    },
+    {
+      "prototype": 55,
+      "index": 3
+    }
+  ],
+  "World": [
+    {
+      "prototype": 11,
+      "index": 23
+    },
+    {
+      "prototype": 14,
+      "index": 10
+    },
+    {
+      "prototype": 17,
+      "index": 3
+    },
+    {
+      "prototype": 20,
+      "index": 3
+    },
+    {
+      "prototype": 28,
+      "index": 7
+    },
+    {
+      "prototype": 30,
+      "index": 5
+    },
+    {
+      "prototype": 33,
+      "index": 4
+    },
+    {
+      "prototype": 34,
+      "index": 5
+    },
+    {
+      "prototype": 37,
+      "index": 13
+    },
+    {
+      "prototype": 38,
+      "index": 27
+    },
+    {
+      "prototype": 40,
+      "index": 3
+    },
+    {
+      "prototype": 41,
+      "index": 3
+    },
+    {
+      "prototype": 43,
+      "index": 3
+    },
+    {
+      "prototype": 54,
+      "index": 3
+    },
+    {
+      "prototype": 55,
+      "index": 4
+    },
+    {
+      "prototype": 62,
+      "index": 3
+    },
+    {
+      "prototype": 63,
+      "index": 3
+    },
+    {
+      "prototype": 64,
+      "index": 5
+    }
+  ],
+  "fireproximityprompt": [
+    {
+      "prototype": 11,
+      "index": 27
+    },
+    {
+      "prototype": 14,
+      "index": 28
+    },
+    {
+      "prototype": 16,
+      "index": 23
+    },
+    {
+      "prototype": 37,
+      "index": 31
+    },
+    {
+      "prototype": 38,
+      "index": 22
+    }
+  ],
+  "PlayerGui": [
+    {
+      "prototype": 11,
+      "index": 28
+    },
+    {
+      "prototype": 56,
+      "index": 7
+    },
+    {
+      "prototype": 65,
+      "index": 5
+    },
+    {
+      "prototype": 66,
+      "index": 5
+    },
+    {
+      "prototype": 67,
+      "index": 5
+    }
+  ],
+  "EnterRaid": [
+    {
+      "prototype": 11,
+      "index": 30
+    }
+  ],
+  "Enter": [
+    {
+      "prototype": 11,
+      "index": 31
+    }
+  ],
+  "Frame": [
+    {
+      "prototype": 11,
+      "index": 32
+    }
+  ],
+  "AcceptInvite": [
+    {
+      "prototype": 12,
+      "index": 13
+    }
+  ],
+  "MaxHealth": [
+    {
+      "prototype": 13,
+      "index": 3
+    }
+  ],
+  "Vector3": [
+    {
+      "prototype": 13,
+      "index": 7
+    },
+    {
+      "prototype": 14,
+      "index": 14
+    },
+    {
+      "prototype": 16,
+      "index": 16
+    },
+    {
+      "prototype": 22,
+      "index": 1
+    },
+    {
+      "prototype": 23,
+      "index": 1
+    },
+    {
+      "prototype": 30,
+      "index": 20
+    },
+    {
+      "prototype": 37,
+      "index": 27
+    },
+    {
+      "prototype": 39,
+      "index": 18
+    },
+    {
+      "prototype": 43,
+      "index": 18
+    },
+    {
+      "prototype": 55,
+      "index": 10
+    },
+    {
+      "prototype": 70,
+      "index": 8
+    },
+    {
+      "prototype": 75,
+      "index": 5
+    },
+    {
+      "prototype": 76,
+      "index": 2
+    },
+    {
+      "prototype": 80,
+      "index": 6
+    }
+  ],
+  "Map": [
+    {
+      "prototype": 14,
+      "index": 1
+    },
+    {
+      "prototype": 16,
+      "index": 2
+    },
+    {
+      "prototype": 21,
+      "index": 2
+    },
+    {
+      "prototype": 34,
+      "index": 1
+    }
+  ],
+  "pairs": [
+    {
+      "prototype": 14,
+      "index": 2
+    },
+    {
+      "prototype": 16,
+      "index": 0
+    },
+    {
+      "prototype": 17,
+      "index": 0
+    },
+    {
+      "prototype": 20,
+      "index": 0
+    },
+    {
+      "prototype": 21,
+      "index": 0
+    },
+    {
+      "prototype": 30,
+      "index": 3
+    },
+    {
+      "prototype": 33,
+      "index": 2
+    },
+    {
+      "prototype": 36,
+      "index": 3
+    },
+    {
+      "prototype": 37,
+      "index": 35
+    },
+    {
+      "prototype": 38,
+      "index": 12
+    },
+    {
+      "prototype": 40,
+      "index": 0
+    },
+    {
+      "prototype": 41,
+      "index": 0
+    },
+    {
+      "prototype": 43,
+      "index": 0
+    },
+    {
+      "prototype": 48,
+      "index": 12
+    },
+    {
+      "prototype": 49,
+      "index": 12
+    },
+    {
+      "prototype": 54,
+      "index": 0
+    },
+    {
+      "prototype": 56,
+      "index": 22
+    },
+    {
+      "prototype": 60,
+      "index": 1
+    },
+    {
+      "prototype": 62,
+      "index": 0
+    },
+    {
+      "prototype": 63,
+      "index": 0
+    },
+    {
+      "prototype": 64,
+      "index": 2
+    },
+    {
+      "prototype": 68,
+      "index": 4
+    },
+    {
+      "prototype": 69,
+      "index": 0
+    },
+    {
+      "prototype": 72,
+      "index": 2
+    },
+    {
+      "prototype": 74,
+      "index": 3
+    },
+    {
+      "prototype": 75,
+      "index": 12
+    },
+    {
+      "prototype": 152,
+      "index": 1
+    },
+    {
+      "prototype": 154,
+      "index": 7
+    }
+  ],
+  "GetChildren": [
+    {
+      "prototype": 14,
+      "index": 3
+    },
+    {
+      "prototype": 16,
+      "index": 3
+    },
+    {
+      "prototype": 17,
+      "index": 4
+    },
+    {
+      "prototype": 20,
+      "index": 4
+    },
+    {
+      "prototype": 21,
+      "index": 3
+    },
+    {
+      "prototype": 30,
+      "index": 6
+    },
+    {
+      "prototype": 33,
+      "index": 5
+    },
+    {
+      "prototype": 36,
+      "index": 4
+    },
+    {
+      "prototype": 37,
+      "index": 36
+    },
+    {
+      "prototype": 38,
+      "index": 13
+    },
+    {
+      "prototype": 40,
+      "index": 4
+    },
+    {
+      "prototype": 41,
+      "index": 4
+    },
+    {
+      "prototype": 43,
+      "index": 4
+    },
+    {
+      "prototype": 44,
+      "index": 4
+    },
+    {
+      "prototype": 54,
+      "index": 4
+    },
+    {
+      "prototype": 56,
+      "index": 23
+    },
+    {
+      "prototype": 60,
+      "index": 2
+    },
+    {
+      "prototype": 62,
+      "index": 4
+    },
+    {
+      "prototype": 63,
+      "index": 4
+    },
+    {
+      "prototype": 64,
+      "index": 6
+    },
+    {
+      "prototype": 68,
+      "index": 5
+    }
+  ],
+  "Elevatorzone": [
+    {
+      "prototype": 14,
+      "index": 4
+    }
+  ],
+  "Current Floor: ": [
+    {
+      "prototype": 14,
+      "index": 7
+    }
+  ],
+  "Entities": [
+    {
+      "prototype": 14,
+      "index": 9
+    },
+    {
+      "prototype": 28,
+      "index": 6
+    },
+    {
+      "prototype": 30,
+      "index": 4
+    },
+    {
+      "prototype": 33,
+      "index": 3
+    },
+    {
+      "prototype": 38,
+      "index": 26
+    },
+    {
+      "prototype": 40,
+      "index": 2
+    },
+    {
+      "prototype": 41,
+      "index": 2
+    },
+    {
+      "prototype": 43,
+      "index": 2
+    },
+    {
+      "prototype": 62,
+      "index": 2
+    },
+    {
+      "prototype": 63,
+      "index": 2
+    },
+    {
+      "prototype": 64,
+      "index": 4
+    }
+  ],
+  "Prompt": [
+    {
+      "prototype": 14,
+      "index": 23
+    },
+    {
+      "prototype": 37,
+      "index": 23
+    },
+    {
+      "prototype": 38,
+      "index": 21
+    }
+  ],
+  "ProximityPrompt": [
+    {
+      "prototype": 14,
+      "index": 24
+    }
+  ],
+  "FindFirstChildOfClass": [
+    {
+      "prototype": 14,
+      "index": 25
+    }
+  ],
+  "GetDescendants": [
+    {
+      "prototype": 14,
+      "index": 26
+    },
+    {
+      "prototype": 72,
+      "index": 3
+    }
+  ],
+  "IsA": [
+    {
+      "prototype": 14,
+      "index": 27
+    },
+    {
+      "prototype": 37,
+      "index": 22
+    },
+    {
+      "prototype": 38,
+      "index": 36
+    },
+    {
+      "prototype": 39,
+      "index": 13
+    },
+    {
+      "prototype": 44,
+      "index": 10
+    },
+    {
+      "prototype": 54,
+      "index": 6
+    },
+    {
+      "prototype": 72,
+      "index": 5
+    }
+  ],
+  "SetValue": [
+    {
+      "prototype": 15,
+      "index": 3
+    },
+    {
+      "prototype": 27,
+      "index": 3
+    },
+    {
+      "prototype": 38,
+      "index": 24
+    },
+    {
+      "prototype": 78,
+      "index": 1
+    },
+    {
+      "prototype": 150,
+      "index": 6
+    },
+    {
+      "prototype": 152,
+      "index": 10
+    }
+  ],
+  "doors": [
+    {
+      "prototype": 16,
+      "index": 5
+    }
+  ],
+  "abs": [
+    {
+      "prototype": 16,
+      "index": 9
+    }
+  ],
+  "lookAt": [
+    {
+      "prototype": 16,
+      "index": 15
+    },
+    {
+      "prototype": 70,
+      "index": 6
+    }
+  ],
+  "Effects": [
+    {
+      "prototype": 17,
+      "index": 2
+    },
+    {
+      "prototype": 20,
+      "index": 2
+    },
+    {
+      "prototype": 37,
+      "index": 15
+    }
+  ],
+  "Key": [
+    {
+      "prototype": 17,
+      "index": 6
+    },
+    {
+      "prototype": 20,
+      "index": 6
+    }
+  ],
+  "Destroy": [
+    {
+      "prototype": 17,
+      "index": 12
+    },
+    {
+      "prototype": 19,
+      "index": 0
+    },
+    {
+      "prototype": 74,
+      "index": 2
+    }
+  ],
+  "Highlight": [
+    {
+      "prototype": 18,
+      "index": 2
+    }
+  ],
+  "Adornee": [
+    {
+      "prototype": 18,
+      "index": 3
+    }
+  ],
+  "FillColor": [
+    {
+      "prototype": 18,
+      "index": 4
+    }
+  ],
+  "OutlineColor": [
+    {
+      "prototype": 18,
+      "index": 10
+    }
+  ],
+  "FillTransparency": [
+    {
+      "prototype": 18,
+      "index": 11
+    }
+  ],
+  "OutlineTransparency": [
+    {
+      "prototype": 18,
+      "index": 13
+    }
+  ],
+  "Parent": [
+    {
+      "prototype": 18,
+      "index": 14
+    },
+    {
+      "prototype": 52,
+      "index": 6
+    },
+    {
+      "prototype": 64,
+      "index": 19
+    },
+    {
+      "prototype": 75,
+      "index": 9
+    }
+  ],
+  "Safe": [
+    {
+      "prototype": 21,
+      "index": 5
+    }
+  ],
+  "GetPivot": [
+    {
+      "prototype": 21,
+      "index": 7
+    },
+    {
+      "prototype": 28,
+      "index": 12
+    },
+    {
+      "prototype": 55,
+      "index": 8
+    }
+  ],
+  "PunchingBag1": [
+    {
+      "prototype": 28,
+      "index": 9
+    }
+  ],
+  "Block": [
+    {
+      "prototype": 29,
+      "index": 12
+    },
+    {
+      "prototype": 130,
+      "index": 4
+    }
+  ],
+  "Unblock": [
+    {
+      "prototype": 29,
+      "index": 16
+    },
+    {
+      "prototype": 130,
+      "index": 9
+    }
+  ],
+  "match": [
+    {
+      "prototype": 30,
+      "index": 12
+    },
+    {
+      "prototype": 38,
+      "index": 29
+    },
+    {
+      "prototype": 40,
+      "index": 6
+    },
+    {
+      "prototype": 44,
+      "index": 7
+    },
+    {
+      "prototype": 143,
+      "index": 24
+    }
+  ],
+  "^%x+-%x+-%x+-%x+-%x+$": [
+    {
+      "prototype": 30,
+      "index": 13
+    },
+    {
+      "prototype": 38,
+      "index": 30
+    },
+    {
+      "prototype": 40,
+      "index": 7
+    }
+  ],
+  "Magnitude": [
+    {
+      "prototype": 30,
+      "index": 17
+    },
+    {
+      "prototype": 37,
+      "index": 41
+    },
+    {
+      "prototype": 38,
+      "index": 15
+    },
+    {
+      "prototype": 40,
+      "index": 14
+    },
+    {
+      "prototype": 41,
+      "index": 13
+    },
+    {
+      "prototype": 43,
+      "index": 12
+    },
+    {
+      "prototype": 62,
+      "index": 9
+    },
+    {
+      "prototype": 63,
+      "index": 9
+    },
+    {
+      "prototype": 64,
+      "index": 11
+    },
+    {
+      "prototype": 76,
+      "index": 23
+    },
+    {
+      "prototype": 131,
+      "index": 9
+    }
+  ],
+  "InMission": [
+    {
+      "prototype": 32,
+      "index": 6
+    },
+    {
+      "prototype": 33,
+      "index": 1
+    },
+    {
+      "prototype": 37,
+      "index": 9
+    },
+    {
+      "prototype": 38,
+      "index": 6
+    },
+    {
+      "prototype": 39,
+      "index": 6
+    }
+  ],
+  "GetAttribute": [
+    {
+      "prototype": 32,
+      "index": 7
+    },
+    {
+      "prototype": 33,
+      "index": 0
+    },
+    {
+      "prototype": 37,
+      "index": 8
+    },
+    {
+      "prototype": 38,
+      "index": 5
+    },
+    {
+      "prototype": 39,
+      "index": 5
+    },
+    {
+      "prototype": 44,
+      "index": 12
+    },
+    {
+      "prototype": 62,
+      "index": 6
+    },
+    {
+      "prototype": 63,
+      "index": 6
+    },
+    {
+      "prototype": 64,
+      "index": 8
+    }
+  ],
+  "OverworldMissions": [
+    {
+      "prototype": 32,
+      "index": 15
+    },
+    {
+      "prototype": 155,
+      "index": 1
+    }
+  ],
+  "Identification": [
+    {
+      "prototype": 32,
+      "index": 16
+    },
+    {
+      "prototype": 155,
+      "index": 2
+    }
+  ],
+  "Request": [
+    {
+      "prototype": 32,
+      "index": 18
+    },
+    {
+      "prototype": 155,
+      "index": 5
+    }
+  ],
+  "PrimaryPart": [
+    {
+      "prototype": 33,
+      "index": 11
+    },
+    {
+      "prototype": 39,
+      "index": 14
+    }
+  ],
+  "Root": [
+    {
+      "prototype": 33,
+      "index": 15
+    }
+  ],
+  "Pos": [
+    {
+      "prototype": 33,
+      "index": 16
+    }
+  ],
+  "Aftermath Detail_": [
+    {
+      "prototype": 34,
+      "index": 3
+    }
+  ],
+  "Missions": [
+    {
+      "prototype": 34,
+      "index": 4
+    }
+  ],
+  "Transparency": [
+    {
+      "prototype": 35,
+      "index": 0
+    },
+    {
+      "prototype": 36,
+      "index": 5
+    },
+    {
+      "prototype": 87,
+      "index": 3
+    },
+    {
+      "prototype": 88,
+      "index": 3
+    },
+    {
+      "prototype": 89,
+      "index": 3
+    },
+    {
+      "prototype": 93,
+      "index": 3
+    },
+    {
+      "prototype": 106,
+      "index": 3
+    },
+    {
+      "prototype": 109,
+      "index": 0
+    },
+    {
+      "prototype": 110,
+      "index": 8
+    },
+    {
+      "prototype": 116,
+      "index": 3
+    },
+    {
+      "prototype": 117,
+      "index": 3
+    },
+    {
+      "prototype": 118,
+      "index": 3
+    },
+    {
+      "prototype": 127,
+      "index": 7
+    },
+    {
+      "prototype": 128,
+      "index": 7
+    }
+  ],
+  "CleanUp": [
+    {
+      "prototype": 36,
+      "index": 2
+    },
+    {
+      "prototype": 38,
+      "index": 11
+    }
+  ],
+  "CleanupDutyItem": [
+    {
+      "prototype": 37,
+      "index": 16
+    }
+  ],
+  "Tube": [
+    {
+      "prototype": 37,
+      "index": 17
+    }
+  ],
+  "TurnIn": [
+    {
+      "prototype": 37,
+      "index": 18
+    }
+  ],
+  "Residential Area": [
+    {
+      "prototype": 37,
+      "index": 19
+    }
+  ],
+  "Commercial District": [
+    {
+      "prototype": 37,
+      "index": 20
+    }
+  ],
+  "BasePart": [
+    {
+      "prototype": 37,
+      "index": 21
+    },
+    {
+      "prototype": 38,
+      "index": 35
+    },
+    {
+      "prototype": 39,
+      "index": 17
+    },
+    {
+      "prototype": 72,
+      "index": 4
+    }
+  ],
+  "huge": [
+    {
+      "prototype": 37,
+      "index": 34
+    }
+  ],
+  "TomatoDevil": [
+    {
+      "prototype": 37,
+      "index": 38
+    }
+  ],
+  "Model": [
+    {
+      "prototype": 37,
+      "index": 39
+    },
+    {
+      "prototype": 39,
+      "index": 12
+    },
+    {
+      "prototype": 54,
+      "index": 5
+    }
+  ],
+  "RootPart": [
+    {
+      "prototype": 37,
+      "index": 40
+    }
+  ],
+  "Carrying": [
+    {
+      "prototype": 38,
+      "index": 32
+    },
+    {
+      "prototype": 62,
+      "index": 11
+    }
+  ],
+  "Spawns": [
+    {
+      "prototype": 38,
+      "index": 33
+    }
+  ],
+  "DropOff": [
+    {
+      "prototype": 38,
+      "index": 34
+    }
+  ],
+  "PointCapture": [
+    {
+      "prototype": 39,
+      "index": 11
+    }
+  ],
+  "GetBoundingBox": [
+    {
+      "prototype": 39,
+      "index": 16
+    }
+  ],
+  "isnetworkowner": [
+    {
+      "prototype": 40,
+      "index": 18
+    },
+    {
+      "prototype": 41,
+      "index": 17
+    },
+    {
+      "prototype": 43,
+      "index": 16
+    }
+  ],
+  "JumpPower": [
+    {
+      "prototype": 41,
+      "index": 18
+    }
+  ],
+  "sethiddenproperty": [
+    {
+      "prototype": 42,
+      "index": 0
+    }
+  ],
+  "SimulationRadius": [
+    {
+      "prototype": 42,
+      "index": 4
+    }
+  ],
+  "MaxSimulationRadius": [
+    {
+      "prototype": 42,
+      "index": 6
+    }
+  ],
+  "Backpack": [
+    {
+      "prototype": 44,
+      "index": 1
+    },
+    {
+      "prototype": 52,
+      "index": 5
+    },
+    {
+      "prototype": 64,
+      "index": 17
+    },
+    {
+      "prototype": 68,
+      "index": 3
+    }
+  ],
+  "ipairs": [
+    {
+      "prototype": 44,
+      "index": 3
+    },
+    {
+      "prototype": 45,
+      "index": 0
+    },
+    {
+      "prototype": 48,
+      "index": 15
+    },
+    {
+      "prototype": 143,
+      "index": 20
+    }
+  ],
+  "ID$": [
+    {
+      "prototype": 44,
+      "index": 6
+    }
+  ],
+  "uuid": [
+    {
+      "prototype": 44,
+      "index": 8
+    }
+  ],
+  "StringValue": [
+    {
+      "prototype": 44,
+      "index": 9
+    }
+  ],
+  "ID": [
+    {
+      "prototype": 44,
+      "index": 11
+    },
+    {
+      "prototype": 49,
+      "index": 30
+    }
+  ],
+  "Id": [
+    {
+      "prototype": 44,
+      "index": 14
+    },
+    {
+      "prototype": 48,
+      "index": 16
+    },
+    {
+      "prototype": 49,
+      "index": 17
+    }
+  ],
+  "getgc": [
+    {
+      "prototype": 45,
+      "index": 1
+    }
+  ],
+  "type": [
+    {
+      "prototype": 45,
+      "index": 3
+    },
+    {
+      "prototype": 46,
+      "index": 5
+    },
+    {
+      "prototype": 48,
+      "index": 13
+    },
+    {
+      "prototype": 49,
+      "index": 13
+    },
+    {
+      "prototype": 152,
+      "index": 2
+    }
+  ],
+  "pcall": [
+    {
+      "prototype": 45,
+      "index": 5
+    },
+    {
+      "prototype": 56,
+      "index": 33
+    },
+    {
+      "prototype": 142,
+      "index": 4
+    },
+    {
+      "prototype": 143,
+      "index": 12
+    },
+    {
+      "prototype": 152,
+      "index": 0
+    },
+    {
+      "prototype": 154,
+      "index": 11
+    }
+  ],
+  "Data": [
+    {
+      "prototype": 46,
+      "index": 0
+    },
+    {
+      "prototype": 48,
+      "index": 17
+    },
+    {
+      "prototype": 49,
+      "index": 18
+    }
+  ],
+  "Slots": [
+    {
+      "prototype": 46,
+      "index": 1
+    }
+  ],
+  "Items": [
+    {
+      "prototype": 46,
+      "index": 4
+    }
+  ],
+  "Notify": [
+    {
+      "prototype": 48,
+      "index": 3
+    },
+    {
+      "prototype": 49,
+      "index": 3
+    },
+    {
+      "prototype": 54,
+      "index": 13
+    },
+    {
+      "prototype": 55,
+      "index": 13
+    },
+    {
+      "prototype": 68,
+      "index": 12
+    },
+    {
+      "prototype": 69,
+      "index": 8
+    },
+    {
+      "prototype": 131,
+      "index": 20
+    },
+    {
+      "prototype": 150,
+      "index": 7
+    },
+    {
+      "prototype": 152,
+      "index": 12
+    }
+  ],
+  "Please select a rarity first.": [
+    {
+      "prototype": 48,
+      "index": 4
+    },
+    {
+      "prototype": 49,
+      "index": 4
+    }
+  ],
+  "Failed to find player inventory data.": [
+    {
+      "prototype": 48,
+      "index": 6
+    }
+  ],
+  "print": [
+    {
+      "prototype": 48,
+      "index": 7
+    },
+    {
+      "prototype": 52,
+      "index": 10
+    },
+    {
+      "prototype": 56,
+      "index": 34
+    }
+  ],
+  "──────────────────────────────────────────────": [
+    {
+      "prototype": 48,
+      "index": 8
+    }
+  ],
+  "Potential items to discard (rarity: ": [
+    {
+      "prototype": 48,
+      "index": 9
+    }
+  ],
+  ")": [
+    {
+      "prototype": 48,
+      "index": 10
+    },
+    {
+      "prototype": 143,
+      "index": 18
+    }
+  ],
+  "Rarity": [
+    {
+      "prototype": 48,
+      "index": 18
+    },
+    {
+      "prototype": 49,
+      "index": 19
+    }
+  ],
+  "Unknown": [
+    {
+      "prototype": 48,
+      "index": 19
+    }
+  ],
+  "Unnamed": [
+    {
+      "prototype": 48,
+      "index": 22
+    }
+  ],
+  "ID: %s   →   %s   (category: %s)": [
+    {
+      "prototype": 48,
+      "index": 25
+    }
+  ],
+  "Found ": [
+    {
+      "prototype": 48,
+      "index": 26
+    },
+    {
+      "prototype": 54,
+      "index": 14
+    },
+    {
+      "prototype": 68,
+      "index": 13
+    },
+    {
+      "prototype": 69,
+      "index": 9
+    }
+  ],
+  " items matching rarity: ": [
+    {
+      "prototype": 48,
+      "index": 27
+    }
+  ],
+  "Check console → ": [
+    {
+      "prototype": 48,
+      "index": 28
+    }
+  ],
+  " potential items listed.": [
+    {
+      "prototype": 48,
+      "index": 29
+    }
+  ],
+  "Cannot find inventory data. Aborted.": [
+    {
+      "prototype": 49,
+      "index": 6
+    }
+  ],
+  "Starting discard of ": [
+    {
+      "prototype": 49,
+      "index": 10
+    }
+  ],
+  " items...": [
+    {
+      "prototype": 49,
+      "index": 11
+    }
+  ],
+  "Unknown Item": [
+    {
+      "prototype": 49,
+      "index": 21
+    }
+  ],
+  "DiscardItem": [
+    {
+      "prototype": 49,
+      "index": 28
+    }
+  ],
+  "Finished! Discarded ": [
+    {
+      "prototype": 49,
+      "index": 33
+    }
+  ],
+  " items.": [
+    {
+      "prototype": 49,
+      "index": 34
+    }
+  ],
+  "SettingsEvent": [
+    {
+      "prototype": 50,
+      "index": 10
+    },
+    {
+      "prototype": 61,
+      "index": 10
+    }
+  ],
+  "Keybinds": [
+    {
+      "prototype": 50,
+      "index": 13
+    }
+  ],
+  "Value1": [
+    {
+      "prototype": 50,
+      "index": 14
+    }
+  ],
+  "ÿ": [
+    {
+      "prototype": 50,
+      "index": 15
+    }
+  ],
+  "Activate": [
+    {
+      "prototype": 52,
+      "index": 4
+    },
+    {
+      "prototype": 64,
+      "index": 16
+    }
+  ],
+  "the item is no more": [
+    {
+      "prototype": 52,
+      "index": 11
+    }
+  ],
+  "sort": [
+    {
+      "prototype": 54,
+      "index": 10
+    },
+    {
+      "prototype": 68,
+      "index": 9
+    },
+    {
+      "prototype": 69,
+      "index": 5
+    },
+    {
+      "prototype": 152,
+      "index": 6
+    }
+  ],
+  "SetValues": [
+    {
+      "prototype": 54,
+      "index": 12
+    },
+    {
+      "prototype": 68,
+      "index": 11
+    },
+    {
+      "prototype": 69,
+      "index": 7
+    },
+    {
+      "prototype": 152,
+      "index": 9
+    }
+  ],
+  " Npc(s)": [
+    {
+      "prototype": 54,
+      "index": 15
+    }
+  ],
+  "Select an npc first": [
+    {
+      "prototype": 55,
+      "index": 14
+    }
+  ],
+  "Lootboxes": [
+    {
+      "prototype": 56,
+      "index": 4
+    }
+  ],
+  "Phone": [
+    {
+      "prototype": 56,
+      "index": 5
+    }
+  ],
+  "HUD": [
+    {
+      "prototype": 56,
+      "index": 6
+    }
+  ],
+  "List": [
+    {
+      "prototype": 56,
+      "index": 11
+    }
+  ],
+  "Lootbox": [
+    {
+      "prototype": 56,
+      "index": 12
+    }
+  ],
+  "OnScreenEffects": [
+    {
+      "prototype": 56,
+      "index": 13
+    }
+  ],
+  "ScrollingFrame": [
+    {
+      "prototype": 56,
+      "index": 14
+    }
+  ],
+  "LootboxRemote": [
+    {
+      "prototype": 56,
+      "index": 16
+    }
+  ],
+  "UIListLayout": [
+    {
+      "prototype": 56,
+      "index": 25
+    }
+  ],
+  "Take": [
+    {
+      "prototype": 56,
+      "index": 27
+    }
+  ],
+  "Opened box:": [
+    {
+      "prototype": 56,
+      "index": 35
+    }
+  ],
+  "RequestLootboxOpen": [
+    {
+      "prototype": 57,
+      "index": 1
+    }
+  ],
+  "UnreliableRemoteEvent": [
+    {
+      "prototype": 58,
+      "index": 3
+    },
+    {
+      "prototype": 59,
+      "index": 3
+    }
+  ],
+  "M1": [
+    {
+      "prototype": 58,
+      "index": 8
+    }
+  ],
+  "Critical": [
+    {
+      "prototype": 59,
+      "index": 8
+    }
+  ],
+  "WeaponInteract": [
+    {
+      "prototype": 60,
+      "index": 15
+    }
+  ],
+  "SoundVolume": [
+    {
+      "prototype": 61,
+      "index": 15
+    }
+  ],
+  "Dash": [
+    {
+      "prototype": 61,
+      "index": 16
+    }
+  ],
+  "Knocked": [
+    {
+      "prototype": 62,
+      "index": 5
+    },
+    {
+      "prototype": 63,
+      "index": 5
+    },
+    {
+      "prototype": 64,
+      "index": 7
+    }
+  ],
+  "Carry": [
+    {
+      "prototype": 62,
+      "index": 22
+    }
+  ],
+  "PerformingGrip": [
+    {
+      "prototype": 63,
+      "index": 11
+    },
+    {
+      "prototype": 64,
+      "index": 13
+    }
+  ],
+  "Grip": [
+    {
+      "prototype": 63,
+      "index": 22
+    }
+  ],
+  "Surgery Kit": [
+    {
+      "prototype": 64,
+      "index": 14
+    }
+  ],
+  "FinFirstChild": [
+    {
+      "prototype": 64,
+      "index": 15
+    }
+  ],
+  "PawnShop": [
+    {
+      "prototype": 65,
+      "index": 4
+    }
+  ],
+  "Blackmarket": [
+    {
+      "prototype": 66,
+      "index": 4
+    }
+  ],
+  "CraftingMenu": [
+    {
+      "prototype": 67,
+      "index": 4
+    }
+  ],
+  " Items": [
+    {
+      "prototype": 68,
+      "index": 14
+    }
+  ],
+  " Players": [
+    {
+      "prototype": 69,
+      "index": 10
+    }
+  ],
+  "Disconnect": [
+    {
+      "prototype": 71,
+      "index": 0
+    },
+    {
+      "prototype": 74,
+      "index": 1
+    }
+  ],
+  "Stepped": [
+    {
+      "prototype": 71,
+      "index": 1
+    }
+  ],
+  "CanCollide": [
+    {
+      "prototype": 72,
+      "index": 6
+    }
+  ],
+  "HumanoidStateType": [
+    {
+      "prototype": 74,
+      "index": 5
+    },
+    {
+      "prototype": 75,
+      "index": 14
+    }
+  ],
+  "GetEnumItems": [
+    {
+      "prototype": 74,
+      "index": 6
+    },
+    {
+      "prototype": 75,
+      "index": 15
+    }
+  ],
+  "None": [
+    {
+      "prototype": 74,
+      "index": 7
+    },
+    {
+      "prototype": 75,
+      "index": 16
+    }
+  ],
+  "SetStateEnabled": [
+    {
+      "prototype": 74,
+      "index": 8
+    },
+    {
+      "prototype": 75,
+      "index": 17
+    }
+  ],
+  "BodyVelocity": [
+    {
+      "prototype": 75,
+      "index": 3
+    }
+  ],
+  "Velocity": [
+    {
+      "prototype": 75,
+      "index": 4
+    },
+    {
+      "prototype": 76,
+      "index": 22
+    }
+  ],
+  "zero": [
+    {
+      "prototype": 75,
+      "index": 6
+    },
+    {
+      "prototype": 76,
+      "index": 3
+    }
+  ],
+  "MaxForce": [
+    {
+      "prototype": 75,
+      "index": 7
+    }
+  ],
+  "BodyGyro": [
+    {
+      "prototype": 75,
+      "index": 10
+    }
+  ],
+  "MaxTorque": [
+    {
+      "prototype": 75,
+      "index": 11
+    }
+  ],
+  "CurrentCamera": [
+    {
+      "prototype": 76,
+      "index": 1
+    }
+  ],
+  "UserInputService": [
+    {
+      "prototype": 76,
+      "index": 6
+    }
+  ],
+  "W": [
+    {
+      "prototype": 76,
+      "index": 8
+    }
+  ],
+  "IsKeyDown": [
+    {
+      "prototype": 76,
+      "index": 10
+    }
+  ],
+  "LookVector": [
+    {
+      "prototype": 76,
+      "index": 11
+    }
+  ],
+  "S": [
+    {
+      "prototype": 76,
+      "index": 13
+    }
+  ],
+  "A": [
+    {
+      "prototype": 76,
+      "index": 14
+    }
+  ],
+  "RightVector": [
+    {
+      "prototype": 76,
+      "index": 15
+    }
+  ],
+  "D": [
+    {
+      "prototype": 76,
+      "index": 16
+    }
+  ],
+  "Space": [
+    {
+      "prototype": 76,
+      "index": 17
+    }
+  ],
+  "LeftControl": [
+    {
+      "prototype": 76,
+      "index": 21
+    }
+  ],
+  "Unit": [
+    {
+      "prototype": 76,
+      "index": 24
+    }
+  ],
+  "TeamCheck": [
+    {
+      "prototype": 82,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 4
+    }
+  ],
+  "BoxType": [
+    {
+      "prototype": 84,
+      "index": 0
+    },
+    {
+      "prototype": 113,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 7
+    }
+  ],
+  "Healthbar_Position": [
+    {
+      "prototype": 86,
+      "index": 0
+    },
+    {
+      "prototype": 115,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 10
+    }
+  ],
+  "Healthbar_High": [
+    {
+      "prototype": 87,
+      "index": 0
+    },
+    {
+      "prototype": 116,
+      "index": 0
+    }
+  ],
+  "Color": [
+    {
+      "prototype": 87,
+      "index": 2
+    },
+    {
+      "prototype": 88,
+      "index": 2
+    },
+    {
+      "prototype": 89,
+      "index": 2
+    },
+    {
+      "prototype": 93,
+      "index": 2
+    },
+    {
+      "prototype": 96,
+      "index": 2
+    },
+    {
+      "prototype": 100,
+      "index": 2
+    },
+    {
+      "prototype": 103,
+      "index": 2
+    },
+    {
+      "prototype": 106,
+      "index": 2
+    },
+    {
+      "prototype": 109,
+      "index": 4
+    },
+    {
+      "prototype": 110,
+      "index": 0
+    },
+    {
+      "prototype": 116,
+      "index": 2
+    },
+    {
+      "prototype": 117,
+      "index": 2
+    },
+    {
+      "prototype": 118,
+      "index": 2
+    },
+    {
+      "prototype": 121,
+      "index": 2
+    },
+    {
+      "prototype": 124,
+      "index": 2
+    },
+    {
+      "prototype": 127,
+      "index": 2
+    },
+    {
+      "prototype": 128,
+      "index": 2
+    }
+  ],
+  "Healthbar_Medium": [
+    {
+      "prototype": 88,
+      "index": 0
+    },
+    {
+      "prototype": 117,
+      "index": 0
+    }
+  ],
+  "Healthbar_Low": [
+    {
+      "prototype": 89,
+      "index": 0
+    },
+    {
+      "prototype": 118,
+      "index": 0
+    }
+  ],
+  "Healthbar_Thickness": [
+    {
+      "prototype": 90,
+      "index": 0
+    },
+    {
+      "prototype": 119,
+      "index": 0
+    }
+  ],
+  "PostureBar": [
+    {
+      "prototype": 91,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 12
+    }
+  ],
+  "PostureBar_Position": [
+    {
+      "prototype": 92,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 13
+    }
+  ],
+  "PostureBar_Color": [
+    {
+      "prototype": 93,
+      "index": 0
+    }
+  ],
+  "PostureBar_Width": [
+    {
+      "prototype": 94,
+      "index": 0
+    }
+  ],
+  "Name_Text": [
+    {
+      "prototype": 95,
+      "index": 0
+    },
+    {
+      "prototype": 120,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 15
+    }
+  ],
+  "Name_Text_Color": [
+    {
+      "prototype": 96,
+      "index": 0
+    },
+    {
+      "prototype": 121,
+      "index": 0
+    }
+  ],
+  "Name_Text_Size": [
+    {
+      "prototype": 97,
+      "index": 0
+    },
+    {
+      "prototype": 122,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 16
+    }
+  ],
+  "Rank_Text": [
+    {
+      "prototype": 98,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 18
+    }
+  ],
+  "Weapon_Text": [
+    {
+      "prototype": 99,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 19
+    }
+  ],
+  "Weapon_Text_Color": [
+    {
+      "prototype": 100,
+      "index": 0
+    }
+  ],
+  "Weapon_Text_Size": [
+    {
+      "prototype": 101,
+      "index": 0
+    }
+  ],
+  "Distance_Text": [
+    {
+      "prototype": 102,
+      "index": 0
+    },
+    {
+      "prototype": 123,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 20
+    }
+  ],
+  "Distance_Text_Color": [
+    {
+      "prototype": 103,
+      "index": 0
+    },
+    {
+      "prototype": 124,
+      "index": 0
+    }
+  ],
+  "Distance_Text_Size": [
+    {
+      "prototype": 104,
+      "index": 0
+    },
+    {
+      "prototype": 125,
+      "index": 0
+    },
+    {
+      "prototype": 129,
+      "index": 21
+    }
+  ],
+  "Skeleton_Color": [
+    {
+      "prototype": 106,
+      "index": 0
+    }
+  ],
+  "Skeleton_Thickness": [
+    {
+      "prototype": 107,
+      "index": 0
+    }
+  ],
+  "Chams_Fill_Color": [
+    {
+      "prototype": 109,
+      "index": 1
+    },
+    {
+      "prototype": 110,
+      "index": 1
+    },
+    {
+      "prototype": 127,
+      "index": 0
+    },
+    {
+      "prototype": 128,
+      "index": 0
+    }
+  ],
+  "MobOptions": [
+    {
+      "prototype": 111,
+      "index": 1
+    },
+    {
+      "prototype": 112,
+      "index": 1
+    },
+    {
+      "prototype": 113,
+      "index": 1
+    },
+    {
+      "prototype": 114,
+      "index": 1
+    },
+    {
+      "prototype": 115,
+      "index": 1
+    },
+    {
+      "prototype": 116,
+      "index": 1
+    },
+    {
+      "prototype": 117,
+      "index": 1
+    },
+    {
+      "prototype": 118,
+      "index": 1
+    },
+    {
+      "prototype": 119,
+      "index": 1
+    },
+    {
+      "prototype": 120,
+      "index": 1
+    },
+    {
+      "prototype": 121,
+      "index": 1
+    },
+    {
+      "prototype": 122,
+      "index": 1
+    },
+    {
+      "prototype": 123,
+      "index": 1
+    },
+    {
+      "prototype": 124,
+      "index": 1
+    },
+    {
+      "prototype": 125,
+      "index": 1
+    },
+    {
+      "prototype": 126,
+      "index": 1
+    },
+    {
+      "prototype": 127,
+      "index": 1
+    },
+    {
+      "prototype": 128,
+      "index": 1
+    },
+    {
+      "prototype": 129,
+      "index": 1
+    }
+  ],
+  "AnimationId": [
+    {
+      "prototype": 131,
+      "index": 2
+    }
+  ],
+  "Animation": [
+    {
+      "prototype": 131,
+      "index": 3
+    }
+  ],
+  "???": [
+    {
+      "prototype": 131,
+      "index": 13
+    }
+  ],
+  "Parrying %s  |  %s  |  dist: %d  |  wait: %.3f": [
+    {
+      "prototype": 131,
+      "index": 16
+    }
+  ],
+  "delay": [
+    {
+      "prototype": 131,
+      "index": 23
+    }
+  ],
+  "AnimationPlayed": [
+    {
+      "prototype": 133,
+      "index": 3
+    }
+  ],
+  "noCDXC": [
+    {
+      "prototype": 138,
+      "index": 1
+    }
+  ],
+  "hookfunction": [
+    {
+      "prototype": 143,
+      "index": 0
+    }
+  ],
+  "checkcaller": [
+    {
+      "prototype": 143,
+      "index": 1
+    }
+  ],
+  "setmetatable": [
+    {
+      "prototype": 143,
+      "index": 2
+    }
+  ],
+  "__tostring": [
+    {
+      "prototype": 143,
+      "index": 3
+    }
+  ],
+  "__index": [
+    {
+      "prototype": 143,
+      "index": 4
+    }
+  ],
+  "getrawmetatable": [
+    {
+      "prototype": 143,
+      "index": 9
+    }
+  ],
+  "__namecall": [
+    {
+      "prototype": 143,
+      "index": 11
+    }
+  ],
+  "char": [
+    {
+      "prototype": 143,
+      "index": 14
+    }
+  ],
+  "(": [
+    {
+      "prototype": 143,
+      "index": 16
+    }
+  ],
+  "%d+": [
+    {
+      "prototype": 143,
+      "index": 17
+    }
+  ],
+  "%((%d+)%)": [
+    {
+      "prototype": 143,
+      "index": 19
+    }
+  ],
+  "find": [
+    {
+      "prototype": 143,
+      "index": 21
+    }
+  ],
+  "tonumber": [
+    {
+      "prototype": 143,
+      "index": 23
+    }
+  ],
+  "Kick": [
+    {
+      "prototype": 143,
+      "index": 26
+    },
+    {
+      "prototype": 145,
+      "index": 0
+    },
+    {
+      "prototype": 146,
+      "index": 0
+    }
+  ],
+  "Skidder Stop Skidding": [
+    {
+      "prototype": 143,
+      "index": 27
+    },
+    {
+      "prototype": 145,
+      "index": 1
+    },
+    {
+      "prototype": 146,
+      "index": 1
+    }
+  ],
+  "You can only select 2 modifiers!": [
+    {
+      "prototype": 150,
+      "index": 8
+    }
+  ],
+  "No locations found for ": [
+    {
+      "prototype": 152,
+      "index": 13
+    }
+  ],
+  "Failed to fetch locations (Network Error)": [
+    {
+      "prototype": 152,
+      "index": 15
+    }
+  ],
+  "RequestLocationData": [
+    {
+      "prototype": 153,
+      "index": 1
+    }
+  ],
+  "Not in range of signal tower": [
+    {
+      "prototype": 154,
+      "index": 12
+    }
+  ],
+  "Conditions": [
+    {
+      "prototype": 155,
+      "index": 3
+    }
+  ],
+  "Directive": [
+    {
+      "prototype": 155,
+      "index": 4
+    }
+  ],
+  "Engage": [
+    {
+      "prototype": 155,
+      "index": 6
+    }
+  ],
+  "Unloaded": [
+    {
+      "prototype": 156,
+      "index": 0
+    }
+  ]
+}

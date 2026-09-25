@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ironbrew1-deobfuscator"
+version = "0.2.0"
+description = "IronBrew1 payload decoder, constant dumper, IR exporter, and conservative recovery CLI"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+ib1 = "ironbrew1_deobf.cli:main"
+
+[tool.setuptools]
+packages = ["ironbrew1_deobf"]

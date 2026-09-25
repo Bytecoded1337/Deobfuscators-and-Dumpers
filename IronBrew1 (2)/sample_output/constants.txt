@@ -1,0 +1,2950 @@
+
+== prototype 0 depth=0 constants=1074 ==
+K0000 string   "Options"
+K0001 string   "Toggles"
+K0002 string   "ShowToggleFrameInKeybinds"
+K0003 boolean  true
+K0004 string   "ShowCustomCursor"
+K0005 boolean  false
+K0006 string   "NotifySide"
+K0007 string   "Left"
+K0008 string   "game"
+K0009 string   "GetService"
+K0010 string   "ReplicatedStorage"
+K0011 string   "Players"
+K0012 string   "LocalPlayer"
+K0013 string   "RunService"
+K0014 string   "Workspace"
+K0015 string   "VirtualInputManager"
+K0016 string   "Character"
+K0017 string   "Humanoid"
+K0018 string   "FindFirstChild"
+K0019 string   "HumanoidRootPart"
+K0020 string   "CharacterAdded"
+K0021 string   "Connect"
+K0022 string   "Files"
+K0023 string   "WaitForChild"
+K0024 string   "Framework"
+K0025 string   "Network"
+K0026 string   "RemoteFunction"
+K0027 string   "Cleanup Duty"
+K0028 string   "Hold the line"
+K0029 string   "Hold the Line"
+K0030 string   "Aftermath detail"
+K0031 string   "Aftermath Detail"
+K0032 string   "CreateWindow"
+K0033 string   "Title"
+K0034 string   "Neptune - Devil Hunter"
+K0035 string   "Color3"
+K0036 string   "fromRGB"
+K0037 int      0
+K0038 int      255
+K0039 int      196
+K0040 int      147
+K0041 string   "Center"
+K0042 string   "AutoShow"
+K0043 string   "Resizable"
+K0044 string   "UnlockMouseWhileOpen"
+K0045 string   "TabPadding"
+K0046 int      8
+K0047 string   "MenuFadeTime"
+K0048 number   0.2
+K0049 string   "AutoFarm"
+K0050 string   "AddTab"
+K0051 string   "Main"
+K0052 string   "Combat"
+K0053 string   "Visual"
+K0054 string   "Player"
+K0055 string   "Raid"
+K0056 string   "UI Settings"
+K0057 string   "AddLeftGroupbox"
+K0058 string   "Teleport"
+K0059 string   "Eternity Devil Raid"
+K0060 string   "AddRightGroupbox"
+K0061 string   "Katana Devil Raid"
+K0062 string   "Cool Raid Stuff"
+K0063 string   "GodMode"
+K0064 string   "AddLabel"
+K0065 string   "No Position Set"
+K0066 string   "AddButton"
+K0067 string   "Text"
+K0068 string   "Set Position"
+K0069 string   "Func"
+K0070 string   "AddToggle"
+K0071 string   "godModeV2"
+K0072 string   "GodMode V2"
+K0073 string   "Default"
+K0074 string   "Callback"
+K0075 string   "AddInput"
+K0076 string   "raidMainName"
+K0077 string   ""
+K0078 string   "Numeric"
+K0079 string   "Finished"
+K0080 string   "ClearTextOnFocus"
+K0081 string   "Main Player Name"
+K0082 string   "Tooltip"
+K0083 string   "Main Account to Send into Raid"
+K0084 string   "Placeholder"
+K0085 string   "Input Player name"
+K0086 string   "raidAltName"
+K0087 string   "Alt Player Name"
+K0088 string   "Alt Account to Auto Accept Invite"
+K0089 string   "AddDropdown"
+K0090 string   "raidType"
+K0091 string   "Values"
+K0092 string   "Eternity"
+K0093 string   "Katana"
+K0094 string   "Zombie"
+K0095 int      1
+K0096 string   "Multi"
+K0097 string   "Raid Name"
+K0098 string   "CFrame"
+K0099 string   "new"
+K0100 number   -2752
+K0101 int      144
+K0102 string   "DialogName"
+K0103 string   "Mysterious Hotel"
+K0104 int      379
+K0105 int      9
+K0106 int      944
+K0107 string   "Yakuza Infiltration"
+K0108 int      37
+K0109 int      10
+K0110 number   -1443
+K0111 string   "Zombie Devil Warehouse"
+K0112 string   "infiniteRaid"
+K0113 string   "Auto Launch Raid [Alt Account]"
+K0114 string   "infiniteAltRaid"
+K0115 string   "Auto Launch Raid [Main Account]"
+K0116 string   "AddDivider"
+K0117 string   "Manual Use Only"
+K0118 string   "AddSlider"
+K0119 string   "healthPercent"
+K0120 string   "Health Percent"
+K0121 string   "Min"
+K0122 int      5
+K0123 string   "Max"
+K0124 int      80
+K0125 string   "Rounding"
+K0126 string   "Compact"
+K0127 string   "InfiniteLive"
+K0128 string   "Auto Void Yourself"
+K0129 string   "Current Floor: Unknown"
+K0130 string   "autofloor"
+K0131 string   "Auto Floor"
+K0132 string   "xRaid"
+K0133 string   "x"
+K0134 number   -20
+K0135 int      20
+K0136 string   "yRaid"
+K0137 string   "y"
+K0138 string   "zRaid"
+K0139 string   "z"
+K0140 int      7
+K0141 string   "Open All Door"
+K0142 string   "KeyEsp"
+K0143 string   "Key Esp"
+K0144 string   "Tp to Key"
+K0145 string   "Tp to Vault"
+K0146 string   "Tp to Safe Room"
+K0147 string   "Tp to Boss Room"
+K0148 string   "Zombie Raid"
+K0149 string   "Katana-Man Raid"
+K0150 string   "Eternity Raid"
+K0151 string   "Auto Farm"
+K0152 string   "Void Mob"
+K0153 string   "Mob Farm"
+K0154 string   "Mastery Farm"
+K0155 string   "punchingBag"
+K0156 string   "Farm Punching Bag"
+K0157 string   "task"
+K0158 string   "spawn"
+K0159 string   "spamParry"
+K0160 string   "Spam Parry"
+K0161 string   "distanceFarmMob"
+K0162 string   "Distance From Mob"
+K0163 number   -5
+K0164 string   "maxFarmDistance"
+K0165 string   "Max Farm Distance"
+K0166 int      100
+K0167 int      50
+K0168 int      300
+K0169 string   "mobFarm"
+K0170 string   "Farm Mob"
+K0171 string   "Auto Quest"
+K0172 string   "FarmMode"
+K0173 string   "Intercept"
+K0174 string   "Create"
+K0175 string   "Mode"
+K0176 string   "Mission Rewards : "
+K0177 string   "RewardsLabel"
+K0178 string   "AddDependencyBox"
+K0179 string   "InterceptDelay"
+K0180 string   "Intercept delay"
+K0181 number   0.5
+K0182 number   0.1
+K0183 string   "playerName"
+K0184 string   "Player To Intercept"
+K0185 string   "Alt Account to intercept"
+K0186 string   "AutoIntercept"
+K0187 string   "Auto-Intercept"
+K0188 string   "Auto Get Lootbox"
+K0189 string   "MissionType"
+K0190 string   "Mission Type"
+K0191 string   "MissionLocation"
+K0192 string   "Loading..."
+K0193 string   "Location"
+K0194 string   "MissionModifiers"
+K0195 string   "Bloodlust"
+K0196 string   "Flawless"
+K0197 string   "Contract Lock"
+K0198 string   "Stifle"
+K0199 string   "Blind Path"
+K0200 string   "Recall"
+K0201 string   "Modifiers"
+K0202 string   "MissionDelay"
+K0203 string   "Mission delay"
+K0204 string   "EnhancedCleanup"
+K0205 string   "Enhanced Cleanup Duty"
+K0206 string   "Better item pickup/turn-in - works on all locations"
+K0207 string   "EnhancedAftermath"
+K0208 string   "Enhanced Aftermath Detail"
+K0209 string   "Improved trash/body handling (works best with Residential Area)"
+K0210 string   "StayOnPoint"
+K0211 string   "Goes underground when mobs spawn to avoid damage"
+K0212 string   "NetworkCheck"
+K0213 string   "Network Check"
+K0214 string   "DistanceVoid"
+K0215 string   "Distance"
+K0216 int      200
+K0217 int      2000
+K0218 string   "Distance For Voiding Entities"
+K0219 string   "Void"
+K0220 string   "Void Entities Within Distance [Selected]"
+K0221 string   "DisabledTooltip"
+K0222 string   "I am disabled!"
+K0223 string   "Disabled"
+K0224 string   "Visible"
+K0225 string   "Risky"
+K0226 string   "freezeMob"
+K0227 string   "Freeze Mob"
+K0228 string   "Freeze entities Within Distance [Selected]"
+K0229 string   "DistanceGrabMax"
+K0230 string   "Distance Max For Grabbing"
+K0231 string   "Distance For Grabbing Entities Max"
+K0232 string   "DistanceGrab"
+K0233 string   "Distance Mob"
+K0234 string   "Distance For putting Entities"
+K0235 string   "grabMob"
+K0236 string   "Bring Mob"
+K0237 string   "Bring Entities Within Distance [Selected]"
+K0238 string   "SetupDependencies"
+K0239 string   "Player Farm"
+K0240 string   "Player utils"
+K0241 string   "Player Auto"
+K0242 string   "LootBox"
+K0243 string   "Npc Teleport"
+K0244 string   "Auto Eat"
+K0245 string   "WIPE YOURSELF"
+K0246 string   "Auto Discard"
+K0247 string   "Common"
+K0248 string   "itemRarities"
+K0249 string   "Uncommon"
+K0250 string   "Rare"
+K0251 string   "Epic"
+K0252 string   "Legendary"
+K0253 string   "Rarity To Discard"
+K0254 string   "Show Potential Discarded Items"
+K0255 string   "DoubleClick"
+K0256 string   "Discard Selected Items"
+K0257 string   "WIPE YOURSELF BE CAUTIOUS"
+K0258 string   "eatList"
+K0259 string   "Heart"
+K0260 string   "Arm"
+K0261 string   "Eye"
+K0262 string   "Leg"
+K0263 string   "Common Devil Flesh"
+K0264 string   "Uncommon Devil Flesh"
+K0265 string   "Rare Devil Flesh"
+K0266 string   "Epic Devil Flesh"
+K0267 string   "Eat List"
+K0268 string   "autoEat"
+K0269 string   "All in the title digga[7PX is a skidder]"
+K0270 string   "Some Npc doesnt spawn if your not within range"
+K0271 string   "npcList"
+K0272 string   "Refresh List of Npc"
+K0273 string   "Npc List"
+K0274 string   "Refresh Npc List"
+K0275 string   "TP to Selected Npc"
+K0276 string   "AutoBox"
+K0277 string   "Auto Open LootBox"
+K0278 string   "AutoHit"
+K0279 string   "Auto Hit"
+K0280 string   "AutoCrit"
+K0281 string   "Auto Critical"
+K0282 string   "Auto Critical M1"
+K0283 string   "AutoEquip"
+K0284 string   "Auto Equip"
+K0285 string   "Auto Equip Weapon"
+K0286 string   "SemiGod"
+K0287 string   "AutoDodge"
+K0288 string   "Doesnt work on all attack, its a 50/50"
+K0289 string   "AutoCarry"
+K0290 string   "Auto Carry"
+K0291 string   "Auto Carry People"
+K0292 string   "AutoGrip"
+K0293 string   "Auto Grip"
+K0294 string   "Auto Grip People"
+K0295 string   "AutoSurgery"
+K0296 string   "Auto Surgery Kit"
+K0297 string   "Open Pawn Shop"
+K0298 string   "Open Black Market"
+K0299 string   "Open Crafting Menue"
+K0300 string   "playerListFarm"
+K0301 string   "Refresh Player"
+K0302 string   "Player List"
+K0303 string   "InventoryViewer"
+K0304 string   "Select a Player"
+K0305 string   "Inventory viewer"
+K0306 string   "Refresh Players List"
+K0307 string   "distanceFarmPlayer"
+K0308 string   "playerFarm"
+K0309 string   "Farm Player [WARNING]"
+K0310 string   "Dont Forget to setup Distance to your liking"
+K0311 string   "Fly"
+K0312 string   "WASD + Space/Ctrl to move"
+K0313 string   "AddKeyPicker"
+K0314 string   "FlyKeybind"
+K0315 string   "F1"
+K0316 string   "Toggle"
+K0317 string   "Fly Keybind"
+K0318 string   "SyncToggleState"
+K0319 string   "NoClip"
+K0320 string   "noClip"
+K0321 string   "F2"
+K0322 string   "Noclip"
+K0323 string   "FlySpeed"
+K0324 string   "Fly Speed"
+K0325 string   "WalkSpeed"
+K0326 string   "walkspeed"
+K0327 string   "All in the name"
+K0328 string   "WSKeybind"
+K0329 string   "F3"
+K0330 string   "WS Keybind"
+K0331 string   "WalkSpeedSlider"
+K0332 string   "WalkSpeed Value"
+K0333 int      35
+K0334 string   "AntiVoid"
+K0335 string   "Anti Void"
+K0336 string   "Prevents falling into void"
+K0337 string   "OnChanged"
+K0338 string   "OnClick"
+K0339 string   "Heartbeat"
+K0340 string   "Player Esp Section"
+K0341 string   "ESP_Master"
+K0342 string   "Enabled"
+K0343 string   "ESP_TeamCheck"
+K0344 string   "Team Check"
+K0345 string   "ESP_Box"
+K0346 string   "Boxes"
+K0347 string   "ESP_BoxType"
+K0348 string   "Corner"
+K0349 string   "Box"
+K0350 string   "Type"
+K0351 string   "ESP_Health"
+K0352 string   "Healthbar"
+K0353 string   "ESP_HealthPos"
+K0354 string   "Right"
+K0355 string   "Top"
+K0356 string   "Bottom"
+K0357 string   "Position"
+K0358 string   "ESP_HealthStart"
+K0359 string   "AddColorPicker"
+K0360 string   "ESP_HealthMid"
+K0361 string   "ESP_HealthEnd"
+K0362 string   "ESP_HealthWidth"
+K0363 string   "Healthbar Thickness"
+K0364 int      3
+K0365 string   "ESP_Posture"
+K0366 string   "Posture Bar"
+K0367 string   "ESP_PosturePos"
+K0368 int      2
+K0369 string   "ESP_PostureColor"
+K0370 int      207
+K0371 int      125
+K0372 string   "ESP_PostureWidth"
+K0373 string   "Posture Thickness"
+K0374 string   "ESP_Name"
+K0375 string   "Name"
+K0376 string   "ESP_NameColor"
+K0377 int      235
+K0378 int      225
+K0379 string   "ESP_NameSize"
+K0380 string   "Name Size"
+K0381 int      11
+K0382 int      16
+K0383 string   "ESP_Rank"
+K0384 string   "Rank"
+K0385 string   "ESP_Weapon"
+K0386 string   "Weapon"
+K0387 string   "ESP_WeaponColor"
+K0388 string   "ESP_WeaponSize"
+K0389 string   "Weapon Size"
+K0390 string   "ESP_Distance"
+K0391 string   "ESP_DistanceColor"
+K0392 string   "ESP_DistanceSize"
+K0393 string   "Distance Size"
+K0394 string   "ServerSkeleton"
+K0395 string   "Skeleton"
+K0396 string   "ServerSkeletonColor"
+K0397 string   "ServerSkeletonWidth"
+K0398 string   "Skeleton Thickness"
+K0399 number   1.5
+K0400 int      4
+K0401 string   "ESP_Chams"
+K0402 string   "Chams"
+K0403 string   "ESP_ChamsColor"
+K0404 int      170
+K0405 int      110
+K0406 string   "ESP_ChamsTransparency"
+K0407 string   "Chams Transparency"
+K0408 string   "Mob ESP Section"
+K0409 string   "Mob_Master"
+K0410 string   "Mob_Box"
+K0411 string   "Mob_BoxType"
+K0412 string   "Mob_Health"
+K0413 string   "Mob_HealthPos"
+K0414 string   "Mob_HealthStart"
+K0415 string   "Mob_HealthMid"
+K0416 string   "Mob_HealthEnd"
+K0417 string   "Mob_HealthWidth"
+K0418 string   "Mob_Name"
+K0419 string   "Mob_NameColor"
+K0420 string   "Mob_NameSize"
+K0421 string   "Name Text Size"
+K0422 string   "Mob_Distance"
+K0423 string   "Mob_DistanceColor"
+K0424 string   "Mob_DistanceSize"
+K0425 string   "Distance Text Size"
+K0426 string   "Mob_Chams"
+K0427 string   "Mob_ChamsColor"
+K0428 string   "Chams Color"
+K0429 string   "Mob_ChamsTransparency"
+K0430 string   "RemoteEvent"
+K0431 string   "rbxassetid://83170627744442"
+K0432 number   0.216
+K0433 string   "rbxassetid://99785834052081"
+K0434 string   "rbxassetid://129319150158146"
+K0435 string   "rbxassetid://75114926121591"
+K0436 string   "rbxassetid://72795592997118"
+K0437 string   "rbxassetid://84882180540900"
+K0438 string   "rbxassetid://91695353081923"
+K0439 string   "rbxassetid://91841671178746"
+K0440 number   0.219
+K0441 string   "rbxassetid://102225002431566"
+K0442 string   "rbxassetid://98961744431023"
+K0443 string   "rbxassetid://114393492422894"
+K0444 string   "rbxassetid://72716101431005"
+K0445 string   "rbxassetid://85964235716367"
+K0446 number   0.18
+K0447 string   "rbxassetid://138301923963329"
+K0448 string   "rbxassetid://87069745086938"
+K0449 string   "rbxassetid://97144244689985"
+K0450 string   "rbxassetid://86092141229505"
+K0451 string   "rbxassetid://131943611612712"
+K0452 string   "rbxassetid://77032242569772"
+K0453 string   "rbxassetid://123304488838885"
+K0454 string   "rbxassetid://95592305575287"
+K0455 number   0.256
+K0456 string   "rbxassetid://97504155433185"
+K0457 string   "rbxassetid://137901650114553"
+K0458 string   "rbxassetid://71420013211462"
+K0459 string   "rbxassetid://73189775256758"
+K0460 string   "rbxassetid://102790860802603"
+K0461 string   "rbxassetid://90303043747701"
+K0462 number   0.213
+K0463 string   "rbxassetid://73033593102525"
+K0464 string   "rbxassetid://89307684071889"
+K0465 string   "rbxassetid://115670609737438"
+K0466 string   "rbxassetid://127716005072935"
+K0467 string   "rbxassetid://106719097885109"
+K0468 string   "rbxassetid://125351403307657"
+K0469 string   "rbxassetid://87673107583059"
+K0470 string   "rbxassetid://99589308896321"
+K0471 string   "rbxassetid://93712797216935"
+K0472 string   "rbxassetid://90648436096048"
+K0473 string   "rbxassetid://106187325444182"
+K0474 string   "rbxassetid://113014104453621"
+K0475 string   "rbxassetid://139174098471434"
+K0476 number   0.286
+K0477 string   "rbxassetid://118176169991277"
+K0478 string   "rbxassetid://89332566098222"
+K0479 string   "rbxassetid://125571123165138"
+K0480 string   "rbxassetid://125936250279691"
+K0481 string   "rbxassetid://134137542280552"
+K0482 string   "rbxassetid://139513647256700"
+K0483 number   0.251
+K0484 string   "rbxassetid://114630509263415"
+K0485 string   "rbxassetid://109871824431204"
+K0486 string   "rbxassetid://113429385792170"
+K0487 string   "rbxassetid://139374816012669"
+K0488 string   "rbxassetid://78842969890728"
+K0489 string   "rbxassetid://81424669180469"
+K0490 string   "rbxassetid://84893282137796"
+K0491 string   "rbxassetid://127656671537189"
+K0492 string   "rbxassetid://95099034924342"
+K0493 string   "rbxassetid://101953583082493"
+K0494 string   "rbxassetid://88809233843821"
+K0495 string   "rbxassetid://131731230162076"
+K0496 string   "rbxassetid://101604973817807"
+K0497 string   "rbxassetid://72880223582562"
+K0498 string   "rbxassetid://133205147259868"
+K0499 string   "rbxassetid://113268215947804"
+K0500 string   "rbxassetid://100896894192926"
+K0501 string   "rbxassetid://131376945188225"
+K0502 string   "rbxassetid://137815370488524"
+K0503 string   "rbxassetid://97177191680752"
+K0504 string   "rbxassetid://115797906268659"
+K0505 string   "rbxassetid://108574344758700"
+K0506 number   0.314
+K0507 string   "rbxassetid://116057799213168"
+K0508 string   "rbxassetid://87415953393018"
+K0509 string   "rbxassetid://116531395203011"
+K0510 string   "rbxassetid://83821056766741"
+K0511 string   "rbxassetid://80951747681281"
+K0512 string   "rbxassetid://100288926167133"
+K0513 string   "rbxassetid://102597139088834"
+K0514 string   "rbxassetid://134181836683161"
+K0515 string   "rbxassetid://129855748333858"
+K0516 string   "rbxassetid://98392933263355"
+K0517 string   "rbxassetid://106013309621307"
+K0518 string   "rbxassetid://104268439363335"
+K0519 number   0.282
+K0520 string   "rbxassetid://133512548611881"
+K0521 string   "rbxassetid://76827947490912"
+K0522 string   "rbxassetid://99419457549732"
+K0523 string   "rbxassetid://84627135360921"
+K0524 string   "rbxassetid://78957003094677"
+K0525 string   "rbxassetid://105542119244161"
+K0526 string   "rbxassetid://88464980239593"
+K0527 string   "rbxassetid://89332259138333"
+K0528 string   "rbxassetid://126621054776220"
+K0529 string   "rbxassetid://134212846921544"
+K0530 string   "rbxassetid://123135962827332"
+K0531 number   0.294
+K0532 string   "rbxassetid://112091281860543"
+K0533 string   "rbxassetid://73086768097069"
+K0534 string   "rbxassetid://89859217236874"
+K0535 string   "rbxassetid://138838982277418"
+K0536 string   "rbxassetid://78555663054449"
+K0537 string   "rbxassetid://101582769423497"
+K0538 string   "rbxassetid://103523914939071"
+K0539 string   "rbxassetid://110237638234814"
+K0540 string   "rbxassetid://133973256915688"
+K0541 string   "rbxassetid://122357751973562"
+K0542 string   "rbxassetid://96430744634231"
+K0543 number   0.3
+K0544 string   "rbxassetid://112280382670167"
+K0545 string   "rbxassetid://126257103110325"
+K0546 string   "rbxassetid://70550631174539"
+K0547 string   "rbxassetid://71244457428229"
+K0548 string   "rbxassetid://113834682033104"
+K0549 string   "rbxassetid://93431132327822"
+K0550 number   0.367
+K0551 string   "rbxassetid://133853808650941"
+K0552 string   "rbxassetid://116937962567393"
+K0553 string   "rbxassetid://121073263747297"
+K0554 string   "rbxassetid://76781925254248"
+K0555 string   "rbxassetid://98375305489054"
+K0556 string   "rbxassetid://78653732575949"
+K0557 string   "rbxassetid://120048428697484"
+K0558 number   0.389
+K0559 string   "rbxassetid://93357544618400"
+K0560 string   "rbxassetid://99361142840295"
+K0561 string   "rbxassetid://78520899606944"
+K0562 string   "rbxassetid://116907204347021"
+K0563 string   "rbxassetid://81298915826190"
+K0564 string   "rbxassetid://118375375261508"
+K0565 string   "rbxassetid://94912992248206"
+K0566 string   "rbxassetid://84360547187663"
+K0567 string   "rbxassetid://117614545746430"
+K0568 string   "rbxassetid://101362557536797"
+K0569 string   "rbxassetid://110275308607388"
+K0570 string   "rbxassetid://105124819044081"
+K0571 string   "rbxassetid://73600840318198"
+K0572 string   "rbxassetid://99728779063625"
+K0573 string   "rbxassetid://82791907545703"
+K0574 string   "rbxassetid://86706569396350"
+K0575 string   "rbxassetid://119071326400759"
+K0576 number   0.333
+K0577 string   "rbxassetid://95187086967174"
+K0578 string   "rbxassetid://127265672754416"
+K0579 string   "rbxassetid://81093093791947"
+K0580 string   "rbxassetid://115096781003171"
+K0581 string   "rbxassetid://93891386436024"
+K0582 string   "rbxassetid://118258669929146"
+K0583 string   "rbxassetid://89475662129258"
+K0584 string   "rbxassetid://117416560814575"
+K0585 string   "rbxassetid://82402970804238"
+K0586 string   "rbxassetid://115840883662190"
+K0587 string   "rbxassetid://101268939874208"
+K0588 number   0.34
+K0589 string   "rbxassetid://118339406620980"
+K0590 string   "rbxassetid://135802138221890"
+K0591 string   "rbxassetid://119537814529732"
+K0592 string   "rbxassetid://126943584876522"
+K0593 string   "rbxassetid://132423234621948"
+K0594 string   "rbxassetid://130627039807199"
+K0595 string   "rbxassetid://95241696138937"
+K0596 string   "rbxassetid://84546143799899"
+K0597 string   "rbxassetid://111678403609788"
+K0598 string   "rbxassetid://76907916800109"
+K0599 string   "rbxassetid://88529291334531"
+K0600 string   "rbxassetid://88515182783630"
+K0601 string   "rbxassetid://78940054179950"
+K0602 string   "rbxassetid://83707871739410"
+K0603 string   "rbxassetid://89947536068263"
+K0604 string   "rbxassetid://91342131793707"
+K0605 string   "rbxassetid://87276698608760"
+K0606 number   0
+K0607 string   "rbxassetid://112832095441188"
+K0608 string   "rbxassetid://92559491465927"
+K0609 string   "rbxassetid://102596372833810"
+K0610 string   "rbxassetid://135219429513260"
+K0611 string   "rbxassetid://111619494197919"
+K0612 string   "rbxassetid://84790818560573"
+K0613 string   "rbxassetid://88055010695849"
+K0614 string   "rbxassetid://116948609204236"
+K0615 string   "rbxassetid://117416838233330"
+K0616 string   "rbxassetid://130187498552231"
+K0617 string   "rbxassetid://99528925126794"
+K0618 string   "rbxassetid://72371046889893"
+K0619 string   "rbxassetid://80639118737924"
+K0620 string   "rbxassetid://110406562971902"
+K0621 string   "rbxassetid://108494510731610"
+K0622 string   "rbxassetid://123499498138784"
+K0623 string   "rbxassetid://83003081767769"
+K0624 string   "rbxassetid://134695284376391"
+K0625 string   "rbxassetid://94495302830576"
+K0626 string   "rbxassetid://72652968192920"
+K0627 string   "rbxassetid://126452972160118"
+K0628 string   "rbxassetid://79103146300355"
+K0629 string   "rbxassetid://108437140304259"
+K0630 string   "rbxassetid://92347535171309"
+K0631 number   0.255
+K0632 string   "rbxassetid://103478794733427"
+K0633 string   "rbxassetid://77311081382802"
+K0634 string   "rbxassetid://119794946808722"
+K0635 string   "rbxassetid://118374669758371"
+K0636 string   "rbxassetid://108797839748822"
+K0637 string   "rbxassetid://117196948797125"
+K0638 string   "rbxassetid://96430107593955"
+K0639 string   "rbxassetid://79294213380648"
+K0640 string   "rbxassetid://128641773780380"
+K0641 string   "rbxassetid://124983172519493"
+K0642 string   "rbxassetid://119366440833103"
+K0643 string   "rbxassetid://116781362921741"
+K0644 string   "rbxassetid://124298892076543"
+K0645 string   "rbxassetid://126406892829032"
+K0646 string   "rbxassetid://107049572669140"
+K0647 string   "rbxassetid://89263693539259"
+K0648 string   "rbxassetid://72929563687421"
+K0649 string   "FistSwing1"
+K0650 string   "FistSwing2"
+K0651 string   "FistSwing3"
+K0652 string   "FistSwing4"
+K0653 string   "FistRunningAttack"
+K0654 string   "FistCritical"
+K0655 string   "FistAerial"
+K0656 string   "DevilCrusherCritical"
+K0657 string   "DevilCrusherSwing4"
+K0658 string   "DevilCrusherSwing3"
+K0659 string   "DevilCrusherSwing2"
+K0660 string   "DevilCrusherSwing1"
+K0661 string   "FleshbreakerSwing1"
+K0662 string   "FleshbreakerSwing2"
+K0663 string   "FleshbreakerSwing3"
+K0664 string   "FleshbreakerSwing4"
+K0665 string   "AtlasSwing4"
+K0666 string   "AtlasSwing3"
+K0667 string   "AtlasSwing2"
+K0668 string   "AtlasSwing1"
+K0669 string   "DaggerSwing1"
+K0670 string   "DaggerSwing2"
+K0671 string   "DaggerSwing3"
+K0672 string   "DaggerSwing4"
+K0673 string   "DaggerRunningAttack"
+K0674 string   "DaggerCritical"
+K0675 string   "BloodFiendSwing1"
+K0676 string   "BloodFiendSwing2"
+K0677 string   "BloodFiendSwing3"
+K0678 string   "BloodFiendSwing4"
+K0679 string   "DualDaggerRunningAttack"
+K0680 string   "DualDaggerCritical"
+K0681 string   "UndeadSickleSwing1"
+K0682 string   "UndeadSickleSwing2"
+K0683 string   "UndeadSickleSwing3"
+K0684 string   "UndeadSickleSwing4"
+K0685 string   "UndeadSickleRunningAttack"
+K0686 string   "UndeadSickleCritical"
+K0687 string   "LocustCritical"
+K0688 string   "SwordSwing1"
+K0689 string   "SwordSwing2"
+K0690 string   "SwordSwing3"
+K0691 string   "SwordSwing4"
+K0692 string   "SwordRunningAttack"
+K0693 string   "SwordCritical"
+K0694 string   "YamadaSwing4"
+K0695 string   "YamadaSwing3"
+K0696 string   "YamadaSwing2"
+K0697 string   "YamadaSwing1"
+K0698 string   "YamadaRunningAttack"
+K0699 string   "YukimuraCritical"
+K0700 string   "NailSwordCritical"
+K0701 string   "NailSwordSwing3"
+K0702 string   "NailSwordSwing2"
+K0703 string   "NailSwordSwing1"
+K0704 string   "NailSwordSwing4"
+K0705 string   "NailSwordRunningAttack"
+K0706 string   "ScarletQueenSwing4"
+K0707 string   "ScarletQueenSwing3"
+K0708 string   "ScarletQueenSwing2"
+K0709 string   "ScarletQueenSwing1"
+K0710 string   "ScarletQueenCritical"
+K0711 string   "DualSwordSwing4"
+K0712 string   "DualSwordSwing3"
+K0713 string   "DualSwordSwing2"
+K0714 string   "DualSwordSwing1"
+K0715 string   "MurasamaSwing4"
+K0716 string   "MurasamaSwing3"
+K0717 string   "MurasamaSwing2"
+K0718 string   "MurasamaSwing1"
+K0719 string   "MurasamaRunningAttack"
+K0720 string   "MurasamaUnsheatheCritical"
+K0721 string   "RotbladeSwing4"
+K0722 string   "RotbladeSwing3"
+K0723 string   "RotbladeSwing2"
+K0724 string   "RotbladeSwing1"
+K0725 string   "RotbladeRunningAttack"
+K0726 string   "RotbladeCritical"
+K0727 string   "5YearSwordSwing4"
+K0728 string   "5YearSwordSwing3"
+K0729 string   "5YearSwordSwing2"
+K0730 string   "5YearSwordSwing1"
+K0731 string   "5YearSwordCriticalAttack"
+K0732 string   "5YearSwordRunningAttack"
+K0733 string   "10YearSwordSwing4"
+K0734 string   "10YearSwordSwing3"
+K0735 string   "10YearSwordSwing2"
+K0736 string   "10YearSwordSwing1"
+K0737 string   "10YearSwordCriticalAttack"
+K0738 string   "100YearSwordSwing4"
+K0739 string   "100YearSwordSwing3"
+K0740 string   "100YearSwordSwing2"
+K0741 string   "100YearSwordSwing1"
+K0742 string   "100YearSwordRunningAttack"
+K0743 string   "100YearSwordCriticalAttack"
+K0744 string   "SealedWorldSwing4"
+K0745 string   "SealedWorldSwing3"
+K0746 string   "SealedWorldSwing2"
+K0747 string   "SealedWorldSwing1"
+K0748 string   "SealedWorldCritical"
+K0749 string   "AxeSwing1"
+K0750 string   "AxeSwing2"
+K0751 string   "AxeSwing3"
+K0752 string   "AxeSwing4"
+K0753 string   "AxeRunningAttack"
+K0754 string   "AxeCritical"
+K0755 string   "FirearmSwing4"
+K0756 string   "FirearmSwing2"
+K0757 string   "FirearmSwing1"
+K0758 string   "FirearmSwing3"
+K0759 string   "FirearmRunningAttack"
+K0760 string   "FirearmCritical"
+K0761 string   "GreenshotCritical"
+K0762 string   "UziCritical"
+K0763 string   "UziSwing4"
+K0764 string   "UziSwing3"
+K0765 string   "UziSwing2"
+K0766 string   "UziSwing1"
+K0767 string   "Cross PunisherSwing4"
+K0768 string   "Cross PunisherSwing3"
+K0769 string   "Cross PunisherSwing2"
+K0770 string   "Cross PunisherSwing1"
+K0771 string   "Cross PunisherRunningAttack"
+K0772 string   "Cross PunisherWeaponSwing1"
+K0773 string   "Cross PunisherWeaponSwing2"
+K0774 string   "Cross PunisherWeaponSwing3"
+K0775 string   "Cross PunisherWeaponSwing4"
+K0776 string   "Cross PunisherWeaponRunAttack"
+K0777 string   "Cross PunisherCritical"
+K0778 string   "Cross PunisherWeaponCritical"
+K0779 string   "AK47Swing4"
+K0780 string   "AK47Swing3"
+K0781 string   "AK47Swing2"
+K0782 string   "AK47Swing1"
+K0783 string   "BrainsplasherSwing4"
+K0784 string   "BrainsplasherSwing3"
+K0785 string   "BrainsplasherSwing2"
+K0786 string   "BrainsplasherSwing1"
+K0787 string   "BrainsplasherCritical"
+K0788 string   "Uppercut"
+K0789 string   "KickOffUppercut"
+K0790 string   "GreatweaponSwing4"
+K0791 string   "GreatweaponSwing2"
+K0792 string   "GreatweaponSwing1"
+K0793 string   "GreatweaponSwing3"
+K0794 string   "GreatweaponRunningAttack"
+K0795 string   "GreatweaponCritical"
+K0796 string   "Cursed LanceSwing4"
+K0797 string   "Cursed LanceSwing3"
+K0798 string   "Cursed LanceSwing2"
+K0799 string   "Cursed LanceSwing1"
+K0800 string   "CursedLanceCriticalAttack"
+K0801 string   "RotandRuinSwing4"
+K0802 string   "RotandRuinSwing3"
+K0803 string   "RotandRuinSwing1"
+K0804 string   "RotandRuinSwing2"
+K0805 string   "RotandRuinCritical"
+K0806 string   "ScissorBladeSwing4"
+K0807 string   "ScissorBladeSwing3"
+K0808 string   "ScissorBladeSwing2"
+K0809 string   "ScissorBladeSwing1"
+K0810 string   "ScissorBladeCritical"
+K0811 string   "RazorHalberdSwing4"
+K0812 string   "RazorHalberdSwing2"
+K0813 string   "RazorHalberdSwing1"
+K0814 string   "RazorHalberdSwing3"
+K0815 string   "RazorHalberdCritical"
+K0816 string   "HammerSwing4"
+K0817 string   "HammerSwing3"
+K0818 string   "HammerSwing2"
+K0819 string   "HammerSwing1"
+K0820 string   "PunkHazardCritical"
+K0821 string   "SealedFangSwing4"
+K0822 string   "SealedFangSwing3"
+K0823 string   "SealedFangSwing2"
+K0824 string   "SealedFangSwing1"
+K0825 string   "SealedFangCritical"
+K0826 string   "RushKick"
+K0827 string   "KatanaHybridSwing1"
+K0828 string   "KatanaHybridSwing2"
+K0829 string   "KatanaHybridSwing3"
+K0830 string   "KatanaHybridSwing4"
+K0831 string   "KatanaHybridCritical"
+K0832 string   "NailFiendSwing1"
+K0833 string   "NailFiendSwing2"
+K0834 string   "NailFiendSwing3"
+K0835 string   "NailFiendSwing4"
+K0836 string   "NailFiendCritical"
+K0837 string   "SharkFiendSwing2"
+K0838 string   "SharkFiendSwing3"
+K0839 string   "SharkFiendSwing4"
+K0840 string   "SharkFiendSwing1"
+K0841 string   "GetPlayers"
+K0842 string   "PlayerAdded"
+K0843 string   "Devil Spam"
+K0844 string   "Yurei Devil"
+K0845 string   "Fortune Devil"
+K0846 string   "Eternity Devil"
+K0847 string   "Gun Devil"
+K0848 string   "Tomato Devil"
+K0849 string   "Snake Devil"
+K0850 string   "Bat Devil"
+K0851 string   "Fish Devil"
+K0852 string   "Curse Devil"
+K0853 string   "Future Devil"
+K0854 string   "Leech Devil"
+K0855 string   "Octopus Devil"
+K0856 string   "Shark Devil"
+K0857 string   "Sea Cucumber Devil"
+K0858 string   "Mantis Devil"
+K0859 string   "Mold Devil"
+K0860 string   "Stone Devil"
+K0861 string   "Ghost Devil"
+K0862 string   "Fox Devil"
+K0863 string   "Assassin's Step"
+K0864 string   "Assault Rifle"
+K0865 string   "Beast's Stride"
+K0866 string   "Beatdown"
+K0867 string   "Beheader"
+K0868 string   "Bisection"
+K0869 string   "Bite"
+K0870 string   "Blightshot"
+K0871 string   "Blinkfire"
+K0872 string   "Blitzcut"
+K0873 string   "Blood Hammer"
+K0874 string   "Blood Scythe"
+K0875 string   "Blood Spill"
+K0876 string   "Brass Stamp"
+K0877 string   "Brutalize"
+K0878 string   "Bullet Hell"
+K0879 string   "Bullet Storm"
+K0880 string   "Bullrush Blitz"
+K0881 string   "Crimson Coil"
+K0882 string   "Crusher"
+K0883 string   "Dance Macabre"
+K0884 string   "Deadly Impale"
+K0885 string   "Defensive Rush"
+K0886 string   "Delayed Scare"
+K0887 string   "Dive"
+K0888 string   "Double Punch"
+K0889 string   "Dropkick"
+K0890 string   "Edge Rider"
+K0891 string   "Eviscerate"
+K0892 string   "Executioner's Swing"
+K0893 string   "Fang Rondo"
+K0894 string   "Feral Whirlwind"
+K0895 string   "Flash Draw"
+K0896 string   "Flying Headbutt"
+K0897 string   "Gazelle Punch"
+K0898 string   "Greatsword Bisection"
+K0899 string   "Greatsword Rampage"
+K0900 string   "HALLOWEEEEEN!"
+K0901 string   "Halloooween?"
+K0902 string   "Hardscope"
+K0903 string   "Headlock Volley"
+K0904 string   "High Rise"
+K0905 string   "Honeycomb Fire"
+K0906 string   "Impenetrable Stance"
+K0907 string   "Iron Drift"
+K0908 string   "Iron Heel"
+K0909 string   "Ironclad Thrust"
+K0910 string   "Jackpot"
+K0911 string   "Jaws"
+K0912 string   "Kickshot"
+K0913 string   "Landsplitter"
+K0914 string   "Leaping Kicks"
+K0915 string   "Lotus"
+K0916 string   "Materialize"
+K0917 string   "Materialize: Spear"
+K0918 string   "Maul"
+K0919 string   "Mirror"
+K0920 string   "Nail Bounce"
+K0921 string   "Nail Impalement"
+K0922 string   "Out of Nowhere"
+K0923 string   "Overhead Reprisal"
+K0924 string   "Overhead Stance"
+K0925 string   "Perfect Kill"
+K0926 string   "Piledriver"
+K0927 string   "Pistol Whip"
+K0928 string   "Pummel and Fire"
+K0929 string   "Rampage"
+K0930 string   "Reckless Whirlwind"
+K0931 string   "Reoccurring Strikes"
+K0932 string   "Rising Kick"
+K0933 string   "Rose Burst"
+K0934 string   "Rubble Raiser"
+K0935 string   "Running Downslam"
+K0936 string   "Shoulder Charge"
+K0937 string   "Shredder"
+K0938 string   "Skullcrusher"
+K0939 string   "Skybreaker"
+K0940 string   "Skycrusher"
+K0941 string   "Skyscraper"
+K0942 string   "Smell"
+K0943 string   "Spinning Kick"
+K0944 string   "Strike!"
+K0945 string   "Suplex"
+K0946 string   "Swiftfang"
+K0947 string   "Sword-Draw Counter"
+K0948 string   "Sword-Draw Dash"
+K0949 string   "Template"
+K0950 string   "Thousand Stab"
+K0951 string   "Titan's Reprisal"
+K0952 string   "Triple Kick"
+K0953 string   "Triple Stab"
+K0954 string   "Viper's Dash"
+K0955 string   "Viper's Fury"
+K0956 string   "Viper's Hold"
+K0957 string   "Viper's Trick"
+K0958 string   "Waterfell Waltz"
+K0959 string   "Whirlwind Cleaver"
+K0960 string   "Whirlwind Slash"
+K0961 string   "Windbreaker Slash"
+K0962 string   "Year Drain"
+K0963 string   "noCd"
+K0964 string   "No Cd"
+K0965 string   "Master Toggle for No Cooldown"
+K0966 string   "noCDX"
+K0967 string   "Skill X"
+K0968 string   "Will Spam Selected Devil X Skill"
+K0969 string   "DevilX"
+K0970 string   "Select"
+K0971 string   "Select Devil X"
+K0972 string   "CDX"
+K0973 string   "X"
+K0974 string   "Hold"
+K0975 string   "Spam X"
+K0976 string   "noCDXSpeed"
+K0977 string   "Delay X Skill"
+K0978 string   "noCDZ"
+K0979 string   "Skill Z"
+K0980 string   "Will Spam Selected Devil Z Skill"
+K0981 string   "DevilZ"
+K0982 string   "Select Devil Z"
+K0983 string   "CDZ"
+K0984 string   "Z"
+K0985 string   "Spam Z"
+K0986 string   "noCDZSpeed"
+K0987 string   "Delay Z Skill"
+K0988 string   "noCDC"
+K0989 string   "Skill C"
+K0990 string   "Will Spam Selected Devil C Skill"
+K0991 string   "DevilC"
+K0992 string   "Select Devil C"
+K0993 string   "CDC"
+K0994 string   "C"
+K0995 string   "Spam C"
+K0996 string   "noCDCSpeed"
+K0997 string   "Delay C Skill"
+K0998 string   "Normal Skills Spam (1–9)"
+K0999 string   "noCdSkillsMaster"
+K1000 string   "Master Enable"
+K1001 string   "Must be ON for any 1–9 skill spam to work"
+K1002 string   "One"
+K1003 string   "Two"
+K1004 string   "Three"
+K1005 string   "Four"
+K1006 string   "Five"
+K1007 string   "Six"
+K1008 string   "Seven"
+K1009 string   "Eight"
+K1010 string   "Nine"
+K1011 string   "skillSpam"
+K1012 string   "skillChoice"
+K1013 string   "spamKey"
+K1014 string   "skillDelay"
+K1015 string   "Slot "
+K1016 string   "Spam selected skill when holding key "
+K1017 string   "math"
+K1018 string   "min"
+K1019 string   "Skill #"
+K1020 string   "Skill that will be spammed on key "
+K1021 string   "Hold → Spam "
+K1022 string   "Hold this key to activate spam (master + slot toggle must be on)"
+K1023 string   "Delay slot "
+K1024 number   0.25
+K1025 number   0.05
+K1026 string   "Suffix"
+K1027 string   "s"
+K1028 string   "AutoParry"
+K1029 string   "notificationParry"
+K1030 string   "Debug"
+K1031 string   "Prints when parry is about to happen"
+K1032 string   "AnimationPercent"
+K1033 string   "Animation Percent"
+K1034 string   "DistanceParry"
+K1035 string   "Max Distance (studs)"
+K1036 int      15
+K1037 int      30
+K1038 string   "HoldParry"
+K1039 string   "Hold Block Duration"
+K1040 number   0.15
+K1041 number   0.6
+K1042 string   "DelayDebounce"
+K1043 string   "Parry Cooldown"
+K1044 string   "Auto-Parry"
+K1045 string   "Automatically block matching attacks"
+K1046 string   "Menu"
+K1047 string   "KeybindMenuOpen"
+K1048 string   "KeybindFrame"
+K1049 string   "Open Keybind Menu"
+K1050 string   "Custom Cursor"
+K1051 string   "Menu bind"
+K1052 string   "MenuKeybind"
+K1053 string   "RightShift"
+K1054 string   "NoUI"
+K1055 string   "Menu keybind"
+K1056 string   "Unload"
+K1057 string   "ToggleKeybind"
+K1058 string   "SetLibrary"
+K1059 string   "IgnoreThemeSettings"
+K1060 string   "SetIgnoreIndexes"
+K1061 string   "SetFolder"
+K1062 string   "Avoura"
+K1063 string   "Avoura/DevilHunter"
+K1064 string   "BuildConfigSection"
+K1065 string   "ApplyToTab"
+K1066 string   "LoadAutoloadConfig"
+K1067 string   "next"
+K1068 string   "Value"
+K1069 string   "SetWatermarkVisibility"
+K1070 string   "SetWatermark"
+K1071 string   "Hb20bsk | [AI SKIDDER] 7PX$ [https://discord.gg/VC4suEyqJU]"
+K1072 string   "OnUnload"
+K1073 number   1864
+
+== prototype 1 depth=1 constants=8 ==
+K0000 string   "loadstring"
+K0001 string   "game"
+K0002 string   "https://skider.netlify.app/EspLibrarys/DevilHunters/EspLibrary.lua"
+K0003 string   "HttpGet"
+K0004 string   "https://raw.githubusercontent.com/ShowerMan/LinoriaLibFork/main/"
+K0005 string   "Library.lua"
+K0006 string   "addons/ThemeManager.lua"
+K0007 string   "addons/SaveManager.lua"
+
+== prototype 2 depth=1 constants=3 ==
+K0000 string   "WaitForChild"
+K0001 string   "Humanoid"
+K0002 string   "HumanoidRootPart"
+
+== prototype 3 depth=1 constants=12 ==
+K0000 string   "typeof"
+K0001 string   "Instance"
+K0002 string   "AbsolutePosition"
+K0003 string   "AbsoluteSize"
+K0004 string   "X"
+K0005 int      2
+K0006 string   "Y"
+K0007 string   "SendMouseButtonEvent"
+K0008 int      0
+K0009 boolean  true
+K0010 string   "game"
+K0011 boolean  false
+
+== prototype 4 depth=1 constants=14 ==
+K0000 string   "game"
+K0001 string   "GuiService"
+K0002 string   "GetService"
+K0003 string   "SelectedObject"
+K0004 string   "task"
+K0005 string   "wait"
+K0006 number   0.1
+K0007 string   "SendKeyEvent"
+K0008 boolean  true
+K0009 string   "Enum"
+K0010 string   "Return"
+K0011 string   "KeyCode"
+K0012 boolean  false
+K0013 number   0.05
+
+== prototype 5 depth=1 constants=17 ==
+K0000 int      1
+K0001 int      0
+K0002 string   "Lerp"
+K0003 string   "table"
+K0004 string   "insert"
+K0005 string   "string"
+K0006 string   "format"
+K0007 string   "<font color=\"rgb(%d,%d,%d)\">%s</font>"
+K0008 string   "math"
+K0009 string   "floor"
+K0010 string   "R"
+K0011 int      255
+K0012 string   "G"
+K0013 string   "B"
+K0014 string   "sub"
+K0015 string   "concat"
+K0016 number   20
+
+== prototype 6 depth=1 constants=4 ==
+K0000 string   "Position"
+K0001 string   "SetText"
+K0002 string   "Current Pos: "
+K0003 string   "tostring"
+
+== prototype 7 depth=1 constants=26 ==
+K0000 string   "Health"
+K0001 int      0
+K0002 string   "CharacterAdded"
+K0003 string   "Wait"
+K0004 string   "task"
+K0005 string   "wait"
+K0006 int      2
+K0007 string   "CFrame"
+K0008 string   "HumanoidRootPart"
+K0009 string   "new"
+K0010 int      3
+K0011 string   "game"
+K0012 string   "ReplicatedStorage"
+K0013 string   "GetService"
+K0014 string   "RemoteEvent"
+K0015 string   "Network"
+K0016 string   "Framework"
+K0017 string   "Files"
+K0018 string   "FireServer"
+K0019 string   "Event"
+K0020 string   "Name"
+K0021 string   "SkillController"
+K0022 string   "Args"
+K0023 string   "Snake Devil"
+K0024 string   "End"
+K0025 string   "X"
+
+== prototype 8 depth=1 constants=20 ==
+K0000 string   "Value"
+K0001 string   "godModeV2"
+K0002 string   "game"
+K0003 string   "ReplicatedStorage"
+K0004 string   "GetService"
+K0005 string   "RemoteEvent"
+K0006 string   "Network"
+K0007 string   "Framework"
+K0008 string   "Files"
+K0009 string   "FireServer"
+K0010 string   "Event"
+K0011 string   "Name"
+K0012 string   "SkillController"
+K0013 string   "Args"
+K0014 string   "Eternity Devil"
+K0015 string   "End"
+K0016 string   "X"
+K0017 string   "task"
+K0018 string   "wait"
+K0019 int      2
+
+== prototype 9 depth=1 constants=0 ==
+
+== prototype 10 depth=1 constants=0 ==
+
+== prototype 11 depth=1 constants=35 ==
+K0000 string   "Value"
+K0001 string   "infiniteRaid"
+K0002 string   "raidType"
+K0003 string   "CFrame"
+K0004 string   "task"
+K0005 string   "wait"
+K0006 int      1
+K0007 string   "game"
+K0008 string   "ReplicatedStorage"
+K0009 string   "GetService"
+K0010 string   "RemoteFunction"
+K0011 string   "Network"
+K0012 string   "Framework"
+K0013 string   "Files"
+K0014 string   "InvokeServer"
+K0015 string   "RequestCreateParty"
+K0016 number   0.5
+K0017 string   "Players"
+K0018 string   "raidMainName"
+K0019 string   "FindFirstChild"
+K0020 string   "InviteParty"
+K0021 string   "workspace"
+K0022 string   "Dialog"
+K0023 string   "World"
+K0024 string   "WaitForChild"
+K0025 string   "DialogName"
+K0026 int      5
+K0027 string   "fireproximityprompt"
+K0028 string   "PlayerGui"
+K0029 string   "LocalPlayer"
+K0030 string   "EnterRaid"
+K0031 string   "Enter"
+K0032 string   "Frame"
+K0033 number   6
+K0034 number   126
+
+== prototype 12 depth=1 constants=17 ==
+K0000 string   "Value"
+K0001 string   "infiniteAltRaid"
+K0002 string   "game"
+K0003 string   "Players"
+K0004 string   "GetService"
+K0005 string   "raidAltName"
+K0006 string   "FindFirstChild"
+K0007 string   "ReplicatedStorage"
+K0008 string   "RemoteFunction"
+K0009 string   "Network"
+K0010 string   "Framework"
+K0011 string   "Files"
+K0012 string   "InvokeServer"
+K0013 string   "AcceptInvite"
+K0014 string   "task"
+K0015 string   "wait"
+K0016 int      2
+
+== prototype 13 depth=1 constants=13 ==
+K0000 string   "Value"
+K0001 string   "InfiniteLive"
+K0002 string   "Health"
+K0003 string   "MaxHealth"
+K0004 int      100
+K0005 string   "healthPercent"
+K0006 string   "CFrame"
+K0007 string   "Vector3"
+K0008 string   "new"
+K0009 int      0
+K0010 string   "task"
+K0011 string   "wait"
+K0012 int      2
+
+== prototype 14 depth=1 constants=29 ==
+K0000 string   "workspace"
+K0001 string   "Map"
+K0002 string   "pairs"
+K0003 string   "GetChildren"
+K0004 string   "Elevatorzone"
+K0005 string   "FindFirstChild"
+K0006 string   "SetText"
+K0007 string   "Current Floor: "
+K0008 string   "Name"
+K0009 string   "Entities"
+K0010 string   "World"
+K0011 int      1
+K0012 string   "HumanoidRootPart"
+K0013 string   "CFrame"
+K0014 string   "Vector3"
+K0015 string   "new"
+K0016 string   "Value"
+K0017 string   "xRaid"
+K0018 string   "yRaid"
+K0019 string   "zRaid"
+K0020 string   "task"
+K0021 string   "wait"
+K0022 number   0.5
+K0023 string   "Prompt"
+K0024 string   "ProximityPrompt"
+K0025 string   "FindFirstChildOfClass"
+K0026 string   "GetDescendants"
+K0027 string   "IsA"
+K0028 string   "fireproximityprompt"
+
+== prototype 15 depth=1 constants=12 ==
+K0000 string   "Value"
+K0001 string   "autofloor"
+K0002 string   "Void"
+K0003 string   "SetValue"
+K0004 boolean  true
+K0005 string   "DistanceVoid"
+K0006 int      2000
+K0007 string   "Fly"
+K0008 boolean  false
+K0009 string   "task"
+K0010 string   "wait"
+K0011 number   0.5
+
+== prototype 16 depth=1 constants=26 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Map"
+K0003 string   "GetChildren"
+K0004 string   "Name"
+K0005 string   "doors"
+K0006 string   "Dialog"
+K0007 string   "FindFirstChild"
+K0008 string   "math"
+K0009 string   "abs"
+K0010 string   "Y"
+K0011 string   "Position"
+K0012 int      426
+K0013 int      5
+K0014 string   "CFrame"
+K0015 string   "lookAt"
+K0016 string   "Vector3"
+K0017 string   "new"
+K0018 number   -4
+K0019 int      0
+K0020 string   "task"
+K0021 string   "wait"
+K0022 number   0.3
+K0023 string   "fireproximityprompt"
+K0024 number   0.5
+K0025 number   76
+
+== prototype 17 depth=1 constants=15 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Effects"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "Key"
+K0007 string   "Value"
+K0008 string   "KeyEsp"
+K0009 string   "task"
+K0010 string   "wait"
+K0011 number   0.1
+K0012 string   "Destroy"
+K0013 number   58
+K0014 number   92
+
+== prototype 18 depth=2 constants=15 ==
+K0000 string   "Instance"
+K0001 string   "new"
+K0002 string   "Highlight"
+K0003 string   "Adornee"
+K0004 string   "FillColor"
+K0005 string   "Color3"
+K0006 string   "fromRGB"
+K0007 int      255
+K0008 int      215
+K0009 int      0
+K0010 string   "OutlineColor"
+K0011 string   "FillTransparency"
+K0012 number   0.5
+K0013 string   "OutlineTransparency"
+K0014 string   "Parent"
+
+== prototype 19 depth=2 constants=1 ==
+K0000 string   "Destroy"
+
+== prototype 20 depth=1 constants=9 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Effects"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "Key"
+K0007 string   "CFrame"
+K0008 number   25
+
+== prototype 21 depth=1 constants=8 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Map"
+K0003 string   "GetChildren"
+K0004 string   "Name"
+K0005 string   "Safe"
+K0006 string   "Position"
+K0007 string   "GetPivot"
+
+== prototype 22 depth=1 constants=6 ==
+K0000 string   "Position"
+K0001 string   "Vector3"
+K0002 string   "new"
+K0003 number   71.09712219238281
+K0004 number   425.9543151855469
+K0005 number   -89.95286560058594
+
+== prototype 23 depth=1 constants=6 ==
+K0000 string   "Position"
+K0001 string   "Vector3"
+K0002 string   "new"
+K0003 number   -1532
+K0004 int      36
+K0005 int      38
+
+== prototype 24 depth=1 constants=2 ==
+K0000 string   "CFrame"
+K0001 string   "Zombie"
+
+== prototype 25 depth=1 constants=2 ==
+K0000 string   "CFrame"
+K0001 string   "Katana"
+
+== prototype 26 depth=1 constants=2 ==
+K0000 string   "CFrame"
+K0001 string   "Eternity"
+
+== prototype 27 depth=1 constants=6 ==
+K0000 string   "Value"
+K0001 string   "AutoHit"
+K0002 boolean  false
+K0003 string   "SetValue"
+K0004 boolean  true
+K0005 number   34
+
+== prototype 28 depth=1 constants=14 ==
+K0000 string   "task"
+K0001 string   "wait"
+K0002 number   0.1
+K0003 string   "Value"
+K0004 string   "punchingBag"
+K0005 string   "workspace"
+K0006 string   "Entities"
+K0007 string   "World"
+K0008 string   "FindFirstChild"
+K0009 string   "PunchingBag1"
+K0010 string   "CFrame"
+K0011 string   "new"
+K0012 string   "GetPivot"
+K0013 string   "Position"
+
+== prototype 29 depth=1 constants=17 ==
+K0000 string   "Value"
+K0001 string   "spamParry"
+K0002 string   "game"
+K0003 string   "ReplicatedStorage"
+K0004 string   "GetService"
+K0005 string   "RemoteEvent"
+K0006 string   "Network"
+K0007 string   "Framework"
+K0008 string   "Files"
+K0009 string   "FireServer"
+K0010 string   "Event"
+K0011 string   "Name"
+K0012 string   "Block"
+K0013 string   "task"
+K0014 string   "wait"
+K0015 number   0.5
+K0016 string   "Unblock"
+
+== prototype 30 depth=1 constants=27 ==
+K0000 string   "Value"
+K0001 string   "mobFarm"
+K0002 string   "maxFarmDistance"
+K0003 string   "pairs"
+K0004 string   "Entities"
+K0005 string   "World"
+K0006 string   "GetChildren"
+K0007 boolean  false
+K0008 string   "GetPlayers"
+K0009 string   "Character"
+K0010 boolean  true
+K0011 string   "Name"
+K0012 string   "match"
+K0013 string   "^%x+-%x+-%x+-%x+-%x+$"
+K0014 string   "FindFirstChild"
+K0015 string   "HumanoidRootPart"
+K0016 string   "Position"
+K0017 string   "Magnitude"
+K0018 string   "CFrame"
+K0019 string   "new"
+K0020 string   "Vector3"
+K0021 int      0
+K0022 string   "distanceFarmMob"
+K0023 string   "task"
+K0024 string   "wait"
+K0025 number   51
+K0026 number   0
+
+== prototype 31 depth=1 constants=0 ==
+
+== prototype 32 depth=1 constants=24 ==
+K0000 string   "Value"
+K0001 string   "AutoIntercept"
+K0002 string   "game"
+K0003 string   "Players"
+K0004 string   "playerName"
+K0005 string   "FindFirstChild"
+K0006 string   "InMission"
+K0007 string   "GetAttribute"
+K0008 string   "ReplicatedStorage"
+K0009 string   "GetService"
+K0010 string   "RemoteFunction"
+K0011 string   "Network"
+K0012 string   "Framework"
+K0013 string   "Files"
+K0014 string   "InvokeServer"
+K0015 string   "OverworldMissions"
+K0016 string   "Identification"
+K0017 string   "tostring"
+K0018 string   "Request"
+K0019 string   "Intercept"
+K0020 string   "task"
+K0021 string   "wait"
+K0022 string   "InterceptDelay"
+K0023 number   62
+
+== prototype 33 depth=1 constants=21 ==
+K0000 string   "GetAttribute"
+K0001 string   "InMission"
+K0002 string   "pairs"
+K0003 string   "Entities"
+K0004 string   "World"
+K0005 string   "GetChildren"
+K0006 string   "FindFirstChild"
+K0007 string   "Humanoid"
+K0008 string   "Health"
+K0009 int      0
+K0010 string   "HumanoidRootPart"
+K0011 string   "PrimaryPart"
+K0012 string   "table"
+K0013 string   "insert"
+K0014 string   "Instance"
+K0015 string   "Root"
+K0016 string   "Pos"
+K0017 string   "Position"
+K0018 number   44
+K0019 number   53
+K0020 number   75
+
+== prototype 34 depth=1 constants=6 ==
+K0000 string   "Aftermath detail"
+K0001 string   "Map"
+K0002 string   "FindFirstChild"
+K0003 string   "Aftermath Detail_"
+K0004 string   "Missions"
+K0005 string   "World"
+
+== prototype 35 depth=1 constants=2 ==
+K0000 string   "Transparency"
+K0001 int      0
+
+== prototype 36 depth=1 constants=9 ==
+K0000 boolean  true
+K0001 string   "FindFirstChild"
+K0002 string   "CleanUp"
+K0003 string   "pairs"
+K0004 string   "GetChildren"
+K0005 string   "Transparency"
+K0006 int      0
+K0007 boolean  false
+K0008 number   36
+
+== prototype 37 depth=1 constants=50 ==
+K0000 string   "Value"
+K0001 string   "EnhancedCleanup"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 number   0.5
+K0005 string   "AutoFarm"
+K0006 string   "FarmMode"
+K0007 string   "Create"
+K0008 string   "GetAttribute"
+K0009 string   "InMission"
+K0010 string   "MissionType"
+K0011 string   "Cleanup Duty"
+K0012 string   "MissionLocation"
+K0013 string   "World"
+K0014 string   "FindFirstChild"
+K0015 string   "Effects"
+K0016 string   "CleanupDutyItem"
+K0017 string   "Tube"
+K0018 string   "TurnIn"
+K0019 string   "Residential Area"
+K0020 string   "Commercial District"
+K0021 string   "BasePart"
+K0022 string   "IsA"
+K0023 string   "Prompt"
+K0024 string   "CFrame"
+K0025 string   "new"
+K0026 string   "Position"
+K0027 string   "Vector3"
+K0028 int      0
+K0029 number   -5
+K0030 number   0.3
+K0031 string   "fireproximityprompt"
+K0032 int      1
+K0033 string   "math"
+K0034 string   "huge"
+K0035 string   "pairs"
+K0036 string   "GetChildren"
+K0037 string   "Name"
+K0038 string   "TomatoDevil"
+K0039 string   "Model"
+K0040 string   "RootPart"
+K0041 string   "Magnitude"
+K0042 int      500
+K0043 string   "Enabled"
+K0044 int      2
+K0045 number   22
+K0046 number   0
+K0047 number   114
+K0048 number   121
+K0049 number   255
+
+== prototype 38 depth=1 constants=43 ==
+K0000 string   "Value"
+K0001 string   "EnhancedAftermath"
+K0002 string   "AutoFarm"
+K0003 string   "FarmMode"
+K0004 string   "Create"
+K0005 string   "GetAttribute"
+K0006 string   "InMission"
+K0007 string   "MissionType"
+K0008 string   "Aftermath detail"
+K0009 string   "MissionLocation"
+K0010 string   "FindFirstChild"
+K0011 string   "CleanUp"
+K0012 string   "pairs"
+K0013 string   "GetChildren"
+K0014 string   "Position"
+K0015 string   "Magnitude"
+K0016 int      150
+K0017 string   "CFrame"
+K0018 string   "task"
+K0019 string   "wait"
+K0020 number   0.1
+K0021 string   "Prompt"
+K0022 string   "fireproximityprompt"
+K0023 string   "AutoCarry"
+K0024 string   "SetValue"
+K0025 boolean  true
+K0026 string   "Entities"
+K0027 string   "World"
+K0028 string   "Name"
+K0029 string   "match"
+K0030 string   "^%x+-%x+-%x+-%x+-%x+$"
+K0031 string   "HumanoidRootPart"
+K0032 string   "Carrying"
+K0033 string   "Spawns"
+K0034 string   "DropOff"
+K0035 string   "BasePart"
+K0036 string   "IsA"
+K0037 string   "new"
+K0038 number   0.3
+K0039 number   220
+K0040 number   128
+K0041 number   194
+K0042 number   0
+
+== prototype 39 depth=1 constants=26 ==
+K0000 string   "Value"
+K0001 string   "StayOnPoint"
+K0002 string   "AutoFarm"
+K0003 string   "FarmMode"
+K0004 string   "Create"
+K0005 string   "GetAttribute"
+K0006 string   "InMission"
+K0007 string   "MissionType"
+K0008 string   "Hold the line"
+K0009 string   "MissionLocation"
+K0010 string   "FindFirstChild"
+K0011 string   "PointCapture"
+K0012 string   "Model"
+K0013 string   "IsA"
+K0014 string   "PrimaryPart"
+K0015 string   "Position"
+K0016 string   "GetBoundingBox"
+K0017 string   "BasePart"
+K0018 string   "Vector3"
+K0019 string   "new"
+K0020 int      0
+K0021 number   -20
+K0022 string   "CFrame"
+K0023 string   "task"
+K0024 string   "wait"
+K0025 number   6
+
+== prototype 40 depth=1 constants=24 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Entities"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "match"
+K0007 string   "^%x+-%x+-%x+-%x+-%x+$"
+K0008 string   "Humanoid"
+K0009 string   "FindFirstChild"
+K0010 string   "Health"
+K0011 int      0
+K0012 string   "Position"
+K0013 string   "HumanoidRootPart"
+K0014 string   "Magnitude"
+K0015 string   "Value"
+K0016 string   "DistanceVoid"
+K0017 string   "NetworkCheck"
+K0018 string   "isnetworkowner"
+K0019 string   "task"
+K0020 string   "wait"
+K0021 number   0.1
+K0022 number   45
+K0023 number   77
+
+== prototype 41 depth=1 constants=25 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Entities"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "Humanoid"
+K0007 string   "FindFirstChild"
+K0008 string   "Health"
+K0009 int      0
+K0010 string   "WalkSpeed"
+K0011 string   "Position"
+K0012 string   "HumanoidRootPart"
+K0013 string   "Magnitude"
+K0014 string   "Value"
+K0015 string   "DistanceVoid"
+K0016 string   "NetworkCheck"
+K0017 string   "isnetworkowner"
+K0018 string   "JumpPower"
+K0019 string   "task"
+K0020 string   "wait"
+K0021 number   0.1
+K0022 number   29
+K0023 number   42
+K0024 number   78
+
+== prototype 42 depth=1 constants=7 ==
+K0000 string   "sethiddenproperty"
+K0001 string   "game"
+K0002 string   "LocalPlayer"
+K0003 string   "Players"
+K0004 string   "SimulationRadius"
+K0005 number   9000000000.0
+K0006 string   "MaxSimulationRadius"
+
+== prototype 43 depth=1 constants=24 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Entities"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "Humanoid"
+K0007 string   "FindFirstChild"
+K0008 string   "Health"
+K0009 int      0
+K0010 string   "Position"
+K0011 string   "HumanoidRootPart"
+K0012 string   "Magnitude"
+K0013 string   "Value"
+K0014 string   "DistanceGrabMax"
+K0015 string   "NetworkCheck"
+K0016 string   "isnetworkowner"
+K0017 string   "CFrame"
+K0018 string   "Vector3"
+K0019 string   "new"
+K0020 string   "DistanceGrab"
+K0021 string   "task"
+K0022 string   "wait"
+K0023 number   29
+
+== prototype 44 depth=1 constants=16 ==
+K0000 string   "WaitForChild"
+K0001 string   "Backpack"
+K0002 int      5
+K0003 string   "ipairs"
+K0004 string   "GetChildren"
+K0005 string   "Name"
+K0006 string   "ID$"
+K0007 string   "match"
+K0008 string   "uuid"
+K0009 string   "StringValue"
+K0010 string   "IsA"
+K0011 string   "ID"
+K0012 string   "GetAttribute"
+K0013 string   "Value"
+K0014 string   "Id"
+K0015 number   70
+
+== prototype 45 depth=1 constants=7 ==
+K0000 string   "ipairs"
+K0001 string   "getgc"
+K0002 boolean  true
+K0003 string   "type"
+K0004 string   "table"
+K0005 string   "pcall"
+K0006 number   27
+
+== prototype 46 depth=2 constants=10 ==
+K0000 string   "Data"
+K0001 string   "Slots"
+K0002 int      1
+K0003 string   "Player"
+K0004 string   "Items"
+K0005 string   "type"
+K0006 string   "table"
+K0007 number   8
+K0008 number   15
+K0009 number   26
+
+== prototype 47 depth=1 constants=0 ==
+
+== prototype 48 depth=1 constants=32 ==
+K0000 string   "Value"
+K0001 string   "itemRarities"
+K0002 string   ""
+K0003 string   "Notify"
+K0004 string   "Please select a rarity first."
+K0005 int      4
+K0006 string   "Failed to find player inventory data."
+K0007 string   "print"
+K0008 string   "──────────────────────────────────────────────"
+K0009 string   "Potential items to discard (rarity: "
+K0010 string   ")"
+K0011 int      0
+K0012 string   "pairs"
+K0013 string   "type"
+K0014 string   "table"
+K0015 string   "ipairs"
+K0016 string   "Id"
+K0017 string   "Data"
+K0018 string   "Rarity"
+K0019 string   "Unknown"
+K0020 int      1
+K0021 string   "Name"
+K0022 string   "Unnamed"
+K0023 string   "string"
+K0024 string   "format"
+K0025 string   "ID: %s   →   %s   (category: %s)"
+K0026 string   "Found "
+K0027 string   " items matching rarity: "
+K0028 string   "Check console → "
+K0029 string   " potential items listed."
+K0030 int      5
+K0031 number   121
+
+== prototype 49 depth=1 constants=37 ==
+K0000 string   "Value"
+K0001 string   "itemRarities"
+K0002 string   ""
+K0003 string   "Notify"
+K0004 string   "Please select a rarity first."
+K0005 int      4
+K0006 string   "Cannot find inventory data. Aborted."
+K0007 int      5
+K0008 int      0
+K0009 number   0.4
+K0010 string   "Starting discard of "
+K0011 string   " items..."
+K0012 string   "pairs"
+K0013 string   "type"
+K0014 string   "table"
+K0015 int      1
+K0016 number   -1
+K0017 string   "Id"
+K0018 string   "Data"
+K0019 string   "Rarity"
+K0020 string   "Name"
+K0021 string   "Unknown Item"
+K0022 string   "RemoteEvent"
+K0023 string   "Network"
+K0024 string   "Framework"
+K0025 string   "Files"
+K0026 string   "FireServer"
+K0027 string   "Event"
+K0028 string   "DiscardItem"
+K0029 string   "Args"
+K0030 string   "ID"
+K0031 string   "task"
+K0032 string   "wait"
+K0033 string   "Finished! Discarded "
+K0034 string   " items."
+K0035 int      6
+K0036 number   8
+
+== prototype 50 depth=1 constants=16 ==
+K0000 string   "game"
+K0001 string   "ReplicatedStorage"
+K0002 string   "GetService"
+K0003 string   "RemoteEvent"
+K0004 string   "Network"
+K0005 string   "Framework"
+K0006 string   "Files"
+K0007 string   "FireServer"
+K0008 string   "Event"
+K0009 string   "Name"
+K0010 string   "SettingsEvent"
+K0011 string   "Args"
+K0012 string   "Type"
+K0013 string   "Keybinds"
+K0014 string   "Value1"
+K0015 string   "ÿ"
+
+== prototype 51 depth=1 constants=0 ==
+
+== prototype 52 depth=1 constants=13 ==
+K0000 string   "Value"
+K0001 string   "autoEat"
+K0002 string   "eatList"
+K0003 string   "FindFirstChild"
+K0004 string   "Activate"
+K0005 string   "Backpack"
+K0006 string   "Parent"
+K0007 string   "task"
+K0008 string   "wait"
+K0009 number   0.1
+K0010 string   "print"
+K0011 string   "the item is no more"
+K0012 number   81
+
+== prototype 53 depth=1 constants=0 ==
+
+== prototype 54 depth=1 constants=16 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Dialog"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Model"
+K0006 string   "IsA"
+K0007 string   "table"
+K0008 string   "insert"
+K0009 string   "Name"
+K0010 string   "sort"
+K0011 string   "npcList"
+K0012 string   "SetValues"
+K0013 string   "Notify"
+K0014 string   "Found "
+K0015 string   " Npc(s)"
+
+== prototype 55 depth=1 constants=15 ==
+K0000 string   "Value"
+K0001 string   "npcList"
+K0002 string   "workspace"
+K0003 string   "Dialog"
+K0004 string   "World"
+K0005 string   "FindFirstChild"
+K0006 string   "CFrame"
+K0007 string   "new"
+K0008 string   "GetPivot"
+K0009 string   "Position"
+K0010 string   "Vector3"
+K0011 int      0
+K0012 int      5
+K0013 string   "Notify"
+K0014 string   "Select an npc first"
+
+== prototype 56 depth=1 constants=41 ==
+K0000 string   "game"
+K0001 string   "Players"
+K0002 string   "GetService"
+K0003 string   "Visible"
+K0004 string   "Lootboxes"
+K0005 string   "Phone"
+K0006 string   "HUD"
+K0007 string   "PlayerGui"
+K0008 string   "LocalPlayer"
+K0009 boolean  true
+K0010 boolean  false
+K0011 string   "List"
+K0012 string   "Lootbox"
+K0013 string   "OnScreenEffects"
+K0014 string   "ScrollingFrame"
+K0015 string   "FindFirstChild"
+K0016 string   "LootboxRemote"
+K0017 string   "ReplicatedStorage"
+K0018 string   "RemoteFunction"
+K0019 string   "Network"
+K0020 string   "Framework"
+K0021 string   "Files"
+K0022 string   "pairs"
+K0023 string   "GetChildren"
+K0024 string   "Name"
+K0025 string   "UIListLayout"
+K0026 string   "FireServer"
+K0027 string   "Take"
+K0028 string   "tostring"
+K0029 string   "task"
+K0030 string   "wait"
+K0031 number   0.1
+K0032 int      1
+K0033 string   "pcall"
+K0034 string   "print"
+K0035 string   "Opened box:"
+K0036 int      3
+K0037 number   0.5
+K0038 number   25
+K0039 number   149
+K0040 number   204
+
+== prototype 57 depth=2 constants=3 ==
+K0000 string   "InvokeServer"
+K0001 string   "RequestLootboxOpen"
+K0002 string   "Default"
+
+== prototype 58 depth=1 constants=13 ==
+K0000 string   "game"
+K0001 string   "ReplicatedStorage"
+K0002 string   "GetService"
+K0003 string   "UnreliableRemoteEvent"
+K0004 string   "Network"
+K0005 string   "Framework"
+K0006 string   "Files"
+K0007 string   "FireServer"
+K0008 string   "M1"
+K0009 string   "task"
+K0010 string   "wait"
+K0011 number   0.2
+K0012 number   1
+
+== prototype 59 depth=1 constants=12 ==
+K0000 string   "game"
+K0001 string   "ReplicatedStorage"
+K0002 string   "GetService"
+K0003 string   "UnreliableRemoteEvent"
+K0004 string   "Network"
+K0005 string   "Framework"
+K0006 string   "Files"
+K0007 string   "FireServer"
+K0008 string   "Critical"
+K0009 string   "task"
+K0010 string   "wait"
+K0011 int      5
+
+== prototype 60 depth=1 constants=20 ==
+K0000 boolean  false
+K0001 string   "pairs"
+K0002 string   "GetChildren"
+K0003 string   "Name"
+K0004 string   "Weapon"
+K0005 boolean  true
+K0006 string   "game"
+K0007 string   "ReplicatedStorage"
+K0008 string   "GetService"
+K0009 string   "RemoteEvent"
+K0010 string   "Network"
+K0011 string   "Framework"
+K0012 string   "Files"
+K0013 string   "FireServer"
+K0014 string   "Event"
+K0015 string   "WeaponInteract"
+K0016 string   "task"
+K0017 string   "wait"
+K0018 int      1
+K0019 number   22
+
+== prototype 61 depth=1 constants=23 ==
+K0000 string   "game"
+K0001 string   "ReplicatedStorage"
+K0002 string   "GetService"
+K0003 string   "RemoteEvent"
+K0004 string   "Network"
+K0005 string   "Framework"
+K0006 string   "Files"
+K0007 string   "FireServer"
+K0008 string   "Event"
+K0009 string   "Name"
+K0010 string   "SettingsEvent"
+K0011 string   "Args"
+K0012 string   "Value"
+K0013 int      0
+K0014 string   "Type"
+K0015 string   "SoundVolume"
+K0016 string   "Dash"
+K0017 boolean  true
+K0018 string   "task"
+K0019 string   "wait"
+K0020 number   0.2
+K0021 int      100
+K0022 number   21
+
+== prototype 62 depth=1 constants=27 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Entities"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Knocked"
+K0006 string   "GetAttribute"
+K0007 string   "Position"
+K0008 string   "HumanoidRootPart"
+K0009 string   "Magnitude"
+K0010 int      10
+K0011 string   "Carrying"
+K0012 string   "game"
+K0013 string   "ReplicatedStorage"
+K0014 string   "GetService"
+K0015 string   "RemoteEvent"
+K0016 string   "Network"
+K0017 string   "Framework"
+K0018 string   "Files"
+K0019 string   "FireServer"
+K0020 string   "Event"
+K0021 string   "Name"
+K0022 string   "Carry"
+K0023 string   "task"
+K0024 string   "wait"
+K0025 int      2
+K0026 number   1
+
+== prototype 63 depth=1 constants=26 ==
+K0000 string   "pairs"
+K0001 string   "workspace"
+K0002 string   "Entities"
+K0003 string   "World"
+K0004 string   "GetChildren"
+K0005 string   "Knocked"
+K0006 string   "GetAttribute"
+K0007 string   "Position"
+K0008 string   "HumanoidRootPart"
+K0009 string   "Magnitude"
+K0010 int      10
+K0011 string   "PerformingGrip"
+K0012 string   "game"
+K0013 string   "ReplicatedStorage"
+K0014 string   "GetService"
+K0015 string   "RemoteEvent"
+K0016 string   "Network"
+K0017 string   "Framework"
+K0018 string   "Files"
+K0019 string   "FireServer"
+K0020 string   "Event"
+K0021 string   "Name"
+K0022 string   "Grip"
+K0023 string   "task"
+K0024 string   "wait"
+K0025 int      2
+
+== prototype 64 depth=1 constants=25 ==
+K0000 string   "Value"
+K0001 string   "AutoSurgery"
+K0002 string   "pairs"
+K0003 string   "workspace"
+K0004 string   "Entities"
+K0005 string   "World"
+K0006 string   "GetChildren"
+K0007 string   "Knocked"
+K0008 string   "GetAttribute"
+K0009 string   "Position"
+K0010 string   "HumanoidRootPart"
+K0011 string   "Magnitude"
+K0012 int      10
+K0013 string   "PerformingGrip"
+K0014 string   "Surgery Kit"
+K0015 string   "FinFirstChild"
+K0016 string   "Activate"
+K0017 string   "Backpack"
+K0018 string   "FindFirstChild"
+K0019 string   "Parent"
+K0020 string   "task"
+K0021 string   "wait"
+K0022 int      2
+K0023 number   65
+K0024 number   0
+
+== prototype 65 depth=1 constants=8 ==
+K0000 string   "game"
+K0001 string   "Players"
+K0002 string   "GetService"
+K0003 string   "Enabled"
+K0004 string   "PawnShop"
+K0005 string   "PlayerGui"
+K0006 string   "LocalPlayer"
+K0007 boolean  true
+
+== prototype 66 depth=1 constants=8 ==
+K0000 string   "game"
+K0001 string   "Players"
+K0002 string   "GetService"
+K0003 string   "Enabled"
+K0004 string   "Blackmarket"
+K0005 string   "PlayerGui"
+K0006 string   "LocalPlayer"
+K0007 boolean  true
+
+== prototype 67 depth=1 constants=8 ==
+K0000 string   "game"
+K0001 string   "Players"
+K0002 string   "GetService"
+K0003 string   "Enabled"
+K0004 string   "CraftingMenu"
+K0005 string   "PlayerGui"
+K0006 string   "LocalPlayer"
+K0007 boolean  true
+
+== prototype 68 depth=1 constants=15 ==
+K0000 string   "FindFirstChild"
+K0001 string   "Value"
+K0002 string   "playerListFarm"
+K0003 string   "Backpack"
+K0004 string   "pairs"
+K0005 string   "GetChildren"
+K0006 string   "table"
+K0007 string   "insert"
+K0008 string   "Name"
+K0009 string   "sort"
+K0010 string   "InventoryViewer"
+K0011 string   "SetValues"
+K0012 string   "Notify"
+K0013 string   "Found "
+K0014 string   " Items"
+
+== prototype 69 depth=1 constants=11 ==
+K0000 string   "pairs"
+K0001 string   "GetPlayers"
+K0002 string   "table"
+K0003 string   "insert"
+K0004 string   "Name"
+K0005 string   "sort"
+K0006 string   "playerListFarm"
+K0007 string   "SetValues"
+K0008 string   "Notify"
+K0009 string   "Found "
+K0010 string   " Players"
+
+== prototype 70 depth=1 constants=14 ==
+K0000 string   "FindFirstChild"
+K0001 string   "Value"
+K0002 string   "playerListFarm"
+K0003 string   "Character"
+K0004 string   "HumanoidRootPart"
+K0005 string   "CFrame"
+K0006 string   "lookAt"
+K0007 string   "Position"
+K0008 string   "Vector3"
+K0009 string   "new"
+K0010 int      0
+K0011 string   "distanceFarmPlayer"
+K0012 string   "task"
+K0013 string   "wait"
+
+== prototype 71 depth=1 constants=3 ==
+K0000 string   "Disconnect"
+K0001 string   "Stepped"
+K0002 string   "Connect"
+
+== prototype 72 depth=2 constants=8 ==
+K0000 string   "Character"
+K0001 string   "LocalPlayer"
+K0002 string   "pairs"
+K0003 string   "GetDescendants"
+K0004 string   "BasePart"
+K0005 string   "IsA"
+K0006 string   "CanCollide"
+K0007 boolean  false
+
+== prototype 73 depth=1 constants=9 ==
+K0000 string   "Value"
+K0001 string   "walkspeed"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 number   0.1
+K0005 string   "WalkSpeed"
+K0006 string   "WalkSpeedSlider"
+K0007 int      30
+K0008 number   32
+
+== prototype 74 depth=1 constants=11 ==
+K0000 boolean  false
+K0001 string   "Disconnect"
+K0002 string   "Destroy"
+K0003 string   "pairs"
+K0004 string   "Enum"
+K0005 string   "HumanoidStateType"
+K0006 string   "GetEnumItems"
+K0007 string   "None"
+K0008 string   "SetStateEnabled"
+K0009 boolean  true
+K0010 number   63
+
+== prototype 75 depth=1 constants=21 ==
+K0000 boolean  true
+K0001 string   "Instance"
+K0002 string   "new"
+K0003 string   "BodyVelocity"
+K0004 string   "Velocity"
+K0005 string   "Vector3"
+K0006 string   "zero"
+K0007 string   "MaxForce"
+K0008 number   9000000000.0
+K0009 string   "Parent"
+K0010 string   "BodyGyro"
+K0011 string   "MaxTorque"
+K0012 string   "pairs"
+K0013 string   "Enum"
+K0014 string   "HumanoidStateType"
+K0015 string   "GetEnumItems"
+K0016 string   "None"
+K0017 string   "SetStateEnabled"
+K0018 boolean  false
+K0019 string   "Heartbeat"
+K0020 string   "Connect"
+
+== prototype 76 depth=2 constants=27 ==
+K0000 string   "workspace"
+K0001 string   "CurrentCamera"
+K0002 string   "Vector3"
+K0003 string   "zero"
+K0004 string   "game"
+K0005 string   "GetService"
+K0006 string   "UserInputService"
+K0007 string   "Enum"
+K0008 string   "W"
+K0009 string   "KeyCode"
+K0010 string   "IsKeyDown"
+K0011 string   "LookVector"
+K0012 string   "CFrame"
+K0013 string   "S"
+K0014 string   "A"
+K0015 string   "RightVector"
+K0016 string   "D"
+K0017 string   "Space"
+K0018 string   "new"
+K0019 int      0
+K0020 int      1
+K0021 string   "LeftControl"
+K0022 string   "Velocity"
+K0023 string   "Magnitude"
+K0024 string   "Unit"
+K0025 number   7
+K0026 number   70
+
+== prototype 77 depth=1 constants=0 ==
+
+== prototype 78 depth=1 constants=3 ==
+K0000 string   "Fly"
+K0001 string   "SetValue"
+K0002 string   "Value"
+
+== prototype 79 depth=1 constants=0 ==
+
+== prototype 80 depth=1 constants=10 ==
+K0000 string   "AntiVoid"
+K0001 string   "Value"
+K0002 string   "Y"
+K0003 string   "Position"
+K0004 number   -100
+K0005 string   "CFrame"
+K0006 string   "Vector3"
+K0007 string   "new"
+K0008 int      0
+K0009 int      200
+
+== prototype 81 depth=1 constants=2 ==
+K0000 string   "Enabled"
+K0001 string   "Options"
+
+== prototype 82 depth=1 constants=2 ==
+K0000 string   "TeamCheck"
+K0001 string   "Options"
+
+== prototype 83 depth=1 constants=2 ==
+K0000 string   "Boxes"
+K0001 string   "Options"
+
+== prototype 84 depth=1 constants=2 ==
+K0000 string   "BoxType"
+K0001 string   "Options"
+
+== prototype 85 depth=1 constants=2 ==
+K0000 string   "Healthbar"
+K0001 string   "Options"
+
+== prototype 86 depth=1 constants=2 ==
+K0000 string   "Healthbar_Position"
+K0001 string   "Options"
+
+== prototype 87 depth=1 constants=5 ==
+K0000 string   "Healthbar_High"
+K0001 string   "Options"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 88 depth=1 constants=5 ==
+K0000 string   "Healthbar_Medium"
+K0001 string   "Options"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 89 depth=1 constants=5 ==
+K0000 string   "Healthbar_Low"
+K0001 string   "Options"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 90 depth=1 constants=2 ==
+K0000 string   "Healthbar_Thickness"
+K0001 string   "Options"
+
+== prototype 91 depth=1 constants=2 ==
+K0000 string   "PostureBar"
+K0001 string   "Options"
+
+== prototype 92 depth=1 constants=2 ==
+K0000 string   "PostureBar_Position"
+K0001 string   "Options"
+
+== prototype 93 depth=1 constants=5 ==
+K0000 string   "PostureBar_Color"
+K0001 string   "Options"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 94 depth=1 constants=2 ==
+K0000 string   "PostureBar_Width"
+K0001 string   "Options"
+
+== prototype 95 depth=1 constants=2 ==
+K0000 string   "Name_Text"
+K0001 string   "Options"
+
+== prototype 96 depth=1 constants=3 ==
+K0000 string   "Name_Text_Color"
+K0001 string   "Options"
+K0002 string   "Color"
+
+== prototype 97 depth=1 constants=2 ==
+K0000 string   "Name_Text_Size"
+K0001 string   "Options"
+
+== prototype 98 depth=1 constants=2 ==
+K0000 string   "Rank_Text"
+K0001 string   "Options"
+
+== prototype 99 depth=1 constants=2 ==
+K0000 string   "Weapon_Text"
+K0001 string   "Options"
+
+== prototype 100 depth=1 constants=3 ==
+K0000 string   "Weapon_Text_Color"
+K0001 string   "Options"
+K0002 string   "Color"
+
+== prototype 101 depth=1 constants=2 ==
+K0000 string   "Weapon_Text_Size"
+K0001 string   "Options"
+
+== prototype 102 depth=1 constants=2 ==
+K0000 string   "Distance_Text"
+K0001 string   "Options"
+
+== prototype 103 depth=1 constants=3 ==
+K0000 string   "Distance_Text_Color"
+K0001 string   "Options"
+K0002 string   "Color"
+
+== prototype 104 depth=1 constants=2 ==
+K0000 string   "Distance_Text_Size"
+K0001 string   "Options"
+
+== prototype 105 depth=1 constants=2 ==
+K0000 string   "Skeleton"
+K0001 string   "Options"
+
+== prototype 106 depth=1 constants=5 ==
+K0000 string   "Skeleton_Color"
+K0001 string   "Options"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 107 depth=1 constants=2 ==
+K0000 string   "Skeleton_Thickness"
+K0001 string   "Options"
+
+== prototype 108 depth=1 constants=2 ==
+K0000 string   "Chams"
+K0001 string   "Options"
+
+== prototype 109 depth=1 constants=6 ==
+K0000 string   "Transparency"
+K0001 string   "Chams_Fill_Color"
+K0002 string   "Options"
+K0003 number   0.5
+K0004 string   "Color"
+K0005 number   8
+
+== prototype 110 depth=1 constants=9 ==
+K0000 string   "Color"
+K0001 string   "Chams_Fill_Color"
+K0002 string   "Options"
+K0003 string   "Color3"
+K0004 string   "fromRGB"
+K0005 int      170
+K0006 int      110
+K0007 int      255
+K0008 string   "Transparency"
+
+== prototype 111 depth=1 constants=2 ==
+K0000 string   "Enabled"
+K0001 string   "MobOptions"
+
+== prototype 112 depth=1 constants=2 ==
+K0000 string   "Boxes"
+K0001 string   "MobOptions"
+
+== prototype 113 depth=1 constants=2 ==
+K0000 string   "BoxType"
+K0001 string   "MobOptions"
+
+== prototype 114 depth=1 constants=2 ==
+K0000 string   "Healthbar"
+K0001 string   "MobOptions"
+
+== prototype 115 depth=1 constants=2 ==
+K0000 string   "Healthbar_Position"
+K0001 string   "MobOptions"
+
+== prototype 116 depth=1 constants=5 ==
+K0000 string   "Healthbar_High"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 117 depth=1 constants=5 ==
+K0000 string   "Healthbar_Medium"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 118 depth=1 constants=5 ==
+K0000 string   "Healthbar_Low"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+K0003 string   "Transparency"
+K0004 int      0
+
+== prototype 119 depth=1 constants=2 ==
+K0000 string   "Healthbar_Thickness"
+K0001 string   "MobOptions"
+
+== prototype 120 depth=1 constants=2 ==
+K0000 string   "Name_Text"
+K0001 string   "MobOptions"
+
+== prototype 121 depth=1 constants=3 ==
+K0000 string   "Name_Text_Color"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+
+== prototype 122 depth=1 constants=2 ==
+K0000 string   "Name_Text_Size"
+K0001 string   "MobOptions"
+
+== prototype 123 depth=1 constants=2 ==
+K0000 string   "Distance_Text"
+K0001 string   "MobOptions"
+
+== prototype 124 depth=1 constants=3 ==
+K0000 string   "Distance_Text_Color"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+
+== prototype 125 depth=1 constants=2 ==
+K0000 string   "Distance_Text_Size"
+K0001 string   "MobOptions"
+
+== prototype 126 depth=1 constants=2 ==
+K0000 string   "Chams"
+K0001 string   "MobOptions"
+
+== prototype 127 depth=1 constants=9 ==
+K0000 string   "Chams_Fill_Color"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+K0003 string   "Color3"
+K0004 string   "fromRGB"
+K0005 int      255
+K0006 int      50
+K0007 string   "Transparency"
+K0008 number   0.5
+
+== prototype 128 depth=1 constants=10 ==
+K0000 string   "Chams_Fill_Color"
+K0001 string   "MobOptions"
+K0002 string   "Color"
+K0003 string   "Color3"
+K0004 string   "fromRGB"
+K0005 int      255
+K0006 int      50
+K0007 string   "Transparency"
+K0008 number   0.5
+K0009 number   18
+
+== prototype 129 depth=1 constants=24 ==
+K0000 string   "Options"
+K0001 string   "MobOptions"
+K0002 string   "Enabled"
+K0003 boolean  false
+K0004 string   "TeamCheck"
+K0005 string   "Boxes"
+K0006 boolean  true
+K0007 string   "BoxType"
+K0008 string   "Corner"
+K0009 string   "Healthbar"
+K0010 string   "Healthbar_Position"
+K0011 string   "Left"
+K0012 string   "PostureBar"
+K0013 string   "PostureBar_Position"
+K0014 string   "Right"
+K0015 string   "Name_Text"
+K0016 string   "Name_Text_Size"
+K0017 int      11
+K0018 string   "Rank_Text"
+K0019 string   "Weapon_Text"
+K0020 string   "Distance_Text"
+K0021 string   "Distance_Text_Size"
+K0022 string   "Skeleton"
+K0023 string   "Chams"
+
+== prototype 130 depth=1 constants=12 ==
+K0000 boolean  true
+K0001 string   "FireServer"
+K0002 string   "Event"
+K0003 string   "Name"
+K0004 string   "Block"
+K0005 string   "task"
+K0006 string   "wait"
+K0007 string   "Value"
+K0008 string   "HoldParry"
+K0009 string   "Unblock"
+K0010 string   "DelayDebounce"
+K0011 boolean  false
+
+== prototype 131 depth=1 constants=26 ==
+K0000 string   "Value"
+K0001 string   "AutoParry"
+K0002 string   "AnimationId"
+K0003 string   "Animation"
+K0004 int      0
+K0005 string   "Character"
+K0006 string   "FindFirstChild"
+K0007 string   "HumanoidRootPart"
+K0008 string   "Position"
+K0009 string   "Magnitude"
+K0010 string   "DistanceParry"
+K0011 string   "AnimationPercent"
+K0012 string   "notificationParry"
+K0013 string   "???"
+K0014 string   "string"
+K0015 string   "format"
+K0016 string   "Parrying %s  |  %s  |  dist: %d  |  wait: %.3f"
+K0017 string   "Name"
+K0018 string   "math"
+K0019 string   "floor"
+K0020 string   "Notify"
+K0021 number   2.5
+K0022 string   "task"
+K0023 string   "delay"
+K0024 number   23
+K0025 number   27
+
+== prototype 132 depth=1 constants=3 ==
+K0000 string   "Character"
+K0001 string   "CharacterAdded"
+K0002 string   "Connect"
+
+== prototype 133 depth=2 constants=5 ==
+K0000 string   "WaitForChild"
+K0001 string   "Humanoid"
+K0002 int      8
+K0003 string   "AnimationPlayed"
+K0004 string   "Connect"
+
+== prototype 134 depth=3 constants=0 ==
+
+== prototype 135 depth=1 constants=0 ==
+
+== prototype 136 depth=1 constants=23 ==
+K0000 string   "Value"
+K0001 string   "noCDX"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 string   "noCDXSpeed"
+K0005 string   "noCd"
+K0006 string   "DevilX"
+K0007 string   "game"
+K0008 string   "ReplicatedStorage"
+K0009 string   "GetService"
+K0010 string   "RemoteEvent"
+K0011 string   "Network"
+K0012 string   "Framework"
+K0013 string   "Files"
+K0014 string   "FireServer"
+K0015 string   "Event"
+K0016 string   "Name"
+K0017 string   "SkillController"
+K0018 string   "Args"
+K0019 string   "tostring"
+K0020 string   "End"
+K0021 string   "X"
+K0022 number   13
+
+== prototype 137 depth=1 constants=23 ==
+K0000 string   "Value"
+K0001 string   "noCDZ"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 string   "noCDZSpeed"
+K0005 string   "noCd"
+K0006 string   "DevilZ"
+K0007 string   "game"
+K0008 string   "ReplicatedStorage"
+K0009 string   "GetService"
+K0010 string   "RemoteEvent"
+K0011 string   "Network"
+K0012 string   "Framework"
+K0013 string   "Files"
+K0014 string   "FireServer"
+K0015 string   "Event"
+K0016 string   "Name"
+K0017 string   "SkillController"
+K0018 string   "Args"
+K0019 string   "tostring"
+K0020 string   "End"
+K0021 string   "Z"
+K0022 number   0
+
+== prototype 138 depth=1 constants=22 ==
+K0000 string   "Value"
+K0001 string   "noCDXC"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 string   "noCDCSpeed"
+K0005 string   "noCd"
+K0006 string   "DevilC"
+K0007 string   "game"
+K0008 string   "ReplicatedStorage"
+K0009 string   "GetService"
+K0010 string   "RemoteEvent"
+K0011 string   "Network"
+K0012 string   "Framework"
+K0013 string   "Files"
+K0014 string   "FireServer"
+K0015 string   "Event"
+K0016 string   "Name"
+K0017 string   "SkillController"
+K0018 string   "Args"
+K0019 string   "tostring"
+K0020 string   "End"
+K0021 string   "C"
+
+== prototype 139 depth=1 constants=2 ==
+K0000 string   "task"
+K0001 string   "spawn"
+
+== prototype 140 depth=2 constants=20 ==
+K0000 string   "Value"
+K0001 string   "noCdSkillsMaster"
+K0002 string   "task"
+K0003 string   "wait"
+K0004 string   ""
+K0005 string   "game"
+K0006 string   "ReplicatedStorage"
+K0007 string   "GetService"
+K0008 string   "RemoteEvent"
+K0009 string   "Network"
+K0010 string   "Framework"
+K0011 string   "Files"
+K0012 string   "FireServer"
+K0013 string   "Event"
+K0014 string   "Name"
+K0015 string   "SkillController"
+K0016 string   "Args"
+K0017 string   "tostring"
+K0018 string   "End"
+K0019 number   0
+
+== prototype 141 depth=1 constants=2 ==
+K0000 string   "task"
+K0001 string   "spawn"
+
+== prototype 142 depth=2 constants=7 ==
+K0000 boolean  true
+K0001 string   "task"
+K0002 string   "wait"
+K0003 int      5
+K0004 string   "pcall"
+K0005 number   10
+K0006 number   0
+
+== prototype 143 depth=3 constants=32 ==
+K0000 string   "hookfunction"
+K0001 string   "checkcaller"
+K0002 string   "setmetatable"
+K0003 string   "__tostring"
+K0004 string   "__index"
+K0005 string   "Instance"
+K0006 string   "new"
+K0007 string   "RemoteEvent"
+K0008 string   "FireServer"
+K0009 string   "getrawmetatable"
+K0010 string   "game"
+K0011 string   "__namecall"
+K0012 string   "pcall"
+K0013 string   "string"
+K0014 string   "char"
+K0015 int      92
+K0016 string   "("
+K0017 string   "%d+"
+K0018 string   ")"
+K0019 string   "%((%d+)%)"
+K0020 string   "ipairs"
+K0021 string   "find"
+K0022 string   "sub"
+K0023 string   "tonumber"
+K0024 string   "match"
+K0025 int      0
+K0026 string   "Kick"
+K0027 string   "Skidder Stop Skidding"
+K0028 int      10
+K0029 number   113
+K0030 number   122
+K0031 number   133
+
+== prototype 144 depth=4 constants=1 ==
+K0000 boolean  false
+
+== prototype 145 depth=4 constants=2 ==
+K0000 string   "Kick"
+K0001 string   "Skidder Stop Skidding"
+
+== prototype 146 depth=4 constants=2 ==
+K0000 string   "Kick"
+K0001 string   "Skidder Stop Skidding"
+
+== prototype 147 depth=1 constants=2 ==
+K0000 string   "Visible"
+K0001 string   "KeybindFrame"
+
+== prototype 148 depth=1 constants=1 ==
+K0000 string   "ShowCustomCursor"
+
+== prototype 149 depth=1 constants=1 ==
+K0000 string   "Unload"
+
+== prototype 150 depth=1 constants=9 ==
+K0000 int      0
+K0001 string   "next"
+K0002 string   "Value"
+K0003 string   "MissionModifiers"
+K0004 int      1
+K0005 int      2
+K0006 string   "SetValue"
+K0007 string   "Notify"
+K0008 string   "You can only select 2 modifiers!"
+
+== prototype 151 depth=1 constants=2 ==
+K0000 string   "task"
+K0001 string   "spawn"
+
+== prototype 152 depth=2 constants=16 ==
+K0000 string   "pcall"
+K0001 string   "pairs"
+K0002 string   "type"
+K0003 string   "string"
+K0004 string   "table"
+K0005 string   "insert"
+K0006 string   "sort"
+K0007 int      0
+K0008 string   "MissionLocation"
+K0009 string   "SetValues"
+K0010 string   "SetValue"
+K0011 int      1
+K0012 string   "Notify"
+K0013 string   "No locations found for "
+K0014 string   "tostring"
+K0015 string   "Failed to fetch locations (Network Error)"
+
+== prototype 153 depth=3 constants=2 ==
+K0000 string   "InvokeServer"
+K0001 string   "RequestLocationData"
+
+== prototype 154 depth=1 constants=28 ==
+K0000 boolean  true
+K0001 string   "Value"
+K0002 string   "AutoFarm"
+K0003 string   "FarmMode"
+K0004 string   "Create"
+K0005 string   "MissionType"
+K0006 string   "MissionLocation"
+K0007 string   "pairs"
+K0008 string   "MissionModifiers"
+K0009 string   "table"
+K0010 string   "insert"
+K0011 string   "pcall"
+K0012 string   "Not in range of signal tower"
+K0013 string   "CFrame"
+K0014 string   "new"
+K0015 number   -741
+K0016 int      6
+K0017 int      188
+K0018 string   "task"
+K0019 string   "wait"
+K0020 int      3
+K0021 int      1
+K0022 string   "MissionDelay"
+K0023 string   "Intercept"
+K0024 string   "InterceptDelay"
+K0025 number   39
+K0026 number   85
+K0027 number   0
+
+== prototype 155 depth=2 constants=7 ==
+K0000 string   "InvokeServer"
+K0001 string   "OverworldMissions"
+K0002 string   "Identification"
+K0003 string   "Conditions"
+K0004 string   "Directive"
+K0005 string   "Request"
+K0006 string   "Engage"
+
+== prototype 156 depth=1 constants=2 ==
+K0000 string   "Unloaded"
+K0001 boolean  true
